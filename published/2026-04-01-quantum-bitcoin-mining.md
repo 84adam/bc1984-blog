@@ -1,0 +1,37 @@
+---
+title: Quantum Bitcoin Mining
+slug: quantum-bitcoin-mining
+status: published
+type: post
+date: '2026-04-01'
+updated: '2026-04-01'
+author: bc1984adam
+canonical: https://bc1984.com/quantum-bitcoin-mining/
+feature_image: ../images/2026/04/old-antminer-s9.jpg
+---
+
+![Quantum Bitcoin Mining](../images/2026/04/old-antminer-s9.jpg)
+
+`AI;DR (AI; Didn't Read) -- Bitcoin mining is not likely susceptible to large-scale attacks or subversion by a Quantum Computer-wielding attacker in the next 20 years. If any breakthroughs happen to the point of threatening bitcoin, it will be against its elliptic curve-based signature scheme that guards the private keys behind a given public key where bitcoin is held by an individual. And those attacks would happen using Shor's algorithm more likely in that time frame, not Grover's algorithm which might theoretically be used to run SHA-256 mining faster. To read more on the topic of bitcoin private keys being vulnerable to quantum attacks, read my other post here: Quantum Feasibility.`
+
+`The majority of the response below was written by ChatGPT 5.4-Thinking. The prompt is my own.`
+
+## PROMPT
+
+In the next 10-20 years, is bitcoin mining potentially vulnerable to a Quantum Mining attack? What would be required technically to create a Cryptographically Relevant Quantum Computing (CRQC) system large and robust and fast enough to compete and mine even 0.1% to 1% of blocks regularly? If we extrapolate out along the vectors of the development of theory and practice of quantum computing, the trend in bitcoin mining hash rate, and the trend in bitcoin mining difficulty increases, how feasible is such a system to build within 10-20 years? We should take into account how much more hashrate/difficulty may increase in that time, of course. And consider how large and expensive it would be to build such a system. Could it conceivably be hidden in the world anywhere and secretly mine on average even 1 out of every 200 blocks for any significant amount of time?
+
+## RESPONSE FROM CHATGPT 5.4-THINKING
+
+A cryptographically relevant quantum computer capable of mining even 0.1% to 1% of Bitcoin blocks regularly would need to do far more than simply “run SHA-256 faster.” It would need a fault-tolerant, error-corrected architecture able to execute a reversible implementation of Bitcoin’s mining predicate -- effectively double-SHA-256 plus threshold comparison -- inside a Grover-style amplitude amplification loop. That means not just thousands or millions of physical qubits, but a very large number of logical qubits with low enough error rates, long enough coherence, fast enough gate times, and full quantum error correction running continuously. For mining, this machine would also need unusually high throughput, because Bitcoin mining is not a one-off cryptanalytic computation; it is a constantly expiring competitive race in which the candidate block header changes, the mempool changes, and another miner may win before your quantum search finishes. In practice, the machine would need to solve many fresh search instances quickly and repeatedly, not merely demonstrate a theoretical speedup once.
+
+The scaling challenge is severe because Grover only gives a quadratic improvement, while Bitcoin mining difficulty continues to track the total classical hashpower of the network. If the network requires roughly `N` effective hash trials for a successful block, a quantum miner needs on the order of `the square root of N` Grover iterations, but each iteration would be extraordinarily expensive: reversible double-SHA-256, comparison logic, ancilla management, and error-corrected depth all repeated many times. Meanwhile, Bitcoin’s hashrate and difficulty have historically trended upward over long periods, despite cyclical declines, driven by ASIC efficiency gains, deployment scale, and energy-market competition. So a quantum miner targeting 0.1%-1% of blocks in 10–20 years would not be competing against today’s network, but likely against a much larger one unless Bitcoin’s economics weaken dramatically. Even under optimistic assumptions about quantum hardware progress, the target keeps moving. This is why most serious analyses conclude that the bar for “economically relevant quantum mining” is far higher than the bar for “quantum threat to exposed signatures.”
+
+Using a best-educated-guess extrapolation from current trends, a plausible machine for this task would likely require at least millions to perhaps hundreds of millions of physical qubits, depending on hardware platform, physical error rates, gate fidelity, and the overhead of surface-code-style error correction. The logical qubit count needed for a mining oracle may be only a tiny fraction of that, but fault tolerance dominates the engineering burden. It would also require substantial classical control hardware, cryogenic or vacuum infrastructure depending on modality, error-decoding clusters, and enormous electrical and thermal support systems. In cost terms, this is unlikely to resemble a warehouse full of ASICs; it would look more like a frontier national-lab or hyperscale industrial physics facility, plausibly ranging from many billions to potentially tens of billions of dollars to develop and deploy if it had to be built within the next two decades. A state might attempt it; a private firm might contribute major components; but it is hard to picture as a garage-scale or even ordinary datacenter-scale project.
+
+My best estimate is that achieving such a system within 10 years is very unlikely, and within 20 years still doubtful, though not impossible if there are multiple major breakthroughs at once: lower-overhead error correction, much better physical qubit fidelities, faster gates, scalable fabrication, and practical reversible SHA-256 circuit optimization. The key issue is that Bitcoin mining is a very unfavorable use case for early fault-tolerant quantum machines: it demands industrial-rate repetition on a moving target, whereas the first economically important quantum applications are more likely to be high-value cryptanalysis, chemistry, optimization niches, or attacks on public-key systems where Shor gives a much stronger asymptotic advantage. If quantum computing progresses steadily but not miraculously, then over the next 10–20 years a machine capable of stealing coins from exposed public keys is more plausible than a machine able to mine 0.1%-1% of Bitcoin blocks competitively for profit.
+
+As for concealment: a truly competitive quantum mining installation at that level would probably be very difficult to hide completely. It would likely have distinctive supply chains, specialized fabrication dependencies, high-end cryogenics or laser systems, unusual power use, and a large team of physicists, engineers, and operators. A government black project could conceal the purpose better than a commercial actor could, and a small proof-of-concept quantum miner might be hidden more easily than a production-scale one. But a system large enough to mine Bitcoin at a statistically noticeable share of global block production would more likely resemble a strategic infrastructure asset than a secret room in a basement. So, conceivably yes in the loosest sense -- especially for a state-level actor -- it might be possible to hide, but not easily, not cheaply, and not with high confidence of remaining invisible for very long.
+
+## TAKEAWAY
+
+Focus on avoiding address reuse if you hold your own keys, and don't worry about a threat to bitcoin mining yet.
