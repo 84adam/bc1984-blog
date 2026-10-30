@@ -1,16 +1,4 @@
----
-title: Poor US Household Savings Strategies
-slug: lower-quartile-us-savings-strategies
-status: published
-type: post
-date: '2024-08-12'
-updated: '2024-08-12'
-author: bc1984adam
-canonical: https://bc1984.com/lower-quartile-us-savings-strategies/
-feature_image: ../images/2024/08/Screenshot_2024-08-12_15-02-48.png
----
-
-![Poor US Household Savings Strategies](../images/2024/08/Screenshot_2024-08-12_15-02-48.png)
+![Poor US Household Savings Strategies](/images/2024/08/Screenshot_2024-08-12_15-02-48.png)
 
 ***What does life look like for the poorest 25% of US households?***
 
@@ -51,7 +39,7 @@ Here’s a step-by-step approach:
 
 > "If the interest rate on your credit card is 25%, paying it off quickly could save you hundreds of dollars in interest."
 
-![](../images/2024/08/snav.png)
+![](/images/2024/08/snav.png)
 
 SNOWBALL or AVALANCHE?
 
@@ -70,7 +58,7 @@ SNOWBALL or AVALANCHE?
 
 > "An additional $200 per month from a side hustle can be directed toward your debt repayment and savings."
 
-![](../images/2024/08/sell-pokemon.png)
+![](/images/2024/08/sell-pokemon.png)
 
 Consider selling things on Facebook Marketplace.
 
@@ -92,7 +80,7 @@ Consider selling things on Facebook Marketplace.
 - Consistent Savings: Continue to save consistently, even after reaching your emergency fund goal.
 - Invest for the Future: Once you have a sufficient emergency fund, consider investments like Certificates of Deposit (CDs), gold, stock index funds (VTI), rental properties or bitcoin to grow your wealth over time.
 
-![](../images/2024/08/maxresdefault.jpg)
+![](/images/2024/08/maxresdefault.jpg)
 
 **The key to managing debt and building savings is discipline and consistent effort.** By focusing on paying off high-interest debt first, reducing unnecessary expenses, and gradually building an emergency fund, you can achieve greater financial security.
 
@@ -147,3 +135,17 @@ For discussion above, we chose **$3,500**, for a family in the lower quartile of
 ---
 
 *Best of luck*
+
+---
+
+---
+title: Poor US Household Savings Strategies
+slug: lower-quartile-us-savings-strategies
+status: published
+type: post
+date: '2024-08-12'
+updated: '2024-08-12'
+author: bc1984adam
+canonical: https://bc1984.com/lower-quartile-us-savings-strategies/
+feature_image: /images/2024/08/Screenshot_2024-08-12_15-02-48.png
+---

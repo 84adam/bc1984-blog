@@ -1,16 +1,4 @@
----
-title: THE UNIVERSE IS REAL
-slug: the-universe-is-real
-status: published
-type: post
-date: '2026-01-12'
-updated: '2026-01-12'
-author: bc1984adam
-canonical: https://bc1984.com/the-universe-is-real/
-feature_image: ../images/2026/01/maxresdefault--1-.jpg
----
-
-![THE UNIVERSE IS REAL](../images/2026/01/maxresdefault--1-.jpg)
+![THE UNIVERSE IS REAL](/images/2026/01/maxresdefault--1-.jpg)
 
 ## UBCO study debunks the idea that the universe is a computer simulation
 
@@ -35,13 +23,13 @@ The research hinges on a fascinating property of reality itself. Modern physics 
 
 This information exists in what physicists call a Platonic realm—a mathematical foundation more real than the physical universe we experience. It’s from this realm that space and time themselves emerge.
 
-![](../images/2026/01/plato-s-forms.jpg)
+![](/images/2026/01/plato-s-forms.jpg)
 
 Here’s where it gets interesting. The team demonstrated that even this information-based foundation cannot fully describe reality using computation alone. They used powerful mathematical theorems—including Gödel’s incompleteness theorem—to prove that a complete and consistent description of everything requires what they call “non-algorithmic understanding.”
 
 Think of it this way. A computer follows recipes, step by step, no matter how complex. But some truths can only be grasped through non-algorithmic understanding—understanding that doesn’t follow from any sequence of logical steps. These “Gödelian truths” are real, yet impossible to prove through computation.
 
-![](../images/2026/01/g-del-s-incompleteness-theorem-l.jpg)
+![](/images/2026/01/g-del-s-incompleteness-theorem-l.jpg)
 
 Here’s a basic example using the statement, “This true statement is not provable.” If it were provable, it would be false, making logic inconsistent. If it’s not provable, then it’s true, but that makes any system trying to prove it incomplete. Either way, pure computation fails.
 
@@ -57,7 +45,7 @@ Co-author Dr. Lawrence M. Krauss says this research has profound implications.
 
 “The fundamental laws of physics cannot be contained within space and time, because they generate them. It has long been hoped, however, that a truly fundamental theory of everything could eventually describe all physical phenomena through computations grounded in these laws. Yet we have demonstrated that this is not possible. A complete and consistent description of reality requires something deeper—a form of understanding known as non-algorithmic understanding.”
 
-![](../images/2026/01/plato_1_orig.jpg)
+![](/images/2026/01/plato_1_orig.jpg)
 
 The team’s conclusion is clear and marks an important scientific achievement, says Dr. Faizal.
 
@@ -254,6 +242,20 @@ We would like to thank İzzet Sakallı, Salman Sajad Wani, and Aatif Kaisar Khan
 
 ---
 
-![](../images/2026/01/27621505715_9e92de5108_b.jpg)
+![](/images/2026/01/27621505715_9e92de5108_b.jpg)
 
 ### Good luck!
+
+---
+
+---
+title: THE UNIVERSE IS REAL
+slug: the-universe-is-real
+status: published
+type: post
+date: '2026-01-12'
+updated: '2026-01-12'
+author: bc1984adam
+canonical: https://bc1984.com/the-universe-is-real/
+feature_image: /images/2026/01/maxresdefault--1-.jpg
+---

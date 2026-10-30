@@ -1,16 +1,4 @@
----
-title: Pardon Samourai Devs, Mr. President
-slug: pardon-samourai-devs-mr-president
-status: published
-type: post
-date: '2025-11-20'
-updated: '2025-11-20'
-author: bc1984adam
-canonical: https://bc1984.com/pardon-samourai-devs-mr-president/
-feature_image: ../images/2025/11/fs1.jpg
----
-
-![Pardon Samourai Devs, Mr. President](../images/2025/11/fs1.jpg)
+![Pardon Samourai Devs, Mr. President](/images/2025/11/fs1.jpg)
 
 `NOTE: SENT TO THE PRESIDENT ON NOVEMBER 20, 2025 VIA whitehouse.gov/contact`
 
@@ -48,6 +36,20 @@ Thank you for your attention to this matter!
 
 ---
 
-![](../images/2025/11/k-and-b.jpg)
+![](/images/2025/11/k-and-b.jpg)
 
 ## `>>>` Visit [billandkeonne.org](https://billandkeonne.org/) today! `<<<`
+
+---
+
+---
+title: Pardon Samourai Devs, Mr. President
+slug: pardon-samourai-devs-mr-president
+status: published
+type: post
+date: '2025-11-20'
+updated: '2025-11-20'
+author: bc1984adam
+canonical: https://bc1984.com/pardon-samourai-devs-mr-president/
+feature_image: /images/2025/11/fs1.jpg
+---

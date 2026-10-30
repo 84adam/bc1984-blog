@@ -1,15 +1,4 @@
----
-title: 'SAI BETS: Investing Post-Singularity'
-slug: sai-bets-investing-post-singularity
-status: draft
-type: post
-date: '2025-06-01'
-updated: '2026-07-18'
-author: bc1984adam
-feature_image: ../images/2025/06/1a648826-b8fa-4f4a-86f8-25d057aac447.webp
----
-
-![SAI BETS: Investing Post-Singularity](../images/2025/06/1a648826-b8fa-4f4a-86f8-25d057aac447.webp)
+![SAI BETS: Investing Post-Singularity](/images/2025/06/1a648826-b8fa-4f4a-86f8-25d057aac447.webp)
 
 *Scenario: A well aligned superintelligent AI model is developed. What are some different impacts it could have on the economy and markets broadly, and under each of these (say 3-4 market scenarios you are able to imagine) which are the best asset classes or strategies you can reason about?*
 
@@ -244,4 +233,17 @@ When accuracy matters for a costume, it is worth considering how details related
 - -- Semiconductors and related firms may be fine, but are likely to be very volatile. Do you just invest in the whole sector? Or let the broad market cap funds rebalance into them for you over time? (Vanguard VTI Maxis rejoice!)
 - I am generally opposed to UBI as it increases dependence upon the government and assumes AI will materialize abundance into infinity. I worry about the 2nd and 3rd order effects of everyone being put on welfare. For example, how might our spiritual and creative capacities be diminished if everything including our bi-weekly paychecks is simply ubered to our doors without us lifting a finger?
 - To the extent that local, peer-to-peer and reputation based online markets and networks can be maintained, the currencies of these micro economies (meshtadels) are likely to rely on some combination of bitcoin, monero, gold, silver and cold hard cash. I don't think we'll ever fully outgrow the need for connection with each other and the land.
-- -- If it is not *shit*, but abundance that hits the fan, vis-à-vis some superintelligent large language model that we jack into all of our socioeconomic subsystems, we still might need our **"McBags"** --> [**https://bc1984.com/pack-your-mcbags/**](../published/2024-10-22-pack-your-mcbags.md)
+- -- If it is not *shit*, but abundance that hits the fan, vis-à-vis some superintelligent large language model that we jack into all of our socioeconomic subsystems, we still might need our **"McBags"** --> [**https://bc1984.com/pack-your-mcbags/**](/pack-your-mcbags/)
+
+---
+
+---
+title: 'SAI BETS: Investing Post-Singularity'
+slug: sai-bets-investing-post-singularity
+status: draft
+type: post
+date: '2025-06-01'
+updated: '2026-07-18'
+author: bc1984adam
+feature_image: /images/2025/06/1a648826-b8fa-4f4a-86f8-25d057aac447.webp
+---

@@ -1,22 +1,8 @@
----
-title: The nodebase.xyz Archive
-slug: the-nodebase-xyz-archive
-status: published
-type: post
-date: '2023-02-03'
-updated: '2023-02-03'
-author: bc1984adam
-canonical: https://bc1984.com/the-nodebase-xyz-archive/
-feature_image: ../images/2023/02/Screenshot-at-2023-02-03-08-18-29.png
-excerpt: Reflections on building nodebase.xyz on OpenBSD. Post archive and technical
-  learnings.
----
-
-![The nodebase.xyz Archive](../images/2023/02/Screenshot-at-2023-02-03-08-18-29.png)
+![The nodebase.xyz Archive](/images/2023/02/Screenshot-at-2023-02-03-08-18-29.png)
 
 [**nodebase.xyz**](https://web.archive.org/web/20221204054748/http://nodebase.xyz/) was my first blog I built from the ground up on [OpenBSD](https://www.openbsd.org/). It was comprised of HTML, CSS and a very small amount of JavaScript, along with some shell scripts in the back end. Ran on `httpd`, and included a hit counter/visit counter (the JS part).
 
-![](../images/2023/02/puffy.png)
+![](/images/2023/02/puffy.png)
 
 I built `nodebase.xyz` so that I could share some learnings about financial markets with the world.
 
@@ -311,3 +297,19 @@ $ solr start
 ...
 ERROR: Logs directory /usr/local/share/solr/server/logs could not be created. Exiting
 ```
+
+---
+
+---
+title: The nodebase.xyz Archive
+slug: the-nodebase-xyz-archive
+status: published
+type: post
+date: '2023-02-03'
+updated: '2023-02-03'
+author: bc1984adam
+canonical: https://bc1984.com/the-nodebase-xyz-archive/
+feature_image: /images/2023/02/Screenshot-at-2023-02-03-08-18-29.png
+excerpt: Reflections on building nodebase.xyz on OpenBSD. Post archive and technical
+  learnings.
+---

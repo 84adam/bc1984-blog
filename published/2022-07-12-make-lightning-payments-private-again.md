@@ -1,18 +1,4 @@
----
-title: Make Lightning Payments Private Again (pLN)
-slug: make-lightning-payments-private-again
-status: published
-type: post
-date: '2022-07-12'
-updated: '2022-11-22'
-author: bc1984adam
-canonical: https://bc1984.com/make-lightning-payments-private-again/
-feature_image: ../images/2022/07/Screenshot-at-2022-07-12-09-33-17.png
-excerpt: pLN is a new wallet project that aims to make it easy for users to follow
-  the 'Happy Path' of making payments privately on lightning.
----
-
-![Make Lightning Payments Private Again (pLN)](../images/2022/07/Screenshot-at-2022-07-12-09-33-17.png)
+![Make Lightning Payments Private Again (pLN)](/images/2022/07/Screenshot-at-2022-07-12-09-33-17.png)
 
 Tony, on Citadel Dispatch episode 70: "[Using lightning privately with tony and @futurepaul](https://www.podpage.com/citadeldispatch/cd70-using-lightning-privately-with-tony-and-futurepaul/)":
 
@@ -92,3 +78,19 @@ I think this is an exciting new wallet and project that should help both with ed
 **-- UPDATE --**
 
 pLN has been renamed to Mutiny Wallet. Learn more at the official website: [https://mutinywallet.com](https://mutinywallet.com/).
+
+---
+
+---
+title: Make Lightning Payments Private Again (pLN)
+slug: make-lightning-payments-private-again
+status: published
+type: post
+date: '2022-07-12'
+updated: '2022-11-22'
+author: bc1984adam
+canonical: https://bc1984.com/make-lightning-payments-private-again/
+feature_image: /images/2022/07/Screenshot-at-2022-07-12-09-33-17.png
+excerpt: pLN is a new wallet project that aims to make it easy for users to follow
+  the 'Happy Path' of making payments privately on lightning.
+---

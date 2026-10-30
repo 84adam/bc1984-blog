@@ -1,16 +1,4 @@
----
-title: The Debt-Leverage-Gambling Complex
-slug: the-debt-leverage-gambling-complex
-status: published
-type: post
-date: '2024-04-01'
-updated: '2024-04-01'
-author: bc1984adam
-canonical: https://bc1984.com/the-debt-leverage-gambling-complex/
-feature_image: ../images/2024/04/pattern.jpeg
----
-
-![The Debt-Leverage-Gambling Complex](../images/2024/04/pattern.jpeg)
+![The Debt-Leverage-Gambling Complex](/images/2024/04/pattern.jpeg)
 
 Governments, Central Banks and Financial Media promote taking on excess debt and leverage. Collectively, they encourage gambling and speculation. These practices disproportionately hurt the poor and those lacking in financial knowledge and education. It gets even worse for those with a gambling addiction or impulse control problems.
 
@@ -86,3 +74,17 @@ Many Islamic and non-Islamic financial institutions and investors are using thes
 ---
 
 Hit me up if you have questions or comments.
+
+---
+
+---
+title: The Debt-Leverage-Gambling Complex
+slug: the-debt-leverage-gambling-complex
+status: published
+type: post
+date: '2024-04-01'
+updated: '2024-04-01'
+author: bc1984adam
+canonical: https://bc1984.com/the-debt-leverage-gambling-complex/
+feature_image: /images/2024/04/pattern.jpeg
+---

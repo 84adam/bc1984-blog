@@ -1,16 +1,4 @@
----
-title: Reverse Racism Examples
-slug: reverse-racism-examples
-status: published
-type: post
-date: '2024-03-29'
-updated: '2024-03-29'
-author: bc1984adam
-canonical: https://bc1984.com/reverse-racism-examples/
-feature_image: ../images/2024/03/cover2.jpg
----
-
-![Reverse Racism Examples](../images/2024/03/cover2.jpg)
+![Reverse Racism Examples](/images/2024/03/cover2.jpg)
 
 ### Notable cases of white people who were discriminated against in the US: **Robert Jordan, James Damore, David Duvall, Brian Walton, Shannon Phillips**
 
@@ -30,4 +18,18 @@ In 2022, a white female employee named **Shannon Phillips** sued Starbucks for $
 
 ### SOURCE:
 
-![](../images/2024/03/db7.jpg)
+![](/images/2024/03/db7.jpg)
+
+---
+
+---
+title: Reverse Racism Examples
+slug: reverse-racism-examples
+status: published
+type: post
+date: '2024-03-29'
+updated: '2024-03-29'
+author: bc1984adam
+canonical: https://bc1984.com/reverse-racism-examples/
+feature_image: /images/2024/03/cover2.jpg
+---

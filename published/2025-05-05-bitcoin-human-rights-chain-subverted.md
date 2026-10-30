@@ -1,16 +1,4 @@
----
-title: Bitcoin Human Rights Chain Being Subverted
-slug: bitcoin-human-rights-chain-subverted
-status: published
-type: post
-date: '2025-05-05'
-updated: '2025-07-02'
-author: bc1984adam
-canonical: https://bc1984.com/bitcoin-human-rights-chain-subverted/
-feature_image: ../images/2025/05/NoHate_03_1-300x199.webp
----
-
-![Bitcoin Human Rights Chain Being Subverted](../images/2025/05/NoHate_03_1-300x199.webp)
+![Bitcoin Human Rights Chain Being Subverted](/images/2025/05/NoHate_03_1-300x199.webp)
 
 `[ AI SLOP POST TRIGGER WARNING || SATIRE ]`
 
@@ -33,3 +21,17 @@ Critical analysis reveals the veracity of these claims. OP\_RETURN’s 80-byte l
 ### CALL TO ACTION
 
 Contact your Representative Today and demand that Bitcoin be delisted from all Centralized Exchanges. (Ethereum is our only hope!)
+
+---
+
+---
+title: Bitcoin Human Rights Chain Being Subverted
+slug: bitcoin-human-rights-chain-subverted
+status: published
+type: post
+date: '2025-05-05'
+updated: '2025-07-02'
+author: bc1984adam
+canonical: https://bc1984.com/bitcoin-human-rights-chain-subverted/
+feature_image: /images/2025/05/NoHate_03_1-300x199.webp
+---

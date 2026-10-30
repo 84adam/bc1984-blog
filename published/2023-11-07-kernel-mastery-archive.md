@@ -1,16 +1,4 @@
----
-title: Kernel Mastery Archive
-slug: kernel-mastery-archive
-status: published
-type: post
-date: '2023-11-07'
-updated: '2023-11-07'
-author: bc1984adam
-canonical: https://bc1984.com/kernel-mastery-archive/
-feature_image: ../images/2023/11/parismetro-2.png
----
-
-![Kernel Mastery Archive](../images/2023/11/parismetro-2.png)
+![Kernel Mastery Archive](/images/2023/11/parismetro-2.png)
 
 *Saying goodbye to my former blog: kernelmastery.com.*
 
@@ -131,6 +119,20 @@ I started Kernel Mastery to document my learning especially of Linux, Networking
 **Now**  
 <https://web.archive.org/web/20230602032248/https://kernelmastery.com/now/>
 
-![](../images/2023/11/KMlogo4-1.png)
+![](/images/2023/11/KMlogo4-1.png)
 
 Kernel Mastery is Never Complete
+
+---
+
+---
+title: Kernel Mastery Archive
+slug: kernel-mastery-archive
+status: published
+type: post
+date: '2023-11-07'
+updated: '2023-11-07'
+author: bc1984adam
+canonical: https://bc1984.com/kernel-mastery-archive/
+feature_image: /images/2023/11/parismetro-2.png
+---

@@ -1,16 +1,4 @@
----
-title: Defunct Honduran ZEDEs
-slug: defunct-honduran-zedes
-status: published
-type: post
-date: '2025-04-03'
-updated: '2025-07-02'
-author: bc1984adam
-canonical: https://bc1984.com/defunct-honduran-zedes/
-feature_image: ../images/2025/04/venetian-doge.png
----
-
-![Defunct Honduran ZEDEs](../images/2025/04/venetian-doge.png)
+![Defunct Honduran ZEDEs](/images/2025/04/venetian-doge.png)
 
 `[ NOTE: THIS POST GENERATED WITH THE HELP OF AI ]`
 
@@ -51,3 +39,17 @@ Meanwhile, Crypto Anarchists’ "pure" free markets risk replicating Venice’s 
 **TL;DR: The Doge’s lesson:**
 
 True sovereignty sometimes demands using state power tactically to keep the playing field free, competitive, and yours. Crypto anarchists’ "hands-off" dogma (no pun intended) risks letting others write the rules — and own the future.
+
+---
+
+---
+title: Defunct Honduran ZEDEs
+slug: defunct-honduran-zedes
+status: published
+type: post
+date: '2025-04-03'
+updated: '2025-07-02'
+author: bc1984adam
+canonical: https://bc1984.com/defunct-honduran-zedes/
+feature_image: /images/2025/04/venetian-doge.png
+---

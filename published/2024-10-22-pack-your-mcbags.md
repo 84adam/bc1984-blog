@@ -1,16 +1,4 @@
----
-title: 'MCBAGS: FOR WHEN SHTF'
-slug: pack-your-mcbags
-status: published
-type: post
-date: '2024-10-22'
-updated: '2024-10-28'
-author: bc1984adam
-canonical: https://bc1984.com/pack-your-mcbags/
-feature_image: ../images/2024/10/trump-mcdonald-stunt.jpg
----
-
-![MCBAGS: FOR WHEN SHTF](../images/2024/10/trump-mcdonald-stunt.jpg)
+![MCBAGS: FOR WHEN SHTF](/images/2024/10/trump-mcdonald-stunt.jpg)
 
 **Pack your McBags. Or when *Shit Hits The Fan* you'll wish you had.**
 
@@ -71,3 +59,17 @@ All of these goods that we would hold are also tools and fuels that can be used 
 **ADDENDUM:**
 
 - Lots of other useful tools out there, of course: First-aid and Cleaning Supplies, Alcohol and Tobacco come to mind. (Mine is not meant as a comprehensive list, but as a mnemonic device to help you think about things you may have neglected.)
+
+---
+
+---
+title: 'MCBAGS: FOR WHEN SHTF'
+slug: pack-your-mcbags
+status: published
+type: post
+date: '2024-10-22'
+updated: '2024-10-28'
+author: bc1984adam
+canonical: https://bc1984.com/pack-your-mcbags/
+feature_image: /images/2024/10/trump-mcdonald-stunt.jpg
+---

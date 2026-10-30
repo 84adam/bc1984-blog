@@ -1,16 +1,4 @@
----
-title: Quantum Infeasibility (?)
-slug: quantum-infeasability
-status: published
-type: post
-date: '2025-10-21'
-updated: '2026-04-01'
-author: bc1984adam
-canonical: https://bc1984.com/quantum-infeasability/
-feature_image: ../images/2025/10/a9s5bm.jpg
----
-
-![Quantum Infeasibility (?)](../images/2025/10/a9s5bm.jpg)
+![Quantum Infeasibility (?)](/images/2025/10/a9s5bm.jpg)
 
 `AI;DR: (AI; Didn't Read) -- I doubt that Cryptographically Relevant Quantum Computing will be developed within the next 50 years. I have read a decent amount of other people's thoughts about this topic, but was a bit too lazy to synthesize all the notes I had collected into a single coherent essay myself. So I outsourced my thinking to a machine.`
 
@@ -140,3 +128,17 @@ For Bitcoin long-term storage under realistic quantum threat models, the dominan
 8. New Quantum Circuits for ECDLP: Breaking Prime Elliptic Curve Cryptography in Minutes: <https://eprint.iacr.org/2026/106>
 9. Reducing the Number of Qubits in Quantum Discrete Logarithms on Elliptic Curves: <https://eprint.iacr.org/2026/280>
 10. Bitcoin Address Types (Unchained): <https://www.unchained.com/blog/bitcoin-address-types-compared>
+
+---
+
+---
+title: Quantum Infeasibility (?)
+slug: quantum-infeasability
+status: published
+type: post
+date: '2025-10-21'
+updated: '2026-04-01'
+author: bc1984adam
+canonical: https://bc1984.com/quantum-infeasability/
+feature_image: /images/2025/10/a9s5bm.jpg
+---

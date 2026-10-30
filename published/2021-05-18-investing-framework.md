@@ -1,16 +1,4 @@
----
-title: Investing Framework
-slug: investing-framework
-status: published
-type: post
-date: '2021-05-18'
-updated: '2024-01-26'
-author: bc1984adam
-canonical: https://bc1984.com/investing-framework/
-feature_image: ../images/2021/05/Good-Delivery-Bar_Au_9999.jpg
----
-
-![Investing Framework](../images/2021/05/Good-Delivery-Bar_Au_9999.jpg)
+![Investing Framework](/images/2021/05/Good-Delivery-Bar_Au_9999.jpg)
 
 ### General Questions
 
@@ -139,3 +127,17 @@ From the self-reflection questions, give yourself *9 points* to begin.
 ---
 
 Not investment advice. Just ideas. Do your own research.
+
+---
+
+---
+title: Investing Framework
+slug: investing-framework
+status: published
+type: post
+date: '2021-05-18'
+updated: '2024-01-26'
+author: bc1984adam
+canonical: https://bc1984.com/investing-framework/
+feature_image: /images/2021/05/Good-Delivery-Bar_Au_9999.jpg
+---

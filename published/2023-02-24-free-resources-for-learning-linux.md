@@ -1,17 +1,4 @@
----
-title: Free Resources for Learning Linux
-slug: free-resources-for-learning-linux
-status: published
-type: post
-date: '2023-02-24'
-updated: '2023-02-24'
-author: bc1984adam
-canonical: https://bc1984.com/free-resources-for-learning-linux/
-feature_image: ../images/2023/02/1280px-Falkland_Islands_Penguins_40.jpg
-excerpt: Tutorials, Courses, Online Practice and Guides for Setting up a Virtual Machine
----
-
-![Free Resources for Learning Linux](../images/2023/02/1280px-Falkland_Islands_Penguins_40.jpg)
+![Free Resources for Learning Linux](/images/2023/02/1280px-Falkland_Islands_Penguins_40.jpg)
 
 **Linux Survival (Online Practice)**
 
@@ -51,3 +38,18 @@ excerpt: Tutorials, Courses, Online Practice and Guides for Setting up a Virtual
 
 - Once you are familiar with the basics, download and install [VirtualBox](https://www.virtualbox.org/), and then set up an Ubuntu or Debian Virtual Machine to get access to your very own "throwaway" Linux OS. Do anything you want on the VM and don't worry about it. Install and uninstall software, create scripts, practice and repeat. The world is your oyster!
 - <https://www.howtogeek.com/796988/how-to-install-linux-in-virtualbox>
+
+---
+
+---
+title: Free Resources for Learning Linux
+slug: free-resources-for-learning-linux
+status: published
+type: post
+date: '2023-02-24'
+updated: '2023-02-24'
+author: bc1984adam
+canonical: https://bc1984.com/free-resources-for-learning-linux/
+feature_image: /images/2023/02/1280px-Falkland_Islands_Penguins_40.jpg
+excerpt: Tutorials, Courses, Online Practice and Guides for Setting up a Virtual Machine
+---

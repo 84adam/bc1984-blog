@@ -1,16 +1,4 @@
----
-title: 'Positive Vision: Build'
-slug: positive-vision
-status: published
-type: post
-date: '2024-06-13'
-updated: '2024-06-13'
-author: bc1984adam
-canonical: https://bc1984.com/positive-vision/
-feature_image: ../images/2024/06/v-img-1.jpeg
----
-
-![Positive Vision: Build](../images/2024/06/v-img-1.jpeg)
+![Positive Vision: Build](/images/2024/06/v-img-1.jpeg)
 
 If there's one thing I know, it's that you've got to have a positive vision for the future.
 
@@ -50,7 +38,7 @@ During my latest bout of introspection, I found myself able to write out a lot m
 
 **As always, no one says it better than Mises:**
 
-![](../images/2024/06/mises-railroad-1.jpeg)
+![](/images/2024/06/mises-railroad-1.jpeg)
 
 Excerpt from [Human Action](https://mises.org/library/book/human-action)
 
@@ -66,7 +54,7 @@ Sometimes, too, it helps to identify other people or organizations that are repr
 
 **Snippets from my journal:**
 
-![](../images/2024/06/v-unified-3.jpeg)
+![](/images/2024/06/v-unified-3.jpeg)
 
 "Thinking on paper"
 
@@ -106,7 +94,7 @@ I highly recommend to try something like this next time you hit upon some inspir
 Some of the ideas I'm most excited about starting on or continuing are:
 
 1. More home organic gardening; more learning about [regenerative agriculture](https://advancingecoag.com/), herd shares & [co-ops](https://untappedgrowth.com/decentralizedgrazing/), CSA's, trusts; more collecting and planting of various [hierloom seeds](https://www.rareseeds.com/); eventually buying a plot of land to grow an orchard on.
-2. More mining of bitcoin; supporting open-source bitcoin and monero privacy-related projects; supporting the [P2P Rights Fund](https://p2prights.org/) and the [Samourai Wallet Devs](2024-06-10-the-case-of-the-missing-samourai.md).
+2. More mining of bitcoin; supporting open-source bitcoin and monero privacy-related projects; supporting the [P2P Rights Fund](https://p2prights.org/) and the [Samourai Wallet Devs](/the-case-of-the-missing-samourai/).
 3. Investing more in rental properties; trying to be the best possible landlord.
 4. Producing more of my own power via Solar/Geothermal/Biogas/Syngas.
 5. Learning 3D printing, buying a printer and CNC milling machine.
@@ -128,3 +116,17 @@ Some additional sources of inspiration that I've drawn upon over the years:
 - Austrian School for Investors: Austrian Investing between Inflation and Deflation, by Rahim Taghizadegan, Ronald Stöferle, Mark Valek, Heinz Blasnik
 
 ### *"Whoever defends his own rights defends the rights of all."* *– Ayn Rand*
+
+---
+
+---
+title: 'Positive Vision: Build'
+slug: positive-vision
+status: published
+type: post
+date: '2024-06-13'
+updated: '2024-06-13'
+author: bc1984adam
+canonical: https://bc1984.com/positive-vision/
+feature_image: /images/2024/06/v-img-1.jpeg
+---

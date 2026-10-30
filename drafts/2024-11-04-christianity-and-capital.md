@@ -1,15 +1,4 @@
----
-title: Christianity & Capital
-slug: christianity-and-capital
-status: draft
-type: post
-date: '2024-11-04'
-updated: '2026-02-15'
-author: bc1984adam
-feature_image: ../images/2024/11/300MCHRIST.png
----
-
-![Christianity & Capital](../images/2024/11/300MCHRIST.png)
+![Christianity & Capital](/images/2024/11/300MCHRIST.png)
 
 ## The Complementary Nature of Christianity and Capitalism
 
@@ -27,7 +16,7 @@ Notable Protestant Christian apologists have also weighed in on the compatibilit
 
 The Bible itself contains passages that suggest support for principles inherent in capitalism. The Parable of the Talents (Matthew 25:14-30) encourages the prudent use of resources and rewards those who act wisely and diligently. It illustrates the importance of personal responsibility and initiative, qualities that are essential in a capitalist economy.
 
-![](../images/2024/11/bags-of-gold.png)
+![](/images/2024/11/bags-of-gold.png)
 
 [biblegateway.com/passage/?search=Matthew+25:14-30&version=NIV](https://www.biblegateway.com/passage/?search=Matthew+25:14-30&version=NIV)
 
@@ -52,3 +41,16 @@ In conclusion, Christianity and capitalism complement each other through shared 
 - Rev. Robert A. Sirico, *Defending the Free Market: The Moral Case for a Free Economy* (2012).
 - The Holy Bible, New International Version.
 - Ludwig von Mises, *Human Action: A Treatise on Economics* (1949).
+
+---
+
+---
+title: Christianity & Capital
+slug: christianity-and-capital
+status: draft
+type: post
+date: '2024-11-04'
+updated: '2026-02-15'
+author: bc1984adam
+feature_image: /images/2024/11/300MCHRIST.png
+---

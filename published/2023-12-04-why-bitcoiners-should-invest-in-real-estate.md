@@ -1,16 +1,4 @@
----
-title: Why Bitcoiners Should Invest in Real Estate
-slug: why-bitcoiners-should-invest-in-real-estate
-status: published
-type: post
-date: '2023-12-04'
-updated: '2024-01-22'
-author: bc1984adam
-canonical: https://bc1984.com/why-bitcoiners-should-invest-in-real-estate/
-feature_image: ../images/2023/12/26097472046_b55b0e3a5a.jpg
----
-
-![Why Bitcoiners Should Invest in Real Estate](../images/2023/12/26097472046_b55b0e3a5a.jpg)
+![Why Bitcoiners Should Invest in Real Estate](/images/2023/12/26097472046_b55b0e3a5a.jpg)
 
 You own bitcoin. You believe in Individual Sovereignty. Your views are informed by Austrian Economics. Of all potential economic systems, you most admire those built on a foundation of Free Market Capitalism.
 
@@ -62,7 +50,7 @@ The fact is that Real Estate is a very broad umbrella, with wildly different ret
 
 It's also a HyperLocal Phenomenon. Austin and Phoenix don't compare very well with Indianapolis, IA and Peoria, IL. Even from neighborhood to neighborhood you can see wide disparities. It makes sense when you think about it for half a second, but all this is frequently glossed over in the Influencer TwitterSphere.
 
-![](../images/2024/01/real-estate-yields-appreciation.jpeg)
+![](/images/2024/01/real-estate-yields-appreciation.jpeg)
 
 As yields go up, appreciation tends to go down. The inverse is typically true as well.
 
@@ -82,7 +70,7 @@ The fact is that one of these is a reality today, and the other we may have to w
 
 In the meantime, I think it's a good alternative for a bitcoiner to consider. **Nothing gets better tax treatment than Investment Property and you can Replace Your W-2 Income if you do things right.**
 
-![](../images/2024/01/GEeXpVSWsAAVAGp.jpeg)
+![](/images/2024/01/GEeXpVSWsAAVAGp.jpeg)
 
 What would you build if you could help develop or revitalize a community?
 
@@ -97,3 +85,17 @@ What would you build if you could help develop or revitalize a community?
 - First-Time Landlord, by Janet Portman/Ilona Bray/Marcia Stewart
 - The Complete Guide to Investing in Rental Property, by Steve Berges
 - The Multifamily Millionaire (Volume I): Achieve Financial Freedom by Investing in Small Multifamily Real Estate, by Brandon Turner & Brian Murray
+
+---
+
+---
+title: Why Bitcoiners Should Invest in Real Estate
+slug: why-bitcoiners-should-invest-in-real-estate
+status: published
+type: post
+date: '2023-12-04'
+updated: '2024-01-22'
+author: bc1984adam
+canonical: https://bc1984.com/why-bitcoiners-should-invest-in-real-estate/
+feature_image: /images/2023/12/26097472046_b55b0e3a5a.jpg
+---

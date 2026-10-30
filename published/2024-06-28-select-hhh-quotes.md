@@ -1,17 +1,4 @@
----
-title: Select HHH Quotes
-slug: select-hhh-quotes
-status: published
-type: post
-date: '2024-06-28'
-updated: '2024-06-28'
-author: bc1984adam
-canonical: https://bc1984.com/select-hhh-quotes/
-feature_image: ../images/2024/06/hoppe.jpg
-excerpt: Hans-Hermann Hoppe quotes on freedom, democracy and money.
----
-
-![Select HHH Quotes](../images/2024/06/hoppe.jpg)
+![Select HHH Quotes](/images/2024/06/hoppe.jpg)
 
 A few select quotes from **HHH** (Hans-Hermann Hoppe), renowned Freedom-Loving Austrian-Economist and author of 'Democracy: The God That Failed':
 
@@ -30,3 +17,18 @@ A few select quotes from **HHH** (Hans-Hermann Hoppe), renowned Freedom-Loving A
 - The State is a parasitic entity that feeds on the energy of the populous.
 - The State cannot enforce in perpetuity the use of nor maintain the soundness of any arbitrary paper money or IOU system. The market will decide what is the best money.
 - "The road to hell is paved with good intentions."
+
+---
+
+---
+title: Select HHH Quotes
+slug: select-hhh-quotes
+status: published
+type: post
+date: '2024-06-28'
+updated: '2024-06-28'
+author: bc1984adam
+canonical: https://bc1984.com/select-hhh-quotes/
+feature_image: /images/2024/06/hoppe.jpg
+excerpt: Hans-Hermann Hoppe quotes on freedom, democracy and money.
+---

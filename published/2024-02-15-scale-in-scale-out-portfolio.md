@@ -1,16 +1,4 @@
----
-title: Scale In, Scale Out Portfolio
-slug: scale-in-scale-out-portfolio
-status: published
-type: post
-date: '2024-02-15'
-updated: '2024-02-15'
-author: bc1984adam
-canonical: https://bc1984.com/scale-in-scale-out-portfolio/
-feature_image: ../images/2024/02/Screenshot_2024-02-15_09-22-55.png
----
-
-![Scale In, Scale Out Portfolio](../images/2024/02/Screenshot_2024-02-15_09-22-55.png)
+![Scale In, Scale Out Portfolio](/images/2024/02/Screenshot_2024-02-15_09-22-55.png)
 
 ***"How to not go broke quickly." – or – "How to get rich gradually."***
 
@@ -108,3 +96,17 @@ The goal is to build security for yourself and your loved ones over time.
 **Over the course of 10 or 20 years, you can build true wealth this way.** It doesn't have to be complicated, but you do have to be consistent and avoid emotional trading and FOMO'ing in and out of positions.
 
 ***Good Luck!***
+
+---
+
+---
+title: Scale In, Scale Out Portfolio
+slug: scale-in-scale-out-portfolio
+status: published
+type: post
+date: '2024-02-15'
+updated: '2024-02-15'
+author: bc1984adam
+canonical: https://bc1984.com/scale-in-scale-out-portfolio/
+feature_image: /images/2024/02/Screenshot_2024-02-15_09-22-55.png
+---

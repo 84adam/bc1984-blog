@@ -1,16 +1,4 @@
----
-title: DON'T SPRAY ME, BRO
-slug: dont-spray-me-bro
-status: published
-type: post
-date: '2026-03-12'
-updated: '2026-03-12'
-author: bc1984adam
-canonical: https://bc1984.com/dont-spray-me-bro/
-feature_image: ../images/2026/03/nasal-spray.png
----
-
-![DON'T SPRAY ME, BRO](../images/2026/03/nasal-spray.png)
+![DON'T SPRAY ME, BRO](/images/2026/03/nasal-spray.png)
 
 `AI;DR: (AI; Didn't Read) -- I saw posted on Hacker News a story about a new, supposed "universal respiratory disease vaccine nasal spray". This was something that in mice kept the innate immune system active for months instead of days at a time and helped the mice fend off coronaviruses, flu and house dust mite protein allergies much better than the baseline. The research is out of Stanford, with human trials forthcoming. I am dubious of the safety of this approach. So I recruited help from DeepSeek & Perplexity & Gemini Pro & the Hacker News comments section to look into potential risks. At this point, the cynic in me expects the FDA to approve this new drug whether it's safe or not; so tell your friends and family not to take it, is my two cents.`
 
@@ -40,3 +28,17 @@ Ultimately, while the concept of a singular, broadly protective nasal spray is i
 - <https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0051618>
 - <https://www.frontiersin.org/journals/allergy/articles/10.3389/falgy.2025.1633293/full>
 - <https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2020.559382/full>
+
+---
+
+---
+title: DON'T SPRAY ME, BRO
+slug: dont-spray-me-bro
+status: published
+type: post
+date: '2026-03-12'
+updated: '2026-03-12'
+author: bc1984adam
+canonical: https://bc1984.com/dont-spray-me-bro/
+feature_image: /images/2026/03/nasal-spray.png
+---

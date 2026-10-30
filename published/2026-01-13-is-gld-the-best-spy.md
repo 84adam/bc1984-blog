@@ -1,28 +1,16 @@
----
-title: IS GLD THE BEST SPY?
-slug: is-gld-the-best-spy
-status: published
-type: post
-date: '2026-01-13'
-updated: '2026-01-13'
-author: bc1984adam
-canonical: https://bc1984.com/is-gld-the-best-spy/
-feature_image: ../images/2026/01/spyspy26.jpg
----
-
-![IS GLD THE BEST SPY?](../images/2026/01/spyspy26.jpg)
+![IS GLD THE BEST SPY?](/images/2026/01/spyspy26.jpg)
 
 From the dotcom peak in 2000 to today, the price of the S&P 500 index has risen on average 5.9% per year.
 
 With dividends reinvested, e.g. via the **SPY** ETF, the total return increases to **8.41%** CAGR.
 
-![](../images/2026/01/spy-returns-26.jpg)
+![](/images/2026/01/spy-returns-26.jpg)
 
 via: <https://dqydj.com/etf-return-calculator/?ticker=SPY>
 
 This is a great return, despite starting at a then "exuberant" peak. Especially considering that the M2 money supply has grown by **6.2%** per year over that same period of time.
 
-![](../images/2026/01/m2-26.jpg)
+![](/images/2026/01/m2-26.jpg)
 
 via: <https://fred.stlouisfed.org/series/M2SL#>
 
@@ -38,7 +26,7 @@ Of course this doesn't tell us what will happen over the next 26 years. It says 
 
 In the meantime, if you just sat on your pile of shiny yellow metal, you'd have outperformed all of this by more than 2X!
 
-![](../images/2026/01/smaug26.jpg)
+![](/images/2026/01/smaug26.jpg)
 
 "In which Smaug beats the pants off of SPY in his sleep..."
 
@@ -61,3 +49,17 @@ Half US Large Cap Stocks, Half Gold. ***It's elementary, my dear Watson!***
 ---
 
 **Good Luck!**
+
+---
+
+---
+title: IS GLD THE BEST SPY?
+slug: is-gld-the-best-spy
+status: published
+type: post
+date: '2026-01-13'
+updated: '2026-01-13'
+author: bc1984adam
+canonical: https://bc1984.com/is-gld-the-best-spy/
+feature_image: /images/2026/01/spyspy26.jpg
+---

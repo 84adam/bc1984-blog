@@ -1,16 +1,4 @@
----
-title: Bitcoin Rebase
-slug: bitcoin-rebase
-status: published
-type: post
-date: '2021-05-11'
-updated: '2024-01-26'
-author: bc1984adam
-canonical: https://bc1984.com/bitcoin-rebase/
-feature_image: ../images/2021/05/Rebane-Vulpes.jpg
----
-
-![Bitcoin Rebase](../images/2021/05/Rebane-Vulpes.jpg)
+![Bitcoin Rebase](/images/2021/05/Rebane-Vulpes.jpg)
 
 If you think about it, it kinda sucks how this non-elected body of bureaucrats (the IRS) can declare bitcoin to be *property* and charge you for every time you spend it. To the tune of [15% for most investors](https://www.fool.com/research/capital-gains-tax-rates/) (on any profits you've made).
 
@@ -54,7 +42,7 @@ Having taken care of some housekeeping in this fashion, you can now consider ano
 
 Think about it: Let's say you bought bitcoin one year ago at $9800. You bought 3 bitcoin (you lucky dog!).
 
-![](../images/2021/05/9800-may-2020.png)
+![](/images/2021/05/9800-may-2020.png)
 
 Now you decide you want to sell some during 2021 after holding it for one year in order to finance a home purchase (down payment).
 
@@ -117,3 +105,17 @@ Is it worth saving even `1.4%` more money in the long run for all the trouble in
 `1.4%` may not sound like a lot. But `$11,418` saved through this process over 5 years sounds great to me.
 
 Some food for thought.
+
+---
+
+---
+title: Bitcoin Rebase
+slug: bitcoin-rebase
+status: published
+type: post
+date: '2021-05-11'
+updated: '2024-01-26'
+author: bc1984adam
+canonical: https://bc1984.com/bitcoin-rebase/
+feature_image: /images/2021/05/Rebane-Vulpes.jpg
+---

@@ -1,15 +1,4 @@
----
-title: Shadow Oligarchy
-slug: shadow-oligarchy
-status: draft
-type: post
-date: '2024-09-04'
-updated: '2026-07-18'
-author: bc1984adam
-feature_image: ../images/2024/09/shadow-oligarchy.png
----
-
-![Shadow Oligarchy](../images/2024/09/shadow-oligarchy.png)
+![Shadow Oligarchy](/images/2024/09/shadow-oligarchy.png)
 
 This insidious force seeks to divide the people, distract them with petty squabbles, and systematically eliminate or co-opt any would-be challengers to its dark ambitions.
 
@@ -19,13 +8,13 @@ The Shadow Oligarchy's vast reach and deep pockets ensure that they can outmaneu
 
 The Shadow Oligarchy's agents have also perfected the art of distraction, bombarding the populace with a constant stream of sensationalized news, manufactured scandals, and bread-and-circuses entertainment. By keeping the people's attention focused on trivial matters, they effectively dissuade any meaningful challenge to their power.
 
-![](../images/2024/09/Trivial_Pursuit.jpg)
+![](/images/2024/09/Trivial_Pursuit.jpg)
 
 Trivial Pursuit: Who created this game and why?
 
 While understanding their tactics and power structures is important, an obsession with the *composition* of the Shadow Oligarchy can lead to a debilitating sense of hopelessness and powerlessness.
 
-![](../images/2024/09/rabbit-avoiding-rabbit-holes-1.png)
+![](/images/2024/09/rabbit-avoiding-rabbit-holes-1.png)
 
 Avoid Endless Rabbit Holes
 
@@ -89,6 +78,19 @@ For anyone exploring a character design, it is worth considering how details rel
 
 To resist is to live purposefully and deliberately. It is to make choices that align with the values of freedom, dignity and community. Each small act of resistance chips away at the oligarchy’s control. It is through these quiet, determined acts the power of the Shadow Oligarchy may be undone, and the Power of the Individual may be fully realized.
 
-![](../images/2024/09/hard-working-resistance.png)
+![](/images/2024/09/hard-working-resistance.png)
 
 Light a candle. Shine a light.
+
+---
+
+---
+title: Shadow Oligarchy
+slug: shadow-oligarchy
+status: draft
+type: post
+date: '2024-09-04'
+updated: '2026-07-18'
+author: bc1984adam
+feature_image: /images/2024/09/shadow-oligarchy.png
+---

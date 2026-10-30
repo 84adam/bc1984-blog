@@ -1,16 +1,4 @@
----
-title: Relative Peace to Relative War
-slug: relative-peace-to-relative-war
-status: published
-type: post
-date: '2026-02-12'
-updated: '2026-02-12'
-author: bc1984adam
-canonical: https://bc1984.com/relative-peace-to-relative-war/
-feature_image: ../images/2026/02/sow.png
----
-
-![Relative Peace to Relative War](../images/2026/02/sow.png)
+![Relative Peace to Relative War](/images/2026/02/sow.png)
 
 I grew up in a time of relative peace in America. My halcyon years as a kid were basically the tail end of the Soviet Union to right before the War on Terror began with 9/11. (Some would call this period the Decade of the Peace Dividend.)
 
@@ -38,7 +26,7 @@ Because I was a Libertarian at the time Trump was coming to prominence, I was no
 
 Because I hated Biden and his crew for stealing the 2020 election, and resented him and his OSHA cronies for trying to force experimental vaccines on all the American wage slaves, I was schadenfreude-laden and perhaps perversely overjoyed at Putin upsetting the apple cart of global affairs when he invaded Ukraine. Not that I wanted War. But it is a reality of our world.
 
-![](../images/2026/02/osha-vaccine-mandate-1.jpg)
+![](/images/2026/02/osha-vaccine-mandate-1.jpg)
 
 At the time, I was about to be banned from seeing large numbers of family members at a reunion because one of my cousins set herself as Karen-Dictator and was going to demand that everyone present their Gene Therapy Guinea Pig card before giving anyone else a hug. For my own reasons then, I was glad to see that Biden-Atlantic consensus shattered, at least momentarily. (The masks were off, quite literally!)
 
@@ -54,11 +42,11 @@ The book demonstrates how the United States, and certain innovative companies, h
 
 One marker of the U.S.'s peacetime footing is low spending on defense as a percentage of GDP. Currently around 3.5% is budgeted, whereas often in wartime spending has ranged between 5-15%.
 
-![](../images/2026/02/mil-gdp-csis.jpg)
+![](/images/2026/02/mil-gdp-csis.jpg)
 
 The younger peacenik libertarian in me would have balked at the implication that we need to spend more on defense and weapons and bombs and fighter jets and drones and the like. Because clearly no one has attacked us. *Right?*
 
-![](../images/2026/02/MAPX_USA_path_OF_CHINESE_SPY_BALLOON_2.png)
+![](/images/2026/02/MAPX_USA_path_OF_CHINESE_SPY_BALLOON_2.png)
 
 But China and the U.S. are in a Trade War already. And China has threatened (promised) to eventually take Taiwan. And with AI and Chips so vital to our economy we could not afford to lose TSMC in Taiwan or expect to thrive with production of chips suspended for a long time. Samsung and Intel seem unlikely to take the throne and US-based TSMC production is a sliver of what is consumed currently.
 
@@ -95,6 +83,20 @@ To be honest, I am not entirely sure yet. But it helps to write out the precepts
 - Center for Strategic & International Studies: **Critical Minerals and the Future of the U.S. Economy**: <https://www.csis.org/analysis/critical-minerals-and-future-us-economy> – PDF report: <https://csis-website-prod.s3.amazonaws.com/s3fs-public/2025-02/250210_Baskaran_Critical_Minerals.pdf?VersionId=Tfu2TnNrQGlN7ol8HSCakMUT8HTwYukd>
 - Center for Strategic & International Studies: **Putting the Industrial Base on a Wartime Footing**: <https://www.csis.org/analysis/putting-industrial-base-wartime-footing>
 
-![](../images/2026/02/Risk_BoardGame_Image_Edited.jpg)
+![](/images/2026/02/Risk_BoardGame_Image_Edited.jpg)
 
 Risk Exists
+
+---
+
+---
+title: Relative Peace to Relative War
+slug: relative-peace-to-relative-war
+status: published
+type: post
+date: '2026-02-12'
+updated: '2026-02-12'
+author: bc1984adam
+canonical: https://bc1984.com/relative-peace-to-relative-war/
+feature_image: /images/2026/02/sow.png
+---

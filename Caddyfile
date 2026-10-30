@@ -1,0 +1,18 @@
+bc1984.com {
+	root * /var/www/bc1984
+	encode gzip zstd
+
+	handle /rss {
+		redir /index.xml permanent
+	}
+
+	handle /rss/ {
+		rewrite * /index.xml
+	}
+
+	file_server
+}
+
+www.bc1984.com {
+	redir https://bc1984.com{uri} permanent
+}

@@ -1,16 +1,4 @@
----
-title: 'One Thousand Diverted, One Million Discouraged: Android Innovation Extinguished'
-slug: android-innovation-extinguished
-status: published
-type: post
-date: '2025-08-26'
-updated: '2025-08-26'
-author: bc1984adam
-canonical: https://bc1984.com/android-innovation-extinguished/
-feature_image: ../images/2025/08/barbedwirebw.jpg
----
-
-![One Thousand Diverted, One Million Discouraged: Android Innovation Extinguished](../images/2025/08/barbedwirebw.jpg)
+![One Thousand Diverted, One Million Discouraged: Android Innovation Extinguished](/images/2025/08/barbedwirebw.jpg)
 
 Google's new developer verification policy, though packaged as "security," erects digital barbed wire around Android's open frontier. For every leviathan institution applauding this gatekeeping, a thousand innovators and dissidents are silenced. What follows isn’t speculation — it’s tomorrow's graveyard of unborn tools.
 
@@ -76,3 +64,17 @@ LINKS:
 
 - <https://web.archive.org/web/20250826090045/https://android-developers.googleblog.com/2025/08/elevating-android-security.html>
 - <https://web.archive.org/web/20250826094228/developer.android.com/developer-verification>
+
+---
+
+---
+title: 'One Thousand Diverted, One Million Discouraged: Android Innovation Extinguished'
+slug: android-innovation-extinguished
+status: published
+type: post
+date: '2025-08-26'
+updated: '2025-08-26'
+author: bc1984adam
+canonical: https://bc1984.com/android-innovation-extinguished/
+feature_image: /images/2025/08/barbedwirebw.jpg
+---

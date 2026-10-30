@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <link rel="canonical" href="{{ with .Params.canonical }}{{ . }}{{ else }}{{ .Permalink }}{{ end }}">
+  <link rel="stylesheet" href="/style.css">
+  {{ with .OutputFormats.Get "rss" -}}
+  <link rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" href="{{ .Permalink }}">
+  {{- end }}
+</head>
+<body>
+  <header>
+    <a class="brand" href="/">{{ .Site.Title }}</a>
+    <nav>
+      <a href="/">Posts</a>
+      <a href="/donate/">About</a>
+    </nav>
+    <p class="tagline">{{ .Site.Params.description }}</p>
+  </header>
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+</body>
+</html>

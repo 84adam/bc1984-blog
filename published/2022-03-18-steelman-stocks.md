@@ -1,21 +1,8 @@
----
-title: Steelman Stocks
-slug: steelman-stocks
-status: published
-type: post
-date: '2022-03-18'
-updated: '2024-01-26'
-author: bc1984adam
-canonical: https://bc1984.com/steelman-stocks/
-feature_image: ../images/2022/03/steelman-1.jpg
-excerpt: Boring stocks that might not lose you money over the next 5 years.
----
-
-![Steelman Stocks](../images/2022/03/steelman-1.jpg)
+![Steelman Stocks](/images/2022/03/steelman-1.jpg)
 
 It's hard to *steelman*, or make the case convincingly for, investing in the stock market these days. From crushing debt levels, to absurd CAPE and PE ratios, to the record high in the ratio of stocks to GDP, to sustained high rates of inflation – all signs point to stocks going sideways or lower from here.
 
-![](../images/2022/03/Wilshire-5000-GDP.png)
+![](/images/2022/03/Wilshire-5000-GDP.png)
 
 But there may still be pockets of value here and there.
 
@@ -72,6 +59,21 @@ P/E: 38.6
 
 - Bear / Bull Case: Same as for Universal Corporation above.
 
-![](../images/2022/03/uVjUp.png)
+![](/images/2022/03/uVjUp.png)
 
 **Bottom line**: If you want relative safety while investing in equities, consider companies that were founded *before* the Federal Reserve. Ideally, ones that have been paying dividends for a long time. These companies are highly likely to survive Global Monetary Reset, War, Inflation *and* Supply Chain Disruption.
+
+---
+
+---
+title: Steelman Stocks
+slug: steelman-stocks
+status: published
+type: post
+date: '2022-03-18'
+updated: '2024-01-26'
+author: bc1984adam
+canonical: https://bc1984.com/steelman-stocks/
+feature_image: /images/2022/03/steelman-1.jpg
+excerpt: Boring stocks that might not lose you money over the next 5 years.
+---

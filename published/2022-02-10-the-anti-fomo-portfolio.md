@@ -1,18 +1,4 @@
----
-title: The Anti-FOMO Portfolio
-slug: the-anti-fomo-portfolio
-status: published
-type: post
-date: '2022-02-10'
-updated: '2024-01-26'
-author: bc1984adam
-canonical: https://bc1984.com/the-anti-fomo-portfolio/
-feature_image: ../images/2022/02/828e5bd26e5ce7982dafcc13edd0c86dbb3555f5-2.png
-excerpt: Even if you can only invest 1% of your income every year, do it! The longer
-  you wait, the more you miss out on compounding of your wealth.
----
-
-![The Anti-FOMO Portfolio](../images/2022/02/828e5bd26e5ce7982dafcc13edd0c86dbb3555f5-2.png)
+![The Anti-FOMO Portfolio](/images/2022/02/828e5bd26e5ce7982dafcc13edd0c86dbb3555f5-2.png)
 
 ### Starting Assumptions
 
@@ -78,7 +64,7 @@ If we switch out all of the bonds instead and allocate it to bitcoin, the return
 
 NOTE: I use [Portfolio Visualizer's](https://www.portfoliovisualizer.com/backtest-portfolio) 'Backtest Portfolio' tool with the tickers VTI, AGG and ^BTC for this simulation.
 
-![](../images/2022/02/vti-agg-btc.png)
+![](/images/2022/02/vti-agg-btc.png)
 
 For the risk-averse, I will provide the counter-argument to making such shifts: The maximum drawdown for the 80/20 stock/bitcoin portfolio is 50% larger than that of the 80/20 stock/bond portfolio, and the "Worst Year" is 3 times worse.
 
@@ -98,7 +84,7 @@ But for the curious ones in the audience, I was able to "constuct" a hypothetica
 - 60% bonds (AGG)
 - 20% bitcoin (BTC)
 
-![](../images/2022/02/48-cagr.png)
+![](/images/2022/02/48-cagr.png)
 
 The returns over the last 5 years: 48% annualized with a *lower* maximum drawdown than the 80/20 stock/bond portfolio.
 
@@ -163,10 +149,26 @@ If you're still unsure about investing and risk management in general, I would r
 
 [Safe Haven Investing: Investing for Financial Storms, by Mark Spitznagel](https://www.amazon.com/Safe-Haven-Investing-Financial-Storms/dp/1119401798)
 
-![](../images/2022/02/shi.jpeg)
+![](/images/2022/02/shi.jpeg)
 
 And if you're still unsure about investing in bitcoin, read [Why Buy Bitcoin: Investing Today in the Money of Tomorrow, by Andy Edstrom](https://www.amazon.com/Why-Buy-Bitcoin-Investing-Tomorrow/dp/1733219609/):
 
-![](../images/2022/02/wbb.png)
+![](/images/2022/02/wbb.png)
 
 Both books come to different conclusions, but together I think they can be used to inform a coherent investing and savings strategy.
+
+---
+
+---
+title: The Anti-FOMO Portfolio
+slug: the-anti-fomo-portfolio
+status: published
+type: post
+date: '2022-02-10'
+updated: '2024-01-26'
+author: bc1984adam
+canonical: https://bc1984.com/the-anti-fomo-portfolio/
+feature_image: /images/2022/02/828e5bd26e5ce7982dafcc13edd0c86dbb3555f5-2.png
+excerpt: Even if you can only invest 1% of your income every year, do it! The longer
+  you wait, the more you miss out on compounding of your wealth.
+---

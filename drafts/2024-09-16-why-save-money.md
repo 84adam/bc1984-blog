@@ -1,15 +1,4 @@
----
-title: WHY SAVE
-slug: why-save-money
-status: draft
-type: post
-date: '2024-09-16'
-updated: '2026-02-15'
-author: bc1984adam
-feature_image: ../images/2024/09/save-money.png
----
-
-![WHY SAVE](../images/2024/09/save-money.png)
+![WHY SAVE](/images/2024/09/save-money.png)
 
 ### "Buy gold! Buy bitcoin! Invest in Real Estate! *The Printer is Coming!"*
 
@@ -86,3 +75,16 @@ To criticize someone tirelessly growing their capital through savings and invest
 Be grateful if you have even a brief chance to ask them about it, and what they are saving for.
 
 People can surprise you. If you give them a chance.
+
+---
+
+---
+title: WHY SAVE
+slug: why-save-money
+status: draft
+type: post
+date: '2024-09-16'
+updated: '2026-02-15'
+author: bc1984adam
+feature_image: /images/2024/09/save-money.png
+---

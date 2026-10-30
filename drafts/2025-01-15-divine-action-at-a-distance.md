@@ -1,15 +1,4 @@
----
-title: Divine Action at a Distance?
-slug: divine-action-at-a-distance
-status: draft
-type: post
-date: '2025-01-15'
-updated: '2026-02-15'
-author: bc1984adam
-feature_image: ../images/2025/01/vine-branches.jpeg
----
-
-![Divine Action at a Distance?](../images/2025/01/vine-branches.jpeg)
+![Divine Action at a Distance?](/images/2025/01/vine-branches.jpeg)
 
 What parallels can be drawn between the teachings of Jesus Christ and the findings of Quantum Physics? I found myself wondering this recently during my morning readings of the Bible and the book "[Building Quantum Computers: A Practical Introduction](https://www.cambridge.org/highereducation/books/building-quantum-computers/6A73C509D3E0F5F0A566A11F6A566A90#overview)".
 
@@ -25,7 +14,7 @@ The enigmatic world of quantum physics shares intriguing parallels with the teac
 
 Heisenberg's Uncertainty Principle asserts the fundamental limit in knowing a particle's exact position and momentum simultaneously. Similarly, Jesus spoke of the limitations of human knowledge when he said, "But about that day or hour no one knows, not even the angels in heaven, nor the Son, but only the Father" (Matthew 24:36, NIV). Both concepts emphasize the inherent uncertainty in our comprehension of the universe.
 
-![](../images/2025/01/reality_wavepacket.gif)
+![](/images/2025/01/reality_wavepacket.gif)
 
 Illustration of Heisenberg's Uncertainty Principle
 
@@ -39,7 +28,7 @@ Quantum entanglement reveals that particles can instantaneously affect each othe
 
 The Copenhagen Interpretation suggests that observation affects quantum outcomes, implying that reality is influenced by our perceptions. Jesus highlighted the power of perception when he taught, "The eye is the lamp of the body. If your eyes are healthy, your whole body will be full of light" (Matthew 6:22, NIV). Both ideas suggest that our understanding and experience of reality are shaped by how we observe and interpret it.
 
-![](../images/2025/01/wave-function-collapse.jpg)
+![](/images/2025/01/wave-function-collapse.jpg)
 
 Wave Function: Unobserved & Collapsed
 
@@ -54,3 +43,16 @@ Physicist Freeman Dyson observed, "The more I examine the universe and study the
 Swiss psychiatrist Carl Jung, along with physicist Wolfgang Pauli, explored the coupling of mind and matter, suggesting that quantum mechanics and consciousness might be "complementary aspects of the same reality." This perspective aligns with Jesus's teaching on the interplay between the spiritual and material worlds: "Whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven" (Matthew 16:19, NIV).
 
 These parallels between quantum physics and the teachings of Jesus highlight how both realms invite us to contemplate the profound mysteries of existence. As physicist Max Planck concluded, "Science cannot solve the ultimate mystery of nature. And that is because, in the last analysis, we ourselves are part of the mystery we are trying to solve." Through both scientific inquiry and spiritual reflection, we are led to a greater appreciation of the interconnected fabric of reality.
+
+---
+
+---
+title: Divine Action at a Distance?
+slug: divine-action-at-a-distance
+status: draft
+type: post
+date: '2025-01-15'
+updated: '2026-02-15'
+author: bc1984adam
+feature_image: /images/2025/01/vine-branches.jpeg
+---

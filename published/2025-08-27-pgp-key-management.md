@@ -1,16 +1,4 @@
----
-title: PGP Key Management
-slug: pgp-key-management
-status: published
-type: post
-date: '2025-08-27'
-updated: '2025-10-01'
-author: bc1984adam
-canonical: https://bc1984.com/pgp-key-management/
-feature_image: ../images/2025/08/keyoxide.jpg
----
-
-![PGP Key Management](../images/2025/08/keyoxide.jpg)
+![PGP Key Management](/images/2025/08/keyoxide.jpg)
 
 **This post outlines PGP key practices through user scenarios and hardware-based options for Linux users, focusing on security and usability.**
 
@@ -62,3 +50,17 @@ These PGP strategies offer practical ways to secure keys for various needs, from
 - Diverter: "As Easy as P, G, P" (Archived) - <https://web.archive.org/web/20230208170414mp_/https://diverter.hostyourown.tools/as-easy-as-pgp/>
 - OpenKeychain (FOSS Android App): <https://www.openkeychain.org/> ; <https://github.com/open-keychain/open-keychain>
 - Dread /d/pgp "Best of" Collection: dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad[.]onion/post/536223499f033f4a873a – *remove the `[` and `]` characters and navigate to it in Tor Browser*
+
+---
+
+---
+title: PGP Key Management
+slug: pgp-key-management
+status: published
+type: post
+date: '2025-08-27'
+updated: '2025-10-01'
+author: bc1984adam
+canonical: https://bc1984.com/pgp-key-management/
+feature_image: /images/2025/08/keyoxide.jpg
+---

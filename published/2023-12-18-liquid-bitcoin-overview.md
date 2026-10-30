@@ -1,16 +1,4 @@
----
-title: Liquid Bitcoin (L-BTC) Overview
-slug: liquid-bitcoin-overview
-status: published
-type: post
-date: '2023-12-18'
-updated: '2026-05-31'
-author: bc1984adam
-canonical: https://bc1984.com/liquid-bitcoin-overview/
-feature_image: ../images/2023/12/Screenshot_2023-12-18_07-43-11.png
----
-
-![Liquid Bitcoin (L-BTC) Overview](../images/2023/12/Screenshot_2023-12-18_07-43-11.png)
+![Liquid Bitcoin (L-BTC) Overview](/images/2023/12/Screenshot_2023-12-18_07-43-11.png)
 
 ## BENEFITS OF LIQUID BITCOIN (L-BTC)
 
@@ -57,7 +45,7 @@ It is not clear who these parties are. But presumably they are affiliated with B
 
 > "it's a rolling time-lock so those keys have no signing capability unless the functionaries stops signing blocks for a long period. these backup 2of3 keys could easily be removed from the script, but i believe most people consider a disaster backup is a good idea." – Dr. Adam Back
 
-[![](../images/2024/03/adam-back-liquid-2-of-3-emergency.png)](https://twitter.com/adam3us/status/1761070777997091283)
+[![](/images/2024/03/adam-back-liquid-2-of-3-emergency.png)](https://twitter.com/adam3us/status/1761070777997091283)
 
 - Technical Details: <https://docs.liquid.net/docs/technical-overview>
 
@@ -102,4 +90,18 @@ More on Privacy here:
 
 **[(Archived copy of) bitcoinprivacy.wiki](https://github.com/arkfile/bitcoinprivacy-wiki/blob/main/full-site.md)**
 
-![](../images/2026/05/privacy-decision-tree.png)
+![](/images/2026/05/privacy-decision-tree.png)
+
+---
+
+---
+title: Liquid Bitcoin (L-BTC) Overview
+slug: liquid-bitcoin-overview
+status: published
+type: post
+date: '2023-12-18'
+updated: '2026-05-31'
+author: bc1984adam
+canonical: https://bc1984.com/liquid-bitcoin-overview/
+feature_image: /images/2023/12/Screenshot_2023-12-18_07-43-11.png
+---

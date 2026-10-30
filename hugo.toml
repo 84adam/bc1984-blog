@@ -1,0 +1,29 @@
+baseURL = 'https://bc1984.com/'
+languageCode = 'en-us'
+title = '𝐁𝐂𝟏𝟗𝟖𝟒'
+disableKinds = ["taxonomy", "term"]
+
+[params]
+  description = '𝙋𝙊𝙒𝙀𝙍 𝙏𝙊 𝘼𝙇𝙇 𝙒𝙃𝙊 𝙎𝙀𝙀𝙆 𝙏𝙃𝙀 𝙏𝙍𝙐𝙏𝙃'
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[permalinks]
+  posts = '/:slug/'
+
+[[module.mounts]]
+  source = '.hugo/content'
+  target = 'content'
+
+[[module.mounts]]
+  source = 'layouts'
+  target = 'layouts'
+
+[[module.mounts]]
+  source = 'static'
+  target = 'static'
+
+[[module.mounts]]
+  source = 'images'
+  target = 'static/images'

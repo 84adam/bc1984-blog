@@ -1,16 +1,4 @@
----
-title: In Samourai's Defense
-slug: in-samourais-defense
-status: published
-type: post
-date: '2025-03-14'
-updated: '2025-03-24'
-author: bc1984adam
-canonical: https://bc1984.com/in-samourais-defense/
-feature_image: ../images/2025/03/sdp.png
----
-
-![In Samourai's Defense](../images/2025/03/sdp.png)
+![In Samourai's Defense](/images/2025/03/sdp.png)
 
 `[NOTE: Written 80% with the help of Grok 2 and DeepSeek R1]`
 
@@ -106,3 +94,17 @@ The Samourai Developers created privacy tools for legitimate users, not specific
 ## FREE SAMOURAI
 
 **`*` donate to their defense at [p2prights.org](https://p2prights.org/donate.html) `*`**
+
+---
+
+---
+title: In Samourai's Defense
+slug: in-samourais-defense
+status: published
+type: post
+date: '2025-03-14'
+updated: '2025-03-24'
+author: bc1984adam
+canonical: https://bc1984.com/in-samourais-defense/
+feature_image: /images/2025/03/sdp.png
+---

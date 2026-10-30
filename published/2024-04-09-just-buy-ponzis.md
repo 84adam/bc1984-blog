@@ -1,16 +1,4 @@
----
-title: Just buy ponzis!
-slug: just-buy-ponzis
-status: published
-type: post
-date: '2024-04-09'
-updated: '2024-04-09'
-author: bc1984adam
-canonical: https://bc1984.com/just-buy-ponzis/
-feature_image: ../images/2024/04/Charles_Ponzi.jpg
----
-
-![Just buy ponzis!](../images/2024/04/Charles_Ponzi.jpg)
+![Just buy ponzis!](/images/2024/04/Charles_Ponzi.jpg)
 
 I came across this tweet yesterday and found myself mulling it over. "It could be true, it sounds compelling; the guy is confident...," I thought. Then I saw Daniel Oliver's response and gave it a second thought...
 
@@ -20,7 +8,7 @@ I came across this tweet yesterday and found myself mulling it over. "It could b
 >   
 > **If I wanted to sink China forever and the CIA asked me to come up with an economic black ops, this is exactly what I would come up with:** force them to invest in the most unproductive asset out there, which you can do nothing with but bury in a hole again.
 
-![](../images/2024/04/cia-statement.png)
+![](/images/2024/04/cia-statement.png)
 
 <https://twitter.com/nickgiva1/status/1777285095012888593>
 
@@ -59,7 +47,7 @@ As always, you have to look at *Who Benefits* and *Who Loses* in every potential
 > "Chinese demand is still the important driver." <https://www.bloomberg.com/news/articles/2024-04-08/chinese-fund-house-halts-gold-linked-etf-after-premium-surge>   
 > POST: <https://twitter.com/BobEUnlimited/status/1777280468359971203>
 
-![](../images/2024/04/chinese-gold-etf-demand.png)
+![](/images/2024/04/chinese-gold-etf-demand.png)
 
 "Chinese Gold ETF Surges 30% Since March 28"
 
@@ -69,8 +57,22 @@ Tweet from top of Bob's original thread:
 >   
 > POST: <https://twitter.com/BobEUnlimited/status/1765007203302346780>
 
-![](../images/2024/04/divergence.jpeg)
+![](/images/2024/04/divergence.jpeg)
 
 Divergence between US Gold ETF Holdings and Gold Spot Price
 
+---
+
+---
+
+---
+title: Just buy ponzis!
+slug: just-buy-ponzis
+status: published
+type: post
+date: '2024-04-09'
+updated: '2024-04-09'
+author: bc1984adam
+canonical: https://bc1984.com/just-buy-ponzis/
+feature_image: /images/2024/04/Charles_Ponzi.jpg
 ---

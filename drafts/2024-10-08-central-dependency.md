@@ -1,15 +1,4 @@
----
-title: Central Dependency
-slug: central-dependency
-status: draft
-type: post
-date: '2024-10-08'
-updated: '2026-07-18'
-author: bc1984adam
-feature_image: ../images/2024/10/GYZBHjiWsAABa3C.jpeg
----
-
-![Central Dependency](../images/2024/10/GYZBHjiWsAABa3C.jpeg)
+![Central Dependency](/images/2024/10/GYZBHjiWsAABa3C.jpeg)
 
 ## PRESUPPOSITION
 
@@ -43,7 +32,7 @@ Without central banks, banking would become decentralized, resembling more close
 
 Ayn Rand's philosophy highlights human ingenuity and rational self-interest. In such a crisis, individuals and businesses would innovate and adapt out of necessity, potentially leading to new economic structures and systems that could be more efficient and less prone to systemic failure.
 
-![](../images/2024/10/4701362-Ayn-Rand-Quote-Civilization-is-the-process-of-setting-man-free.jpg)
+![](/images/2024/10/4701362-Ayn-Rand-Quote-Civilization-is-the-process-of-setting-man-free.jpg)
 
 Set Man Free
 
@@ -129,7 +118,7 @@ An Anarcho-Capitalist or a Freedom Lover might critique each of the supposed str
 
 **Critique:** Acting as a lender of last resort and bailing out failing institutions moralizes risk-taking. It creates a system where failure isn't allowed, leading to ever-larger crises due to accumulated risks. This undermines the free market's mechanism where failure is a necessary part of learning and adaptation. **Like a beach ball held underwater, volatility can only be suppressed for so long.**
 
-![](../images/2024/10/beach_ball.jpg)
+![](/images/2024/10/beach_ball.jpg)
 
 Exploding Volatility
 
@@ -188,6 +177,19 @@ I think it would look a lot like the Austrians and Ancaps envisioned: One based 
 
 Until the coming of Valhalla (Ancapistan), take what measures you can to protect your wealth and exercise your sovereignty. You may not change the world, but you can look after your own.
 
-![](../images/2024/10/a-cabin-with-plenty-of-food-is-better-than-a-hungr.jpg)
+![](/images/2024/10/a-cabin-with-plenty-of-food-is-better-than-a-hungr.jpg)
 
 STOCK UP
+
+---
+
+---
+title: Central Dependency
+slug: central-dependency
+status: draft
+type: post
+date: '2024-10-08'
+updated: '2026-07-18'
+author: bc1984adam
+feature_image: /images/2024/10/GYZBHjiWsAABa3C.jpeg
+---

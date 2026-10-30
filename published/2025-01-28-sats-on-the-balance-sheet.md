@@ -1,14 +1,3 @@
----
-title: sats on the balance sheet
-slug: sats-on-the-balance-sheet
-status: published
-type: post
-date: '2025-01-28'
-updated: '2025-01-28'
-author: bc1984adam
-canonical: https://bc1984.com/sats-on-the-balance-sheet/
----
-
 so there sat the sats  
 on the balance sheet, intact  
 we knew for a fact  
@@ -36,3 +25,16 @@ pay for strippers dancing
 blind to the price paid of sovereignty unmade  
 privacy unwon  
 and freedom undone
+
+---
+
+---
+title: sats on the balance sheet
+slug: sats-on-the-balance-sheet
+status: published
+type: post
+date: '2025-01-28'
+updated: '2025-01-28'
+author: bc1984adam
+canonical: https://bc1984.com/sats-on-the-balance-sheet/
+---

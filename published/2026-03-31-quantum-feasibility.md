@@ -1,16 +1,4 @@
----
-title: Quantum Feasibility (?)
-slug: quantum-feasibility
-status: published
-type: post
-date: '2026-03-31'
-updated: '2026-04-09'
-author: bc1984adam
-canonical: https://bc1984.com/quantum-feasibility/
-feature_image: ../images/2026/03/spock-not-amused.jpg
----
-
-![Quantum Feasibility (?)](../images/2026/03/spock-not-amused.jpg)
+![Quantum Feasibility (?)](/images/2026/03/spock-not-amused.jpg)
 
 `NOTE: This is a follow-up to my original Quantum Infeasibility (?) post wherein I expressed serious doubts about RSA or ECC cryptography being feasible to break with a quantum computer anytime in the next 50 years. I have revised my views given the recent announcements around ECC being potentially vulnerable much sooner now with recent at least theoretical breakthroughs.`
 
@@ -83,3 +71,17 @@ For Bitcoin long-term storage under realistic quantum threat models, the dominan
 11. Bitcoin and Quantum Computing, Neha Narula: <https://nehanarula.org/2026/04/03/bitcoin-and-quantum-computing.html>
 12. Filippo Valsorda, "A Cryptography Engineer's Perspective on Quantum Computing Timelines": [https://words.filippo.io/crqc-timeline](https://words.filippo.io/crqc-timeline )
 13. Scott Aaronson, "Before we start on Quantum": <https://scottaaronson.blog/?p=9668>
+
+---
+
+---
+title: Quantum Feasibility (?)
+slug: quantum-feasibility
+status: published
+type: post
+date: '2026-03-31'
+updated: '2026-04-09'
+author: bc1984adam
+canonical: https://bc1984.com/quantum-feasibility/
+feature_image: /images/2026/03/spock-not-amused.jpg
+---

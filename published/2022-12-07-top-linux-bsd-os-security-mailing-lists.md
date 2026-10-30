@@ -1,17 +1,4 @@
----
-title: 'Top Linux & BSD Distros: Security Advisory Mailing Lists'
-slug: top-linux-bsd-os-security-mailing-lists
-status: published
-type: post
-date: '2022-12-07'
-updated: '2024-01-26'
-author: bc1984adam
-canonical: https://bc1984.com/top-linux-bsd-os-security-mailing-lists/
-feature_image: ../images/2022/12/4pAQY.jpg
-excerpt: Keep up to date on Linux & BSD security. Top mailing lists.
----
-
-![Top Linux & BSD Distros: Security Advisory Mailing Lists](../images/2022/12/4pAQY.jpg)
+![Top Linux & BSD Distros: Security Advisory Mailing Lists](/images/2022/12/4pAQY.jpg)
 
 ### Sign up to get an email any time a major security announcement is made for these top Linux and BSD operating systems:
 
@@ -44,3 +31,18 @@ excerpt: Keep up to date on Linux & BSD security. Top mailing lists.
 - **MITRE Linux CVEs:** <https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=linux>
 - **Linux Advisory Watch:** <https://linuxsecurity.com/newsletters/linux-advisory-watch-archives>
 - **Xen Project Security Advisory:** <https://xenbits.xen.org/xsa/>
+
+---
+
+---
+title: 'Top Linux & BSD Distros: Security Advisory Mailing Lists'
+slug: top-linux-bsd-os-security-mailing-lists
+status: published
+type: post
+date: '2022-12-07'
+updated: '2024-01-26'
+author: bc1984adam
+canonical: https://bc1984.com/top-linux-bsd-os-security-mailing-lists/
+feature_image: /images/2022/12/4pAQY.jpg
+excerpt: Keep up to date on Linux & BSD security. Top mailing lists.
+---

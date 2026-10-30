@@ -1,16 +1,4 @@
----
-title: Bitcoin for Activism
-slug: bitcoin-for-activism
-status: published
-type: post
-date: '2024-01-05'
-updated: '2024-01-05'
-author: bc1984adam
-canonical: https://bc1984.com/bitcoin-for-activism/
-feature_image: ../images/2024/01/ows.jpeg
----
-
-![Bitcoin for Activism](../images/2024/01/ows.jpeg)
+![Bitcoin for Activism](/images/2024/01/ows.jpeg)
 
 **Bitcoin for Activism, General Use:**
 
@@ -90,3 +78,17 @@ feature_image: ../images/2024/01/ows.jpeg
 - <https://www.atlasarms.org/about-2/>
 - <https://freeross.org/>
 - <https://bitcoinmagazine.com/culture/how-bitcoin-fueled-canada-trucker-convoy>
+
+---
+
+---
+title: Bitcoin for Activism
+slug: bitcoin-for-activism
+status: published
+type: post
+date: '2024-01-05'
+updated: '2024-01-05'
+author: bc1984adam
+canonical: https://bc1984.com/bitcoin-for-activism/
+feature_image: /images/2024/01/ows.jpeg
+---

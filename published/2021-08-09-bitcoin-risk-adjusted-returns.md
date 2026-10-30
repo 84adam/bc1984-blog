@@ -1,16 +1,4 @@
----
-title: Bitcoin's Risk-Adjusted Returns
-slug: bitcoin-risk-adjusted-returns
-status: published
-type: post
-date: '2021-08-09'
-updated: '2024-01-26'
-author: bc1984adam
-canonical: https://bc1984.com/bitcoin-risk-adjusted-returns/
-feature_image: ../images/2021/08/MLE-2-1.png
----
-
-![Bitcoin's Risk-Adjusted Returns](../images/2021/08/MLE-2-1.png)
+![Bitcoin's Risk-Adjusted Returns](/images/2021/08/MLE-2-1.png)
 
 ## Bitcoin vs. Other Assets
 
@@ -18,7 +6,7 @@ Bitcoin is still a relatively new asset class, but its performance over any give
 
 Looking at the returns in the context of bitcoin's high volatility is important, hence the [Sharpe](https://en.wikipedia.org/wiki/Sharpe_ratio) ratio is highlighted below. This ratio presents us with a **reward-to-variability ratio**: It measures the performance of an investment compared to a risk-free asset, such as t-bills or cash, after adjusting for risk, where risk is typically measured based on historical volatility or the standard deviation of returns.
 
-![](../images/2021/08/sharpe-ratio.png)
+![](/images/2021/08/sharpe-ratio.png)
 
 The formula for the Sharpe ratio
 
@@ -37,7 +25,7 @@ Current Sharpe Ratios:
 - 5 - Emerging Currencies: 0.46
 - 6 - Bonds: -0.01
 
-[![](../images/2021/08/risk-adjusted-returns-LG.png)](http://charts.woobull.com/bitcoin-risk-adjusted-return/)
+[![](/images/2021/08/risk-adjusted-returns-LG.png)](http://charts.woobull.com/bitcoin-risk-adjusted-return/)
 
 Click to view interactive chart from @woonomic
 
@@ -50,7 +38,7 @@ Sharpe Ratios Five Years Ago:
 - 5 - Emerging Currencies: -0.17
 - 6 - Gold: -0.35
 
-[![](../images/2021/08/risk-adjusted-returns-5yra-LG.png)](http://charts.woobull.com/bitcoin-risk-adjusted-return/)
+[![](/images/2021/08/risk-adjusted-returns-5yra-LG.png)](http://charts.woobull.com/bitcoin-risk-adjusted-return/)
 
 Click to view interactive chart from @woonomic
 
@@ -68,7 +56,7 @@ One-Year Annualized Volatility; Highest to Lowest, Current Figures:
 - 6 - USDEUR: 7.1% ( corrected chart: <https://invst.ly/vnn3g> )
 - 7 - Gold: 4.09%
 
-![](../images/2021/08/one-year-volatility-LG.png)
+![](/images/2021/08/one-year-volatility-LG.png)
 
 Click to view interactive chart from @woonomic
 
@@ -96,3 +84,17 @@ One-year volatility:
 
 - <http://charts.woobull.com/bitcoin-volatility-vs-other-assets/>
 - credit: <https://twitter.com/woonomic>
+
+---
+
+---
+title: Bitcoin's Risk-Adjusted Returns
+slug: bitcoin-risk-adjusted-returns
+status: published
+type: post
+date: '2021-08-09'
+updated: '2024-01-26'
+author: bc1984adam
+canonical: https://bc1984.com/bitcoin-risk-adjusted-returns/
+feature_image: /images/2021/08/MLE-2-1.png
+---

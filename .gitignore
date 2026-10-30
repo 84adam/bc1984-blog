@@ -1,1 +1,4 @@
 ghost.*.json
+public/
+resources/
+.hugo/

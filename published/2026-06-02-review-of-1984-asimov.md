@@ -1,14 +1,3 @@
----
-title: REVIEW OF 1984 (ASIMOV)
-slug: review-of-1984-asimov
-status: published
-type: post
-date: '2026-06-02'
-updated: '2026-06-02'
-author: bc1984adam
-canonical: https://bc1984.com/review-of-1984-asimov/
----
-
 REVIEW OF 1984  
 By Isaac Asimov
 
@@ -496,3 +485,16 @@ then we will be defending ourselves against assaults from the wrong
 direction and we will lose.
 
 SOURCE: <https://newworker.org/ncptrory/1984.htm>
+
+---
+
+---
+title: REVIEW OF 1984 (ASIMOV)
+slug: review-of-1984-asimov
+status: published
+type: post
+date: '2026-06-02'
+updated: '2026-06-02'
+author: bc1984adam
+canonical: https://bc1984.com/review-of-1984-asimov/
+---

@@ -1,16 +1,4 @@
----
-title: Black Market Money
-slug: black-market-money
-status: published
-type: post
-date: '2024-11-05'
-updated: '2025-01-14'
-author: bc1984adam
-canonical: https://bc1984.com/black-market-money/
-feature_image: ../images/2024/11/black-mamba.png
----
-
-![Black Market Money](../images/2024/11/black-mamba.png)
+![Black Market Money](/images/2024/11/black-mamba.png)
 
 ## Black Market Money is the True Freedom Money.
 
@@ -101,3 +89,17 @@ local barter: try to convince local folks at farmers markets and fairs to accept
 these are just a few ideas of how to use it freely, as it was designed to be used.
 
 happy hunting!
+
+---
+
+---
+title: Black Market Money
+slug: black-market-money
+status: published
+type: post
+date: '2024-11-05'
+updated: '2025-01-14'
+author: bc1984adam
+canonical: https://bc1984.com/black-market-money/
+feature_image: /images/2024/11/black-mamba.png
+---

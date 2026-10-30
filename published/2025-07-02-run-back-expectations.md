@@ -1,16 +1,4 @@
----
-title: Run back expectations
-slug: run-back-expectations
-status: published
-type: post
-date: '2025-07-02'
-updated: '2025-07-02'
-author: bc1984adam
-canonical: https://bc1984.com/run-back-expectations/
-feature_image: ../images/2025/07/blando-calrissian.jpg
----
-
-![Run back expectations](../images/2025/07/blando-calrissian.jpg)
+![Run back expectations](/images/2025/07/blando-calrissian.jpg)
 
 `[0 phreaking AI was used for this post!!!]`
 
@@ -25,3 +13,17 @@ And bitcoin? Not a bad place to park your money. But you should have massive red
 I say, spread your bets. Keep some bitcoin, some real estate or land investments, private enterprises or side hussles, gold, stocks, some mix of the above. And keep using your money tokens. Bitcoin and Monero are meant to be used. Not just hoarded like it's some kind of ancient spell of protection that will shield your great-grandchildren from gangs of heathen transgender carteleros in the year 2110.
 
 Run back your expectations. Keep it real.
+
+---
+
+---
+title: Run back expectations
+slug: run-back-expectations
+status: published
+type: post
+date: '2025-07-02'
+updated: '2025-07-02'
+author: bc1984adam
+canonical: https://bc1984.com/run-back-expectations/
+feature_image: /images/2025/07/blando-calrissian.jpg
+---

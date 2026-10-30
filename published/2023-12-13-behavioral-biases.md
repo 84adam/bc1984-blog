@@ -1,16 +1,4 @@
----
-title: Beware Behavioral Biases
-slug: behavioral-biases
-status: published
-type: post
-date: '2023-12-13'
-updated: '2023-12-13'
-author: bc1984adam
-canonical: https://bc1984.com/behavioral-biases/
-feature_image: ../images/2023/12/fpsyg-10-02536-g002.jpg
----
-
-![Beware Behavioral Biases](../images/2023/12/fpsyg-10-02536-g002.jpg)
+![Beware Behavioral Biases](/images/2023/12/fpsyg-10-02536-g002.jpg)
 
 Behavioral biases impact investment decisions and can contribute to poor outcomes. Here are 9 top examples:
 
@@ -33,3 +21,17 @@ Behavioral biases impact investment decisions and can contribute to poor outcome
 (9) DISPOSITION EFFECT: Investors tend to hold on to losing investments and sell winning investments quickly, driven by a desire to avoid regret. This behavior can lead to a portfolio of underperforming assets.
 
 The fact is **you have to recognize your biases before you can mitigate any of their impacts**. From there you can build up discipline and approach things more rationally to improve your outcomes over time.
+
+---
+
+---
+title: Beware Behavioral Biases
+slug: behavioral-biases
+status: published
+type: post
+date: '2023-12-13'
+updated: '2023-12-13'
+author: bc1984adam
+canonical: https://bc1984.com/behavioral-biases/
+feature_image: /images/2023/12/fpsyg-10-02536-g002.jpg
+---

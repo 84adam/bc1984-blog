@@ -1,16 +1,4 @@
----
-title: 𝕂𝕐ℂ𝟛 x86 Tutorial Archive
-slug: kyc3-x86-dojo-tutorial-archive
-status: published
-type: post
-date: '2024-10-11'
-updated: '2024-10-11'
-author: bc1984adam
-canonical: https://bc1984.com/kyc3-x86-dojo-tutorial-archive/
-feature_image: ../images/2024/10/dojo-guide.png
----
-
-![𝕂𝕐ℂ𝟛 x86 Tutorial Archive](../images/2024/10/dojo-guide.png)
+![𝕂𝕐ℂ𝟛 x86 Tutorial Archive](/images/2024/10/dojo-guide.png)
 
 ***Respect.** Hats off to 𝕂𝕐ℂ𝟛 (@KYCfree). While his Nym may disappear, his knowledge will not.*
 
@@ -89,3 +77,17 @@ To install Fail2ban on Debian, follow these steps:
 3. `sudo systemctl restart fail2ban`
 
 Fail2ban will automatically monitor system logs and block IP addresses that exceed the configured threshold of failed login attempts. You can customize the jail.local file to specify which services (e.g., SSH, HTTP) to monitor and block.
+
+---
+
+---
+title: 𝕂𝕐ℂ𝟛 x86 Tutorial Archive
+slug: kyc3-x86-dojo-tutorial-archive
+status: published
+type: post
+date: '2024-10-11'
+updated: '2024-10-11'
+author: bc1984adam
+canonical: https://bc1984.com/kyc3-x86-dojo-tutorial-archive/
+feature_image: /images/2024/10/dojo-guide.png
+---

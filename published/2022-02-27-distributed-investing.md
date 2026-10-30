@@ -1,18 +1,4 @@
----
-title: Distributed Investing
-slug: distributed-investing
-status: published
-type: post
-date: '2022-02-27'
-updated: '2022-02-27'
-author: bc1984adam
-canonical: https://bc1984.com/distributed-investing/
-feature_image: ../images/2022/02/Tutankhamun_jackal.jpg
-excerpt: It's not that hard to regain control over your capital. But it means taking
-  more responsibility.
----
-
-![Distributed Investing](../images/2022/02/Tutankhamun_jackal.jpg)
+![Distributed Investing](/images/2022/02/Tutankhamun_jackal.jpg)
 
 ### Notice the Trends
 
@@ -49,3 +35,19 @@ Reduce counterparty risk by diversifying into these assets to the extent you are
 5. Lastly, buy guns and ammo and learn how to use them. These can be good tools for barter in a pinch as well. One 9mm handgun, with proper training, can deter many types of threats, and might even be useful for hunting in a serious SHTF situation.
 
 To balance this out, keep in mind there will always be places and periods of time of relative peace around the world. If you get overly stressed out trying to become self-sovereign and custodying all your assets at home maybe take a step back and try to re-assess your situation. Do you perhaps just need to move somewhere where the grass is greener? Are you actually living through a severe or prolonged state of emergency now (one which threatens your livelihood)? If not, take a breath and think about how you might slowly adopt a more self-sovereign lifestyle.
+
+---
+
+---
+title: Distributed Investing
+slug: distributed-investing
+status: published
+type: post
+date: '2022-02-27'
+updated: '2022-02-27'
+author: bc1984adam
+canonical: https://bc1984.com/distributed-investing/
+feature_image: /images/2022/02/Tutankhamun_jackal.jpg
+excerpt: It's not that hard to regain control over your capital. But it means taking
+  more responsibility.
+---

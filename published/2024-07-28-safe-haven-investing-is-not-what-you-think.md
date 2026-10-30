@@ -1,18 +1,4 @@
----
-title: Safe Haven Investing Is Not What You Think
-slug: safe-haven-investing-is-not-what-you-think
-status: published
-type: post
-date: '2024-07-28'
-updated: '2024-07-31'
-author: bc1984adam
-canonical: https://bc1984.com/safe-haven-investing-is-not-what-you-think/
-feature_image: ../images/2024/07/shi.png
-excerpt: How to use Put Options to secure your stack and boost your returns slowly
-  over time. "Downside Convexity" and Portfolio Hedging.
----
-
-![Safe Haven Investing Is Not What You Think](../images/2024/07/shi.png)
+![Safe Haven Investing Is Not What You Think](/images/2024/07/shi.png)
 
 ### Key Insights from Mark Spitznagel's Masterpiece
 
@@ -114,11 +100,11 @@ Liquidity: Ensure that the chosen options are liquid to avoid large bid-ask spre
 
 Notice how many prolonged and sharp drawdowns have been observed just in BITO since its launch. With the framework we've provided here, you should now see these drops as profit opportunities.
 
-![](../images/2024/07/BITO-weekly.png)
+![](/images/2024/07/BITO-weekly.png)
 
 Example Option Chain for BITO:
 
-![](../images/2024/07/BITO-option-chain.png)
+![](/images/2024/07/BITO-option-chain.png)
 
 #### Scenario
 
@@ -137,3 +123,19 @@ After rebalancing, you have $8820 in BTC and $180 in BITO Puts.
 Setting up a system such as this, such that you can continue to profit from the downside volatility of Bitcoin, can lead to superior outcomes over time.
 
 *Best of luck!*
+
+---
+
+---
+title: Safe Haven Investing Is Not What You Think
+slug: safe-haven-investing-is-not-what-you-think
+status: published
+type: post
+date: '2024-07-28'
+updated: '2024-07-31'
+author: bc1984adam
+canonical: https://bc1984.com/safe-haven-investing-is-not-what-you-think/
+feature_image: /images/2024/07/shi.png
+excerpt: How to use Put Options to secure your stack and boost your returns slowly
+  over time. "Downside Convexity" and Portfolio Hedging.
+---

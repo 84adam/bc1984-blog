@@ -1,15 +1,4 @@
----
-title: Semi-Arid, High-Elevation, Passive Irrigation Orchard
-slug: passive-irrigation-orchard
-status: draft
-type: post
-date: '2024-12-05'
-updated: '2026-02-15'
-author: bc1984adam
-feature_image: ../images/2024/12/orchard.png
----
-
-![Semi-Arid, High-Elevation, Passive Irrigation Orchard](../images/2024/12/orchard.png)
+![Semi-Arid, High-Elevation, Passive Irrigation Orchard](/images/2024/12/orchard.png)
 
 Synthesized from various traditional methods: Hugelkultur, Miyawaki, Wadi System, etc.
 
@@ -19,7 +8,7 @@ This recipe was designed for an area in USDA Hardiness Zones 5B/6A/6B, with aver
 
 ---
 
-![](../images/2024/12/h.jpeg)
+![](/images/2024/12/h.jpeg)
 
 Hugelkultur Logs
 
@@ -40,7 +29,7 @@ Developing a sustainable and efficient tree planting system in a semi-arid, high
 
 ---
 
-![](../images/2024/12/wadi-diagram.png)
+![](/images/2024/12/wadi-diagram.png)
 
 Wadi System Illustration
 
@@ -98,7 +87,7 @@ Wadi System Illustration
 
 - Loosen compacted soil to improve root penetration and water infiltration.
 
-![](../images/2024/12/rock-mulch.jpg)
+![](/images/2024/12/rock-mulch.jpg)
 
 Arizona Desert Xeriscape with Rock Mulch
 
@@ -121,7 +110,7 @@ Arizona Desert Xeriscape with Rock Mulch
 - Place rocks around tree bases to reduce evaporation and capture dew.
 - Create rock piles to condense ambient moisture.
 
-![](../images/2024/12/arbequina.jpg)
+![](/images/2024/12/arbequina.jpg)
 
 Arbequina Olive Tree
 
@@ -439,3 +428,16 @@ Arbequina Olive Tree
 ---
 
 By integrating these methods and carefully selecting species adapted to the climate, the system aims to create a resilient and productive landscape that relies solely on natural precipitation and passive water collection. Regular monitoring and adaptive management will ensure long-term success and sustainability.
+
+---
+
+---
+title: Semi-Arid, High-Elevation, Passive Irrigation Orchard
+slug: passive-irrigation-orchard
+status: draft
+type: post
+date: '2024-12-05'
+updated: '2026-02-15'
+author: bc1984adam
+feature_image: /images/2024/12/orchard.png
+---

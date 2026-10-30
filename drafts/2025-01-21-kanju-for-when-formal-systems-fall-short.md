@@ -1,15 +1,4 @@
----
-title: 'Kanju: For When Formal Systems Fall Short'
-slug: kanju-for-when-formal-systems-fall-short
-status: draft
-type: post
-date: '2025-01-21'
-updated: '2026-07-18'
-author: bc1984adam
-feature_image: ../images/2025/01/DSCF5618-768x432.jpg
----
-
-![Kanju: For When Formal Systems Fall Short](../images/2025/01/DSCF5618-768x432.jpg)
+![Kanju: For When Formal Systems Fall Short](/images/2025/01/DSCF5618-768x432.jpg)
 
 `note: this post is a largely AI-generated exploration of ideas`
 
@@ -45,7 +34,7 @@ DRC’s "pharmacy motos": Motorcycle delivery networks supply medicines to confl
 
 Lagos’s "container homes": Shipping containers converted into affordable housing units amid housing shortages. [10]
 
-![](../images/2025/01/trojan-mining.png)
+![](/images/2025/01/trojan-mining.png)
 
 Trojan Mining team in front of a bitcoin mining container in Nigeria
 
@@ -65,3 +54,16 @@ Trojan Mining team in front of a bitcoin mining container in Nigeria
 Kanju reflects a broader African ethos of "sankofa" (using past wisdom to address present challenges) and thrives in contexts where formal systems fall short.
 
 For anyone exploring a character design, it is worth considering how details related to cosplay accessories will affect the complete look. As fans study the source material, it is sensible to balance details related to costume sizing with care and storage needs. To review details related to wig colour selection before the event, [cosplay accessories with delivery information](https://www.tsukicos.com/) can help narrow the options for a specific purpose. To preserve the character's visual identity, it is useful to check details related to cosplay shoes against the wearer's own needs.
+
+---
+
+---
+title: 'Kanju: For When Formal Systems Fall Short'
+slug: kanju-for-when-formal-systems-fall-short
+status: draft
+type: post
+date: '2025-01-21'
+updated: '2026-07-18'
+author: bc1984adam
+feature_image: /images/2025/01/DSCF5618-768x432.jpg
+---

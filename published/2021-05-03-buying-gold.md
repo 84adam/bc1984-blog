@@ -1,16 +1,4 @@
----
-title: Buying Gold
-slug: buying-gold
-status: published
-type: post
-date: '2021-05-03'
-updated: '2024-01-26'
-author: bc1984adam
-canonical: https://bc1984.com/buying-gold/
-feature_image: ../images/2021/05/gold-dollars.png
----
-
-![Buying Gold](../images/2021/05/gold-dollars.png)
+![Buying Gold](/images/2021/05/gold-dollars.png)
 
 [Really not financial advice.]
 
@@ -20,7 +8,7 @@ So why am I talking about how to buy gold?
 
 Well, first off, not everyone has come around to the idea of a Perfectly Scarce, Digital *Veblen Good* approaching Infinite Stock-to-Flow...
 
-![](../images/2021/05/veblen.png)
+![](/images/2021/05/veblen.png)
 
 ***Bitcoin is a [Veblen Good](https://www.reddit.com/r/Bitcoin/comments/ejzxrs/bitcoin_is_probably_a_veblen_good/)***
 
@@ -47,7 +35,7 @@ Absent these two key pieces of information, I offered the following alternative 
 1. Save up your money yourself until you can buy a [1/10th troy ounce gold coin](https://www.apmex.com/product/4/1-10-oz-american-gold-eagle-bu-random-year), or a similar sized bar, from one of the major world mints.
 2. Buy $[PHYS](https://sprott.com/investment-strategies/physical-bullion-trusts/gold/net-asset-value-premium-discount/), the Sprott Physical Gold Bullion Trust, for a 0% premium, as a simple means of getting gold exposure.
 
-![](../images/2021/05/tenth-ouce-gold-coin.png)
+![](/images/2021/05/tenth-ouce-gold-coin.png)
 
 one-tenth ounce american gold eagle coin
 
@@ -69,3 +57,17 @@ If you do visit a local coin shop for the first time, I recommend asking to see 
 The next question is to ask about the lowest premium gold coins and bars on offer. If the shopkeeper refuses or hesitates in divulging this information, walk out and find another coin shop. A coin shop should want repeat customers, which doesn't often materialize if transparency is not evident, or if people feel swindled when they get home and realize they overpaid for something.
 
 The second option, [PHYS](https://sprott.com/investment-strategies/physical-bullion-trusts/gold/net-asset-value-premium-discount/), the gold bullion trust, is easy if you have a brokerage account. The fees per year are modest and the premiums are null. But for folks that want real physical hard money in their hands, gold and silver bullion are hard to beat (I'd argue only [bitcoin](https://beta.strike.me/) beats them).
+
+---
+
+---
+title: Buying Gold
+slug: buying-gold
+status: published
+type: post
+date: '2021-05-03'
+updated: '2024-01-26'
+author: bc1984adam
+canonical: https://bc1984.com/buying-gold/
+feature_image: /images/2021/05/gold-dollars.png
+---

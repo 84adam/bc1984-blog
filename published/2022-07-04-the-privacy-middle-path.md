@@ -1,19 +1,4 @@
----
-title: The Privacy Money Middle Path
-slug: the-privacy-middle-path
-status: published
-type: post
-date: '2022-07-04'
-updated: '2024-01-26'
-author: bc1984adam
-canonical: https://bc1984.com/the-privacy-middle-path/
-feature_image: ../images/2022/07/Screenshot-at-2022-07-04-08-11-52.png
-excerpt: Bitcoin is really the first cash-like instrument that can be sent across
-  the internet, requiring no physical presence, while maintaining moderate-to-good
-  levels of privacy.
----
-
-![The Privacy Money Middle Path](../images/2022/07/Screenshot-at-2022-07-04-08-11-52.png)
+![The Privacy Money Middle Path](/images/2022/07/Screenshot-at-2022-07-04-08-11-52.png)
 
 What is Private Money?
 
@@ -64,7 +49,7 @@ The next step up in privacy is to ***CoinJoin your bitcoin***.
 
 ### CoinJoin: What and How
 
-[![](../images/2022/07/odell-collab.png)](https://twitter.com/ODELL/status/1375830337541001218)
+[![](/images/2022/07/odell-collab.png)](https://twitter.com/ODELL/status/1375830337541001218)
 
 As [Egge of BTC21.de](https://btc21.de/en/coinjoin-with-sparrow-how-to-anonymize-your-bitcoins/) describes it, CoinJoin is:
 
@@ -100,7 +85,7 @@ The question of how to spend said doxxic change is a non-trivial and somewhat co
 
 Some advocate for swapping it with monero, and then back to bitcoin. This would tend to be a fairly straightforward and simple way to deal with the problem. Beware of custodial risks and privacy risks, however. 3rd party swapping services may (likely do) keep logs of your IP address and the specific UTXO you send them. It also means having to create and maintain a separate non-bitcoin wallet. Ideally, you would build up a bit of an XMR balance before switching back into BTC. (This adds some XMR/BTC price-slippage risk.)
 
-[![](../images/2022/07/Screenshot-at-2022-07-04-09-18-57.png)](https://twitter.com/maxtannahill/status/1410882554996002816)
+[![](/images/2022/07/Screenshot-at-2022-07-04-09-18-57.png)](https://twitter.com/maxtannahill/status/1410882554996002816)
 
 Others advocate just leaving the change where it lies. Abandoning it, as it were. (The 'sad satoshis' option.)
 
@@ -122,3 +107,20 @@ If you can spare 5 or 10 more seconds, consider opening the Tor Browser or a Bra
   `http://explorerzydxu5ecjrkwceayqybizmpjjznk5izmitf2modhcusuqlid.onion/tx/push`
 
 Also: Remember to refresh or create a new connection to the Tor network regularly, and try to space out your spends/broadcasts somewhat to reduce the risks of timing attacks.
+
+---
+
+---
+title: The Privacy Money Middle Path
+slug: the-privacy-middle-path
+status: published
+type: post
+date: '2022-07-04'
+updated: '2024-01-26'
+author: bc1984adam
+canonical: https://bc1984.com/the-privacy-middle-path/
+feature_image: /images/2022/07/Screenshot-at-2022-07-04-08-11-52.png
+excerpt: Bitcoin is really the first cash-like instrument that can be sent across
+  the internet, requiring no physical presence, while maintaining moderate-to-good
+  levels of privacy.
+---

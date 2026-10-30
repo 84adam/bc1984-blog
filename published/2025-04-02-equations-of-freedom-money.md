@@ -1,16 +1,4 @@
----
-title: Equations of Freedom (Money)
-slug: equations-of-freedom-money
-status: published
-type: post
-date: '2025-04-02'
-updated: '2025-04-02'
-author: bc1984adam
-canonical: https://bc1984.com/equations-of-freedom-money/
-feature_image: ../images/2025/04/ff.jpeg
----
-
-![Equations of Freedom (Money)](../images/2025/04/ff.jpeg)
+![Equations of Freedom (Money)](/images/2025/04/ff.jpeg)
 
 ### Foundations of Cryptography: Groups, Rings, and Finite Fields
 
@@ -128,3 +116,17 @@ Groups (ℤ, elliptic curves), rings (ℤ[x]), and fields (𝔽ₚ) are tools of
 **Inspired by: "Motivate The Math" Podcast, by Fundamentals and average\_gary**
 
 - Motivate The Math: <https://serve.podhome.fm/motivate-the-math_638723836566573210>
+
+---
+
+---
+title: Equations of Freedom (Money)
+slug: equations-of-freedom-money
+status: published
+type: post
+date: '2025-04-02'
+updated: '2025-04-02'
+author: bc1984adam
+canonical: https://bc1984.com/equations-of-freedom-money/
+feature_image: /images/2025/04/ff.jpeg
+---

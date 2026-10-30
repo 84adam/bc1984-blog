@@ -1,17 +1,4 @@
----
-title: Bitcoin-Centric Portfolios
-slug: bitcoin-centric-portfolios
-status: published
-type: post
-date: '2023-03-05'
-updated: '2023-03-05'
-author: bc1984adam
-canonical: https://bc1984.com/bitcoin-centric-portfolios/
-feature_image: ../images/2023/03/Moissanite.jpg
-excerpt: Sample portfolios that put bitcoin front and center
----
-
-![Bitcoin-Centric Portfolios](../images/2023/03/Moissanite.jpg)
+![Bitcoin-Centric Portfolios](/images/2023/03/Moissanite.jpg)
 
 ## Arranged from "Soft" to "Hard"
 
@@ -62,3 +49,18 @@ excerpt: Sample portfolios that put bitcoin front and center
 ---
 
 Enjoy!
+
+---
+
+---
+title: Bitcoin-Centric Portfolios
+slug: bitcoin-centric-portfolios
+status: published
+type: post
+date: '2023-03-05'
+updated: '2023-03-05'
+author: bc1984adam
+canonical: https://bc1984.com/bitcoin-centric-portfolios/
+feature_image: /images/2023/03/Moissanite.jpg
+excerpt: Sample portfolios that put bitcoin front and center
+---

@@ -1,15 +1,4 @@
----
-title: HAVE YOU HEARD THE GOOD WORD ABOUT BITCOIN?
-slug: robed-maxis-proof-of-steak
-status: draft
-type: post
-date: '2024-10-03'
-updated: '2026-02-15'
-author: bc1984adam
-feature_image: ../images/2024/10/robed-maxis.png
----
-
-![HAVE YOU HEARD THE GOOD WORD ABOUT BITCOIN?](../images/2024/10/robed-maxis.png)
+![HAVE YOU HEARD THE GOOD WORD ABOUT BITCOIN?](/images/2024/10/robed-maxis.png)
 
 ## Bitcoin as a Religion
 
@@ -75,3 +64,16 @@ feature_image: ../images/2024/10/robed-maxis.png
 ---
 
 **INSPIRED BY: <https://zerohplovecraft.substack.com/p/marooned-in-the-deepest-darkness-993>**
+
+---
+
+---
+title: HAVE YOU HEARD THE GOOD WORD ABOUT BITCOIN?
+slug: robed-maxis-proof-of-steak
+status: draft
+type: post
+date: '2024-10-03'
+updated: '2026-02-15'
+author: bc1984adam
+feature_image: /images/2024/10/robed-maxis.png
+---

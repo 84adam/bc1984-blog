@@ -1,18 +1,4 @@
----
-title: Bitcoin as Digital Cash
-slug: bitcoin-as-digital-cash
-status: published
-type: post
-date: '2023-02-04'
-updated: '2024-01-26'
-author: bc1984adam
-canonical: https://bc1984.com/bitcoin-as-digital-cash/
-feature_image: ../images/2023/02/ecash-img.jpg
-excerpt: Bitcoin is like real cash, but formless and with a fixed supply. Its adopters
-  immunize themselves against fiat inflation and gain privacy advantages.
----
-
-![Bitcoin as Digital Cash](../images/2023/02/ecash-img.jpg)
+![Bitcoin as Digital Cash](/images/2023/02/ecash-img.jpg)
 
 Bitcoin is like real cash, but formless (purely electronic) and with a fixed supply of 21 million. Sovereign individuals can increase their privacy and protect their wealth by adopting bitcoin, even on the margin.
 
@@ -22,7 +8,7 @@ Until the [announcement of the Bitcoin Whitepaper](https://satoshi.nakamotoinsti
 
 Many [very](https://nakamotoinstitute.org/b-money) [smart](https://nakamotoinstitute.org/static/docs/hashcash.pdf) [people](https://nakamotoinstitute.org/literature/blind-signatures) [made](https://nakamotoinstitute.org/triple-entry-accounting) [attempts](https://nakamotoinstitute.org/bit-gold) [over](https://nakamotoinstitute.org/online-cash-checks) [the](https://nakamotoinstitute.org/digital-cash-and-privacy) [years](https://nakamotoinstitute.org/static/docs/on-digital-cash-like-payment-systems.pdf) to lay the groundwork or build something like it, but bitcoin was the first truly peer-to-peer digital cash system that was robust against attacks and built in reasonable incentives for participants to help grow the network.
 
-[![](../images/2023/02/swg0psbvt1v31.png)](https://twitter.com/btcmrkts/status/964769812231569408)
+[![](/images/2023/02/swg0psbvt1v31.png)](https://twitter.com/btcmrkts/status/964769812231569408)
 
 Notable events leading to the discovery/invention of bitcoin
 
@@ -56,7 +42,7 @@ Finally, bitcoin is pseudonymous. Meaning you can spend and receive it without a
 
 ### The Ledger Is Public
 
-The fact that the bitcoin ledger is public means certain metadata about your transactions and the past history of any coins you hold may be known or easily derived. But tools exist to enhance the privacy of bitcoin over this 'public' baseline too: Namely, coinjoin. (Click [here](2022-07-04-the-privacy-middle-path.md) to read more about using *coinjoin* for privacy on bitcoin.)
+The fact that the bitcoin ledger is public means certain metadata about your transactions and the past history of any coins you hold may be known or easily derived. But tools exist to enhance the privacy of bitcoin over this 'public' baseline too: Namely, coinjoin. (Click [here](/the-privacy-middle-path/) to read more about using *coinjoin* for privacy on bitcoin.)
 
 With that said, even the baseline pseudonymity of bitcoin provides for better privacy than PayPal, your Credit Card, or a paper check.
 
@@ -86,3 +72,19 @@ You don't have to put all your money into bitcoin.
 You don't have to spend bitcoin at every shop and stop using cash and cards all together.
 
 But bitcoin is a parallel system. A voluntary system. And it is ready and waiting for you to dive in.
+
+---
+
+---
+title: Bitcoin as Digital Cash
+slug: bitcoin-as-digital-cash
+status: published
+type: post
+date: '2023-02-04'
+updated: '2024-01-26'
+author: bc1984adam
+canonical: https://bc1984.com/bitcoin-as-digital-cash/
+feature_image: /images/2023/02/ecash-img.jpg
+excerpt: Bitcoin is like real cash, but formless and with a fixed supply. Its adopters
+  immunize themselves against fiat inflation and gain privacy advantages.
+---

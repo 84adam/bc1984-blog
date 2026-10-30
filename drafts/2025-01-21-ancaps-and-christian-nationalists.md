@@ -1,15 +1,4 @@
----
-title: Ancaps & Christian Nationalists
-slug: ancaps-and-christian-nationalists
-status: draft
-type: post
-date: '2025-01-21'
-updated: '2026-05-29'
-author: bc1984adam
-feature_image: ../images/2025/01/ancap-xn-flag.png
----
-
-![Ancaps & Christian Nationalists](../images/2025/01/ancap-xn-flag.png)
+![Ancaps & Christian Nationalists](/images/2025/01/ancap-xn-flag.png)
 
 - ***How can one reconcile Christian Nationalism with a desire to abolish or drastically weaken the state?***
 - ***How can Ancaps and Christian Nationalists work together in a spirit of mutual cooperation?***
@@ -29,3 +18,16 @@ The ability to opt-out (with monies like gold, silver, bitcoin and monero) and m
 Critics might question how a movement seeking moral order (Christian Nationalism) aligns with one prioritizing radical individualism (Anarcho-Capitalism). Yet zoning proposals, such as “sin cities” for secular libertines and “covenant communities” for traditionalists, could resolve this tension. Political theorist Curtis Yarvin notes, “The future of governance lies in competitive jurisdictions,” a vision shared by seasteading advocates like Patri Friedman. By partitioning physical or digital spaces into voluntary enclaves, both groups could coexist without compromising core values. As John Locke—whose natural rights philosophy intertwined with Protestant theology—wrote in 1689, “The care of souls cannot belong to the civil magistrate,” a principle affirming the separation of spiritual and civil authority.
 
 Ultimately, the Ancap–Christian Nationalist alliance hinges on a shared diagnosis of state failure rather than full ideological congruence. Their cooperation would resemble the uneasy partnership between abolitionists and suffragettes in the 19th century: united by immediate goals but diverging in ultimate visions. By leveraging historical precedents, theological synergies, and innovative governance models, these movements could challenge the monopoly of the secular progressive state. As Romans 13:1 cautions, “Let every soul be subject to the governing authorities”—but when those authorities defy divine and natural law, both groups agree that resistance becomes a sacred duty.
+
+---
+
+---
+title: Ancaps & Christian Nationalists
+slug: ancaps-and-christian-nationalists
+status: draft
+type: post
+date: '2025-01-21'
+updated: '2026-05-29'
+author: bc1984adam
+feature_image: /images/2025/01/ancap-xn-flag.png
+---

@@ -1,16 +1,4 @@
----
-title: 'Dear Utah Residents: Get VPNs Ready!'
-slug: dear-utah-residents-get-vpn-ready
-status: published
-type: post
-date: '2026-05-29'
-updated: '2026-05-29'
-author: bc1984adam
-canonical: https://bc1984.com/dear-utah-residents-get-vpn-ready/
-feature_image: ../images/2026/05/DONTWAITVPNMONIES.png
----
-
-![Dear Utah Residents: Get VPNs Ready!](../images/2026/05/DONTWAITVPNMONIES.png)
+![Dear Utah Residents: Get VPNs Ready!](/images/2026/05/DONTWAITVPNMONIES.png)
 
 Utah residents concerned about restrictions surrounding VPN use can still reliably reach providers like [**Mullvad**](https://mullvad.net/), [**IVPN**](https://www.ivpn.net/), and [**TorGuard**](https://torguard.net/) by installing Tor Browser, which routes traffic through the Tor network to bypass blocks and restrictions imposed at the website or network level. Under SB 73, signed into law by Governor Spencer Cox on March 19, 2026, a user is considered to be accessing a website from Utah if they are physically there, regardless of any proxy server or VPN masking their IP address, and the law prohibits commercial entities hosting a substantial portion of material harmful to minors from providing any instructions on how to use a VPN to circumvent these checks. Before or alongside installing Tor, many users find it useful to adjust their DNS settings because their ISP's default resolver may interfere with access or log every domain they query. Reliable options include Cloudflare's privacy-respecting resolver at 1.1.1.1 and Mullvad's uncensored encrypted DNS at 194.242.2.2, whose public DNS servers run fully in RAM so that all traces of activity on disk are removed. Both emphasize user privacy and avoid the censorship tendencies seen with mainstream providers like Google.
 
@@ -21,3 +9,17 @@ Once DNS is updated, downloading Tor Browser becomes the primary tool for circum
 With Tor active, the official websites for Mullvad, IVPN, and TorGuard become reachable, allowing direct downloads of their client software or configuration files without further interference. The slower speeds inherent to Tor are expected during this initial phase and are only temporary. Installation of the chosen VPN then proceeds normally on each platform through the downloaded files, with most providers offering straightforward setup wizards that support WireGuard or OpenVPN protocols for optimal performance once the VPN is active.
 
 For payment, these services typically accept Bitcoin or the more private Monero, both of which can be acquired in Utah without extensive verification. Bitcoin is simplest through local Bitcoin ATMs scattered across Salt Lake City, Provo, and other areas, where cash can be converted instantly to a personal wallet, or via apps like Cash App and Strike that support direct purchases and withdrawals. Monero purchases are often completed by first obtaining Bitcoin through the same methods and then swapping it on a Tor-accessible non-KYC exchange service. For finding reliable swap services, [**kycnot.me**](https://kycnot.me) is an essential resource that catalogs no-KYC exchanges and rates them by privacy score and trust rating, with the directory actively flagging scams and unreliable operators so users can avoid losing funds. It also lists tools like atomic swap software for Bitcoin to Monero swaps in a decentralized manner using open-source desktop software, alongside other trusted aggregators and peer-to-peer options. After funding the VPN account with a short-term subscription to test the connection, connecting and attempting to navigate to various websites that may have otherwise been blocked would serve to confirm that the bypass is complete and privacy protections are in place.
+
+---
+
+---
+title: 'Dear Utah Residents: Get VPNs Ready!'
+slug: dear-utah-residents-get-vpn-ready
+status: published
+type: post
+date: '2026-05-29'
+updated: '2026-05-29'
+author: bc1984adam
+canonical: https://bc1984.com/dear-utah-residents-get-vpn-ready/
+feature_image: /images/2026/05/DONTWAITVPNMONIES.png
+---

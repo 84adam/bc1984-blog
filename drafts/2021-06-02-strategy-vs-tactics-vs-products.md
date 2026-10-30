@@ -1,13 +1,3 @@
----
-title: Strategy and Tactics
-slug: strategy-vs-tactics-vs-products
-status: draft
-type: post
-date: '2021-06-02'
-updated: '2021-06-10'
-author: bc1984adam
----
-
 Distinct Goals:
 
 - Retire early
@@ -86,3 +76,15 @@ Announcing your plans makes you less motivated to accomplish them. (See: <https:
 ---
 
 .
+
+---
+
+---
+title: Strategy and Tactics
+slug: strategy-vs-tactics-vs-products
+status: draft
+type: post
+date: '2021-06-02'
+updated: '2021-06-10'
+author: bc1984adam
+---

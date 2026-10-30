@@ -1,16 +1,4 @@
----
-title: Fancy Fiat
-slug: fancy-fiat
-status: published
-type: post
-date: '2025-01-29'
-updated: '2025-01-29'
-author: bc1984adam
-canonical: https://bc1984.com/fancy-fiat/
-feature_image: ../images/2025/01/Screenshot_2025-01-29_14-00-12.png
----
-
-![Fancy Fiat](../images/2025/01/Screenshot_2025-01-29_14-00-12.png)
+![Fancy Fiat](/images/2025/01/Screenshot_2025-01-29_14-00-12.png)
 
 Let me tell you about these fancy promises they call legal tender.
 
@@ -46,4 +34,18 @@ But if you don't care to gamble on the undying multiple expansion of your favori
 
 Source: All the books they don't tell you to read in school.
 
-Things to Keep: **[MCBAGS](2024-10-22-pack-your-mcbags.md)**: `Monero-Cash-Bitcoin-Ammo-Gold-Silver`
+Things to Keep: **[MCBAGS](/pack-your-mcbags/)**: `Monero-Cash-Bitcoin-Ammo-Gold-Silver`
+
+---
+
+---
+title: Fancy Fiat
+slug: fancy-fiat
+status: published
+type: post
+date: '2025-01-29'
+updated: '2025-01-29'
+author: bc1984adam
+canonical: https://bc1984.com/fancy-fiat/
+feature_image: /images/2025/01/Screenshot_2025-01-29_14-00-12.png
+---

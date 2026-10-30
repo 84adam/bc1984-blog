@@ -1,14 +1,3 @@
----
-title: Goodbye, Bitcoin!
-slug: goodbye-bitcoin
-status: published
-type: post
-date: '2026-09-25'
-updated: '2026-10-11'
-author: bc1984adam
-canonical: https://bc1984.com/goodbye-bitcoin/
----
-
 *NUMBER-GO-UP is a bribe to take your eyes off the prize.  
 All the focus on the price is the devil in disguise.*
 
@@ -71,3 +60,16 @@ To carry torches lit through time for the people we want to see around.*
 And the one's keeping it real.  
 Keep your eyes on the prize.  
 The mission is something that they can't steal.*
+
+---
+
+---
+title: Goodbye, Bitcoin!
+slug: goodbye-bitcoin
+status: published
+type: post
+date: '2026-09-25'
+updated: '2026-10-11'
+author: bc1984adam
+canonical: https://bc1984.com/goodbye-bitcoin/
+---

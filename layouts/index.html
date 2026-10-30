@@ -1,0 +1,11 @@
+{{ define "main" }}
+<img class="banner" src="/images/2021/05/Red_Pillars_9.png" alt="BC1984">
+<ul class="post-list">
+  {{ range where site.RegularPages "Type" "post" }}
+  <li>
+    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 Jan 2006" }}</time>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  </li>
+  {{ end }}
+</ul>
+{{ end }}

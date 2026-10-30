@@ -1,15 +1,4 @@
----
-title: Back to the Land, Back to Your People
-slug: back-to-the-land-back-to-your-people
-status: draft
-type: post
-date: '2025-01-14'
-updated: '2026-02-15'
-author: bc1984adam
-feature_image: ../images/2025/01/peace-land-brea.jpg
----
-
-![Back to the Land, Back to Your People](../images/2025/01/peace-land-brea.jpg)
+![Back to the Land, Back to Your People](/images/2025/01/peace-land-brea.jpg)
 
 Seeing the post below, and looking at the tags and metadata, I wondered why it might be getting downranked by the X algo...
 
@@ -269,4 +258,17 @@ Synopsis: Basically, the post argues that Fascism is yet another False God of Ci
 - Cultural Autonomy
 - Individual Soveriegnty and Decentralized Communities
 
+---
+
+---
+
+---
+title: Back to the Land, Back to Your People
+slug: back-to-the-land-back-to-your-people
+status: draft
+type: post
+date: '2025-01-14'
+updated: '2026-02-15'
+author: bc1984adam
+feature_image: /images/2025/01/peace-land-brea.jpg
 ---

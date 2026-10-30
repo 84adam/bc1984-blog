@@ -1,16 +1,4 @@
----
-title: HTTPS Everywhere, Inside Your Network Edition
-slug: step-ca-https-everywhere-inside-your-network-edition
-status: published
-type: post
-date: '2024-04-16'
-updated: '2024-04-17'
-author: bc1984adam
-canonical: https://bc1984.com/step-ca-https-everywhere-inside-your-network-edition/
-feature_image: ../images/2024/04/mqAuy.png
----
-
-![HTTPS Everywhere, Inside Your Network Edition](../images/2024/04/mqAuy.png)
+![HTTPS Everywhere, Inside Your Network Edition](/images/2024/04/mqAuy.png)
 
 ## Step CA
 
@@ -626,6 +614,20 @@ AWS offers two services that can be used for securely handling CA keys: KMS (Key
 
 # DONE
 
-![](../images/2024/04/iid-provisioner.png)
+![](/images/2024/04/iid-provisioner.png)
 
 **HAPPY HUNTING!**
+
+---
+
+---
+title: HTTPS Everywhere, Inside Your Network Edition
+slug: step-ca-https-everywhere-inside-your-network-edition
+status: published
+type: post
+date: '2024-04-16'
+updated: '2024-04-17'
+author: bc1984adam
+canonical: https://bc1984.com/step-ca-https-everywhere-inside-your-network-edition/
+feature_image: /images/2024/04/mqAuy.png
+---

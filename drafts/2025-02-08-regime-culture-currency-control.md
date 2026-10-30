@@ -1,15 +1,4 @@
----
-title: Regime-Culture-Currency Control
-slug: regime-culture-currency-control
-status: draft
-type: post
-date: '2025-02-08'
-updated: '2026-07-18'
-author: bc1984adam
-feature_image: ../images/2025/02/coinjoin-guys.jpg
----
-
-![Regime-Culture-Currency Control](../images/2025/02/coinjoin-guys.jpg)
+![Regime-Culture-Currency Control](/images/2025/02/coinjoin-guys.jpg)
 
 `[NOTE: This post was written entirely by AI (Deepseek R1 LLM).]`
 
@@ -59,3 +48,16 @@ When planning a cosplay look, it is worth considering how details related to cos
 [4] Rufo, *America’s Cultural Revolution*  
 [5] Wolfe, *The Case for Christian Nationalism*  
 [6] Hayek, *Denationalisation of Money*
+
+---
+
+---
+title: Regime-Culture-Currency Control
+slug: regime-culture-currency-control
+status: draft
+type: post
+date: '2025-02-08'
+updated: '2026-07-18'
+author: bc1984adam
+feature_image: /images/2025/02/coinjoin-guys.jpg
+---

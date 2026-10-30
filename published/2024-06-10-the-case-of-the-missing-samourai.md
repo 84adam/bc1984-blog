@@ -1,16 +1,4 @@
----
-title: The Case of the Missing Samourai
-slug: the-case-of-the-missing-samourai
-status: published
-type: post
-date: '2024-06-10'
-updated: '2024-08-08'
-author: bc1984adam
-canonical: https://bc1984.com/the-case-of-the-missing-samourai/
-feature_image: ../images/2024/08/fs.png
----
-
-![The Case of the Missing Samourai](../images/2024/08/fs.png)
+![The Case of the Missing Samourai](/images/2024/08/fs.png)
 
 [@SamouraiWallet](https://x.com/SamouraiWallet) and [@SamouraiDev](https://x.com/SamouraiDev) have been indicted for conspiracy to commit money laundering and conspiracy to operate as a Money Services Business (MSB) without a license, allegations of which many in the bitcoin, privacy and legal community find to be preposterous...
 
@@ -49,4 +37,18 @@ The Samourai Developers should be free.
 - Nasdaq: <https://www.nasdaq.com/articles/samourai-wallet:-breaking-down-dangerous-precedents>
 - The Blaze: <https://www.theblaze.com/return/free-samourai-the-deep-state-s-attack-on-bitcoin>
 
-![](../images/2024/06/logo_free_samourai.png)
+![](/images/2024/06/logo_free_samourai.png)
+
+---
+
+---
+title: The Case of the Missing Samourai
+slug: the-case-of-the-missing-samourai
+status: published
+type: post
+date: '2024-06-10'
+updated: '2024-08-08'
+author: bc1984adam
+canonical: https://bc1984.com/the-case-of-the-missing-samourai/
+feature_image: /images/2024/08/fs.png
+---

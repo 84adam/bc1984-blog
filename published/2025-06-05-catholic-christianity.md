@@ -1,16 +1,4 @@
----
-title: Catholic Christianity
-slug: catholic-christianity
-status: published
-type: post
-date: '2025-06-05'
-updated: '2026-02-15'
-author: bc1984adam
-canonical: https://bc1984.com/catholic-christianity/
-feature_image: ../images/2025/06/840302ee095ddda9fc7a7131f38cf817.jpg
----
-
-![Catholic Christianity](../images/2025/06/840302ee095ddda9fc7a7131f38cf817.jpg)
+![Catholic Christianity](/images/2025/06/840302ee095ddda9fc7a7131f38cf817.jpg)
 
 `AI;DR: (AI; Didn't Read) -- I am interested in the constancy, conservatism, ritual, and aesthetics of the Catholic Christian church. I am still learning about it. I struggle most with how it is perceived by Protestants. Some of the essay below touches on good Catholic responses to Protestant critiques.`
 
@@ -33,3 +21,17 @@ REFERENCES:
 3. <https://catholicus.eu/en/latin-phrases-every-catholic-should-know-eternal-wisdom-for-daily-life/>
 4. <https://en.wikipedia.org/wiki/Ite,_missa_est>
 5. <https://streetevangelization.com/blog/2013/03/03/why-so-many-protestants-do-not-consider-catholics-christian/>
+
+---
+
+---
+title: Catholic Christianity
+slug: catholic-christianity
+status: published
+type: post
+date: '2025-06-05'
+updated: '2026-02-15'
+author: bc1984adam
+canonical: https://bc1984.com/catholic-christianity/
+feature_image: /images/2025/06/840302ee095ddda9fc7a7131f38cf817.jpg
+---

@@ -1,16 +1,4 @@
----
-title: 'Implied Volatility (IV) Surface: Key Concepts for Beginning Options Traders'
-slug: implied-volatility-surface
-status: published
-type: post
-date: '2024-08-16'
-updated: '2024-08-16'
-author: bc1984adam
-canonical: https://bc1984.com/implied-volatility-surface/
-feature_image: ../images/2024/08/IV_surface.webp
----
-
-![Implied Volatility (IV) Surface: Key Concepts for Beginning Options Traders](../images/2024/08/IV_surface.webp)
+![Implied Volatility (IV) Surface: Key Concepts for Beginning Options Traders](/images/2024/08/IV_surface.webp)
 
 ### Understanding the Implied Volatility Surface: A Key to Choosing the Right Strike Prices and Expirations in Options Trading
 
@@ -20,7 +8,7 @@ When it comes to options trading, particularly with equity index options like SP
 
 The implied volatility surface is essentially a plot that illustrates how IV changes depending on the strike price (horizontal axis) and the time to expiration (depth axis). The height or vertical axis represents the IV itself. Unlike what the Black-Scholes model might suggest, the volatility surface is rarely flat. Instead, it often exhibits a curve, or "smile," especially in real-world market conditions. This curvature reflects market sentiments, supply and demand, and the perceived risk of the underlying asset at different price levels and times.
 
-![](../images/2024/08/Screenshot-at-2024-08-16-14-27-11.png)
+![](/images/2024/08/Screenshot-at-2024-08-16-14-27-11.png)
 
 The implied volatility surface for S&P 500 index options as a function of strike level and term to expiration on September 27, 1995. NOTE: Liquid listed options have discrete strikes and expirations, and so we must interpolate between them to create a continuous surface.
 
@@ -63,3 +51,17 @@ For options traders, especially those focusing on buying calls and puts, masteri
 - *The Volatility Surface Explained*, by Craig Anthony: <https://www.investopedia.com/articles/stock-analysis/081916/volatility-surface-explained.asp>
 - Quantitative Strategies, Research Notes, Goldman Sachs: *The Local Volatility Surface: Unlocking the Information in Index Option Prices, by* Emanuel Derman, Iraj Kani, Joseph Z. Zou, DEC 1995: <https://emanuelderman.com/wp-content/uploads/1996/06/gs-local_volatility_surface.pdf>
 - *Options Volatility: The VIX, Rule of 16, and Skew – Learn how to measure volatility using the Cboe VIX, rule of 16, and skew in your options trading*, Schwab, FEB, 2023: <https://www.schwab.com/learn/story/options-volatility-vix-skew-and-rule-16>
+
+---
+
+---
+title: 'Implied Volatility (IV) Surface: Key Concepts for Beginning Options Traders'
+slug: implied-volatility-surface
+status: published
+type: post
+date: '2024-08-16'
+updated: '2024-08-16'
+author: bc1984adam
+canonical: https://bc1984.com/implied-volatility-surface/
+feature_image: /images/2024/08/IV_surface.webp
+---

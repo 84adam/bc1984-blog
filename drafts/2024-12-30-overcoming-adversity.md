@@ -1,15 +1,4 @@
----
-title: Overcoming Adversity
-slug: overcoming-adversity
-status: draft
-type: post
-date: '2024-12-30'
-updated: '2026-07-18'
-author: bc1984adam
-feature_image: ../images/2024/12/pyx.png
----
-
-![Overcoming Adversity](../images/2024/12/pyx.png)
+![Overcoming Adversity](/images/2024/12/pyx.png)
 
 **Trial of the Pyx ~ Jihad ~ The Hero's Journey ~ The Dark Night of the Soul**
 
@@ -41,4 +30,17 @@ Sister Maria's footsteps echo through St. Catherine's Convent at 3 AM, her twent
 
 When accuracy matters for a costume, it is worth considering how details related to short cosplay wigs will affect the complete look. During a long convention day, it is sensible to balance details related to cosplay costumes with care and storage needs. For choices related to details related to cosplay shoes, [men's cosplay costumes with matching shoes](https://www.tsukicos.com/) offers a useful starting point for practical preparation. Before the preparation is complete, a balanced view of details related to heat resistant cosplay wigs can support both detail and comfort.
 
+---
+
+---
+
+---
+title: Overcoming Adversity
+slug: overcoming-adversity
+status: draft
+type: post
+date: '2024-12-30'
+updated: '2026-07-18'
+author: bc1984adam
+feature_image: /images/2024/12/pyx.png
 ---

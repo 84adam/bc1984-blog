@@ -1,16 +1,4 @@
----
-title: Helter Skelter
-slug: helter-skedastic
-status: published
-type: post
-date: '2026-01-21'
-updated: '2026-02-15'
-author: bc1984adam
-canonical: https://bc1984.com/helter-skedastic/
-feature_image: ../images/2026/01/htst.jpg
----
-
-![Helter Skelter](../images/2026/01/htst.jpg)
+![Helter Skelter](/images/2026/01/htst.jpg)
 
 `AI;DR: (AI; Didn't Read) -- Sometimes life surprises you and a week feels like a decade. This is true in markets and in real life too.`
 
@@ -87,3 +75,17 @@ Lenin's famous line "There are decades where nothing happens and weeks where dec
 The practical takeaway mirrors risk management. In calm periods, build slack, skills and resilience: Sleep, savings, relationships, accuracy, fitness, etc. Calm itself does not cause storms, but it is the only time you can cheaply prepare for them. And in the storm weeks, judge yourself by your robustness rather than optimization: Smaller plans, shorter horizons, fewer irreversible decisions. Markets call it surviving a regime shift; life calls it getting through a *decade-long week*.
 
 **Remember: Perfection is the enemy of the Good.**
+
+---
+
+---
+title: Helter Skelter
+slug: helter-skedastic
+status: published
+type: post
+date: '2026-01-21'
+updated: '2026-02-15'
+author: bc1984adam
+canonical: https://bc1984.com/helter-skedastic/
+feature_image: /images/2026/01/htst.jpg
+---

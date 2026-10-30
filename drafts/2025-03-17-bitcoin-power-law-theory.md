@@ -1,13 +1,3 @@
----
-title: bitcoin power law theory
-slug: bitcoin-power-law-theory
-status: draft
-type: post
-date: '2025-03-17'
-updated: '2026-07-18'
-author: bc1984adam
----
-
 The Bitcoin Power Law Theory, pioneered by astrophysicist and computational researcher Giovanni Santostasi, posits that Bitcoin’s growth is governed by mathematical principles akin to natural phenomena rather than traditional financial models. Santostasi, who has studied Bitcoin for over a decade, argues that its price, network metrics, and adoption patterns follow **power laws**—relationships where one quantity scales as a fixed power of another (e.g., y = A \* x^n)—that emerge from recursive feedback loops in its code and human behavior. This theory challenges conventional narratives about Bitcoin’s value drivers, such as scarcity or speculative demand, and instead frames it as self-referential network whose growth mirrors biological systems or urban development.
 
 At the core of Santostasi’s theory is the observation that Bitcoin’s price, hash rate, and addresses all scale predictably over time. For instance, his models show that Bitcoin’s price adheres to a relationship where **price is proportional to time raised to the 5.82 power** (time^5.82), with time measured since the Genesis Block. Similarly, hash rate grows as time^11.4, while addresses (a proxy for user adoption) expand as time^3. These relationships, Santostasi argues, stem from Bitcoin’s **difficulty adjustment mechanism**, which creates a feedback loop between miners and users. As price rises, mining becomes more profitable, attracting computational power; increased hash rate enhances network security, which in turn drives adoption and price. “Bitcoin is like a city,” Santostasi writes, “where growth begets more growth, not through chance, but through rules written into its DNA.” This mirrors natural systems, such as Kleiber’s Law in biology (which relates metabolic rate to body size) or the scaling of cities, where infrastructure and population follow predictable proportional relationships.
@@ -68,3 +58,15 @@ Santostasi dismisses concerns about diminishing onchain activity by invoking the
 - `https://giovannisantostasi.medium.com/the-bitcoin-power-law-theory-962dfaf99ee9`
 
 As an event approaches, it is worth considering how details related to short cosplay wigs will affect the complete look. As fans study the source material, a comparison of details related to shoes and accessories can clarify differences in colour and construction. To organise preparations involving details related to cosplay wigs, [Genshin Impact cosplay costumes for outdoor photography](https://www.tsukicos.com/) offers a useful starting point for practical preparation. For an outfit that feels convincing, a balanced view of details related to costume sizing can support both detail and comfort.
+
+---
+
+---
+title: bitcoin power law theory
+slug: bitcoin-power-law-theory
+status: draft
+type: post
+date: '2025-03-17'
+updated: '2026-07-18'
+author: bc1984adam
+---

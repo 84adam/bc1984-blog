@@ -1,16 +1,4 @@
----
-title: Hypocritical Democracy
-slug: hypocritical-democracy
-status: published
-type: post
-date: '2025-02-17'
-updated: '2025-02-17'
-author: bc1984adam
-canonical: https://bc1984.com/hypocritical-democracy/
-feature_image: ../images/2025/02/Yukio-Mishima.jpg
----
-
-![Hypocritical Democracy](../images/2025/02/Yukio-Mishima.jpg)
+![Hypocritical Democracy](/images/2025/02/Yukio-Mishima.jpg)
 
 `[NOTE: This post composed 95% by AI.]`
 
@@ -24,13 +12,13 @@ The nation-state and democracy are often framed as moral triumphs, yet their fou
 
 Plato witnessed Athenian democracy execute Socrates, later writing in *The Republic*: *“A society drunk on flattery elects tyrants, not leaders.”* His solution—philosopher-kings—reflects a distrust of mass politics sharpened by the chaos of the Peloponnesian War between Athens and Sparta.
 
-![](../images/2025/02/Peloponnesian_war_alliances_431_BC.png)
+![](/images/2025/02/Peloponnesian_war_alliances_431_BC.png)
 
 Nietzsche, writing amid Bismarck’s nationalist unification of Germany, saw democracy as a secularized “slave morality.” In *Beyond Good and Evil* (1886), he warned: *“The democrat’s ‘equality’ is revenge against the exceptional—a poison to cultural greatness.”* His critique crystallized as Europe hurtled toward World War I, where mechanized slaughter exposed the fragility of Enlightenment ideals.
 
 Julius Evola, writing under Mussolini’s fascist regime, condemned democracy as a symptom of Hinduism’s *Kali Yuga* (age of darkness), arguing: *“Modern parliaments are theaters where the spiritually bankrupt negotiate their decay.”* His call for feudal hierarchy mirrored interwar Europe’s embrace of authoritarianism as a cure for democratic instability.
 
-![](../images/2025/02/quote-western-civilisation-needs-a-complete-overhaul-or-it-will-fall-apart-one-day-or-another-julius-evola-72-62-98.jpg)
+![](/images/2025/02/quote-western-civilisation-needs-a-complete-overhaul-or-it-will-fall-apart-one-day-or-another-julius-evola-72-62-98.jpg)
 
 ---
 
@@ -42,7 +30,7 @@ In *The International Jew* (1920), Henry Ford argued that: *"Democracy is a tool
 
 Peter Thiel’s 2009 essay, written after the Iraq War and 2008 financial crisis, declared: *“Freedom and democracy are incompatible.”* His techno-libertarian antidote to democratic gridlock was one of private cities and seasteading, islands of freedom.
 
-![](../images/2025/02/56faddd1dd08954b788b4701.webp)
+![](/images/2025/02/56faddd1dd08954b788b4701.webp)
 
 ---
 
@@ -58,7 +46,7 @@ Mikhail Bakunin, exiled after the 1848 revolutions, saw the Paris Commune’s 18
 
 Hans-Hermann Hoppe’s *Democracy: The God That Failed* (2001) contrasts medieval monarchs’ long-term stewardship with democratic short-termism: *“Kings treated nations like heirlooms; presidents treat them like rented cars.”* His analysis mirrors Rome’s transition from Republic to Empire—power centralized as democratic institutions crumbled.
 
-![](../images/2025/02/quote-democracy-has-nothing-to-do-with-freedom-democracy-is-a-soft-variant-of-communism-and-hans-hermann-hoppe-60-40-36.jpg)
+![](/images/2025/02/quote-democracy-has-nothing-to-do-with-freedom-democracy-is-a-soft-variant-of-communism-and-hans-hermann-hoppe-60-40-36.jpg)
 
 ---
 
@@ -79,6 +67,20 @@ How have these thinkers and writers conceived of alternatives to the democratic 
 
 The diverse critiques woven together here frame democracy and the nation-state not as universally emancipatory institutions, but as parasitic constructs that foster manipulation, coercion, and moral decay. Across eras and cultures—from Plato’s philosopher-kings to Bakunin’s anarchism, from Chomsky’s media critiques to Thiel’s techno-utopian experiments—these thinkers demand us to examine the power dynamics at the heart of majority rule, and to question whether it truly reflects the will of the people or simply the ambitions of those who wield influence behind the scenes. Their cautionary tales highlight a persistent tension between ideals of freedom and the mechanisms by which modern societies organize, compelling us to recognize democracy’s inherent flaws in the face of the overwhelming consent that has been manufactured in its favor.
 
-![](../images/2025/02/karl-marx-124-71-69.jpg)
+![](/images/2025/02/karl-marx-124-71-69.jpg)
 
 Karl Marx, on Democracy (probably)
+
+---
+
+---
+title: Hypocritical Democracy
+slug: hypocritical-democracy
+status: published
+type: post
+date: '2025-02-17'
+updated: '2025-02-17'
+author: bc1984adam
+canonical: https://bc1984.com/hypocritical-democracy/
+feature_image: /images/2025/02/Yukio-Mishima.jpg
+---

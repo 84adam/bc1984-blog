@@ -1,16 +1,4 @@
----
-title: The Blank-Slate-Ism of Tariffologists
-slug: the-blank-slate-ism-of-tariffologists
-status: published
-type: post
-date: '2025-03-31'
-updated: '2026-02-15'
-author: bc1984adam
-canonical: https://bc1984.com/the-blank-slate-ism-of-tariffologists/
-feature_image: ../images/2025/03/tarifsbad.jpg
----
-
-![The Blank-Slate-Ism of Tariffologists](../images/2025/03/tarifsbad.jpg)
+![The Blank-Slate-Ism of Tariffologists](/images/2025/03/tarifsbad.jpg)
 
 `AI;DR: (AI; Didn't Read) – This post is a lazy jab at tariff averse reactionaries that felt fun to generate at the time. If I were writing it all myself, it would be less witty in some areas, probably shorter, but more real. The fact is I used an LLM to generate it. Just coaxing it along slightly to match more or less what I was imagining could be written on the topic of tariffs. TBH, I am too lazy to spend a lot of time writing about this topic at present. But read on if you wish!`
 
@@ -26,7 +14,7 @@ Tariffologists insist that unfettered globalization is a gentle tide lifting all
 
 Their creed: **“If we unilaterally disarm, others will too!”** Because nothing says “diplomatic genius” like letting rivals exploit your markets while their own remain fortress walls of protectionism. Alexander Hamilton’s 1791 *Report on Manufactures*, which argued for tariffs to build industrial capacity? “Outdated.” The Smoot-Hawley myth they vaguely remember from a meme? “Irrefutable proof tariffs cause apocalypses.”
 
-![](../images/2025/04/ca443f4786.jpg)
+![](/images/2025/04/ca443f4786.jpg)
 
 **"You wouldn't want *another* Great Depression, would you?" – Associated Readers of Infographics**
 
@@ -73,3 +61,17 @@ In conclusion: Next time a Tariffologist screeches about “trade wars,” hand 
 > "That's not all. The death of television manufacturers here affected related industries like VCRs, digital cameras and semi-conductors.   
 >   
 > Irony of ironies, within 5 years of the Japanese killing off our TV manufacturers, they themselves were slayed by the Koreans, and the Koreans then done in by the Chinese."
+
+---
+
+---
+title: The Blank-Slate-Ism of Tariffologists
+slug: the-blank-slate-ism-of-tariffologists
+status: published
+type: post
+date: '2025-03-31'
+updated: '2026-02-15'
+author: bc1984adam
+canonical: https://bc1984.com/the-blank-slate-ism-of-tariffologists/
+feature_image: /images/2025/03/tarifsbad.jpg
+---

@@ -1,16 +1,4 @@
----
-title: Do Your Own Thing
-slug: do-your-own-thing
-status: published
-type: post
-date: '2023-11-09'
-updated: '2023-11-10'
-author: bc1984adam
-canonical: https://bc1984.com/do-your-own-thing/
-feature_image: ../images/2023/11/Metallic_shield_bug4444.jpg
----
-
-![Do Your Own Thing](../images/2023/11/Metallic_shield_bug4444.jpg)
+![Do Your Own Thing](/images/2023/11/Metallic_shield_bug4444.jpg)
 
 It seems all the "bugs" want you to think thing "X" is the only thing you should own, whether the "X" is Gold, Silver, Bitcoin or Bonds.  
   
@@ -35,7 +23,7 @@ Find others that value Truth Seeking as opposed to Constant Preaching.
 - Rebalance whenever you want
 - *Don't pay a dime in fees to anyone*
 
-![](../images/2023/11/3-MONEY.png)
+![](/images/2023/11/3-MONEY.png)
 
 ---
 
@@ -43,7 +31,7 @@ Find others that value Truth Seeking as opposed to Constant Preaching.
 
 No need to over-complicate things by diversifying into a million assets. Nor do you have to go "all-in" on one thing.
 
-![](../images/2023/11/YOU-CAN-GO-YOUR-OWN-WAY.png)
+![](/images/2023/11/YOU-CAN-GO-YOUR-OWN-WAY.png)
 
 Stay flexible.
 
@@ -54,3 +42,17 @@ Be like water, as Bruce Lee said.
 ---
 
 ~ Peace
+
+---
+
+---
+title: Do Your Own Thing
+slug: do-your-own-thing
+status: published
+type: post
+date: '2023-11-09'
+updated: '2023-11-10'
+author: bc1984adam
+canonical: https://bc1984.com/do-your-own-thing/
+feature_image: /images/2023/11/Metallic_shield_bug4444.jpg
+---

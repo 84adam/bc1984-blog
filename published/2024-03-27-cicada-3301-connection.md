@@ -1,16 +1,4 @@
----
-title: The Cicada 3301 Connection
-slug: cicada-3301-connection
-status: published
-type: post
-date: '2024-03-27'
-updated: '2024-03-27'
-author: bc1984adam
-canonical: https://bc1984.com/cicada-3301-connection/
-feature_image: ../images/2024/03/JHQqnFa2_400x400.jpg
----
-
-![The Cicada 3301 Connection](../images/2024/03/JHQqnFa2_400x400.jpg)
+![The Cicada 3301 Connection](/images/2024/03/JHQqnFa2_400x400.jpg)
 
 `source: ilikeblocks - @beniduboss - Mar 25, 2024`  
 `https://twitter.com/beniduboss/status/1772148921743110163`
@@ -117,7 +105,7 @@ Len lived in Belgium and has a record of tweets of him using a very British voca
 
 Additionally, his tweets correlate exactly to Satoshis post history
 
-![](../images/2024/03/satoshi-post-history.jpeg)
+![](/images/2024/03/satoshi-post-history.jpeg)
 
 More fun facts:
 
@@ -181,7 +169,7 @@ We're not done yet
 
 The picture below shows the message congratulating Marcus for his efforts and the invitation to their “collective”
 
-![](../images/2024/03/invitation-to-their-collective.jpeg)
+![](/images/2024/03/invitation-to-their-collective.jpeg)
 
 Interestingly, the ideology behind Cicada 3301 and the Cyperpunk collective is intrinsically the same. The communication between Marcus and the people behind 3301 was solely based on online anonymity.
 
@@ -228,3 +216,17 @@ Thank you for reading
 **H/T to: "ilikeblocks" [@beniduboss](https://twitter.com/beniduboss)**
 
 **DONATE to: <https://continuumct.org/crypto>**
+
+---
+
+---
+title: The Cicada 3301 Connection
+slug: cicada-3301-connection
+status: published
+type: post
+date: '2024-03-27'
+updated: '2024-03-27'
+author: bc1984adam
+canonical: https://bc1984.com/cicada-3301-connection/
+feature_image: /images/2024/03/JHQqnFa2_400x400.jpg
+---

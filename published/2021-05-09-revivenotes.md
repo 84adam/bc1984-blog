@@ -1,18 +1,4 @@
----
-title: ReviveNotes
-slug: revivenotes
-status: published
-type: post
-date: '2021-05-09'
-updated: '2021-05-18'
-author: bc1984adam
-canonical: https://bc1984.com/revivenotes/
-feature_image: ../images/2021/05/adana.landing.11-1024x768-1.jpg
-tags:
-- thrivenotes
----
-
-![ReviveNotes](../images/2021/05/adana.landing.11-1024x768-1.jpg)
+![ReviveNotes](/images/2021/05/adana.landing.11-1024x768-1.jpg)
 
 ## *Thrivenotes* Revival
 
@@ -66,7 +52,7 @@ We are the waking universe
 
 Yes, I know corrosivity is not a word as far as you’ve heard. It is a novel combination of corrosive and acidity to me. Because I didn’t want to write ’an ocean
 
-![](../images/2021/05/bluecrab-650x501.jpg)
+![](/images/2021/05/bluecrab-650x501.jpg)
 
 ---
 
@@ -118,3 +104,19 @@ INTENDED AUDIENCE: Beginning to intermediate investors, technologists, cryptocur
 ---
 
 *"Once you come to know yourselves, you will become known." — Jesus*
+
+---
+
+---
+title: ReviveNotes
+slug: revivenotes
+status: published
+type: post
+date: '2021-05-09'
+updated: '2021-05-18'
+author: bc1984adam
+canonical: https://bc1984.com/revivenotes/
+feature_image: /images/2021/05/adana.landing.11-1024x768-1.jpg
+tags:
+- thrivenotes
+---

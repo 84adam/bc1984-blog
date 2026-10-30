@@ -1,16 +1,4 @@
----
-title: 'Stop Regulation Through Prosecution #FreeSamourai'
-slug: stop-regulation-through-prosectution-free-samourai
-status: published
-type: post
-date: '2026-05-02'
-updated: '2026-05-02'
-author: bc1984adam
-canonical: https://bc1984.com/stop-regulation-through-prosectution-free-samourai/
-feature_image: ../images/2026/05/kab-fs.png
----
-
-![Stop Regulation Through Prosecution #FreeSamourai](../images/2026/05/kab-fs.png)
+![Stop Regulation Through Prosecution #FreeSamourai](/images/2026/05/kab-fs.png)
 
 Two software developers are now serving federal prison sentences – five years and four years respectively – for building a Bitcoin privacy tool called Samourai Wallet.
 
@@ -66,7 +54,7 @@ Let's address the "Russian oligarchs" tweet directly. After all, it is one of th
 
 First – context matters, and the DOJ cherry-picked. The Samourai developers had a long, consistent pattern of stating that their tools existed for people cut off from traditional financial rails for political reasons. They said it about Iranian dissidents. They said it about Japanese bitcoiners. They said it about Kuwaiti's after Kuwait banned bitcoin. They said it about people in countries with capital controls or hyperinflation. The "Russian oligarchs" tweet was one data point in a multi-year, ideologically consistent position: Financial privacy is a human right, and it matters most when the state decides who gets to participate in the economy.
 
-![](../images/2026/05/sw-rian.png)![](../images/2026/05/sw-japan.png)![](../images/2026/05/sw-kuwait.png)![](../images/2026/05/sw-eu.png)
+![](/images/2026/05/sw-rian.png)![](/images/2026/05/sw-japan.png)![](/images/2026/05/sw-kuwait.png)![](/images/2026/05/sw-eu.png)
 
 If you only look at the one tweet the prosecution pulled out, it looks damning. If you look at the full timeline, it looks like a principled – maybe obnoxiously principled – stance that you either agree with or you don't. But **principled stances aren't crimes.**
 
@@ -102,3 +90,17 @@ You don't have to love cryptocurrency to believe the rules should be clear befor
 - [btcpolicy.org/articles/pardoning-the-samourai-developers-would-correct-a-misapplication-of-federal-law-and-protect-the-future-of-non-custodial-software](https://www.btcpolicy.org/articles/pardoning-the-samourai-developers-would-correct-a-misapplication-of-federal-law-and-protect-the-future-of-non-custodial-software)
 - [coindesk.com/policy/2025/11/19/samourai-wallet-co-founder-bill-hill-sentenced-to-4-years-in-prison-for-unlicensed-money-transmitting](https://www.coindesk.com/policy/2025/11/19/samourai-wallet-co-founder-bill-hill-sentenced-to-4-years-in-prison-for-unlicensed-money-transmitting)
 - [**billandkeonne.org**](https://billandkeonne.org/)
+
+---
+
+---
+title: 'Stop Regulation Through Prosecution #FreeSamourai'
+slug: stop-regulation-through-prosectution-free-samourai
+status: published
+type: post
+date: '2026-05-02'
+updated: '2026-05-02'
+author: bc1984adam
+canonical: https://bc1984.com/stop-regulation-through-prosectution-free-samourai/
+feature_image: /images/2026/05/kab-fs.png
+---

@@ -1,16 +1,4 @@
----
-title: The End of Central Banking?
-slug: the-end-of-central-banking
-status: published
-type: post
-date: '2024-12-18'
-updated: '2024-12-18'
-author: bc1984adam
-canonical: https://bc1984.com/the-end-of-central-banking/
-feature_image: ../images/2024/12/dreary-chicago-gold-bitcoin-rain.png
----
-
-![The End of Central Banking?](../images/2024/12/dreary-chicago-gold-bitcoin-rain.png)
+![The End of Central Banking?](/images/2024/12/dreary-chicago-gold-bitcoin-rain.png)
 
 **some theoretical means by which bitcoin may lead to the demise of central banking**
 
@@ -73,3 +61,17 @@ i am happy to receive feedback, criticism, a rhetorical ass-whooping or any othe
 if you wish to get a comment added to the blog post, just email me at (email on about page).
 
 cheers ~
+
+---
+
+---
+title: The End of Central Banking?
+slug: the-end-of-central-banking
+status: published
+type: post
+date: '2024-12-18'
+updated: '2024-12-18'
+author: bc1984adam
+canonical: https://bc1984.com/the-end-of-central-banking/
+feature_image: /images/2024/12/dreary-chicago-gold-bitcoin-rain.png
+---

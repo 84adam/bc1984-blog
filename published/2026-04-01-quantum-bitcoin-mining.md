@@ -1,16 +1,4 @@
----
-title: Quantum Bitcoin Mining
-slug: quantum-bitcoin-mining
-status: published
-type: post
-date: '2026-04-01'
-updated: '2026-04-01'
-author: bc1984adam
-canonical: https://bc1984.com/quantum-bitcoin-mining/
-feature_image: ../images/2026/04/old-antminer-s9.jpg
----
-
-![Quantum Bitcoin Mining](../images/2026/04/old-antminer-s9.jpg)
+![Quantum Bitcoin Mining](/images/2026/04/old-antminer-s9.jpg)
 
 `AI;DR (AI; Didn't Read) -- Bitcoin mining is not likely susceptible to large-scale attacks or subversion by a Quantum Computer-wielding attacker in the next 20 years. If any breakthroughs happen to the point of threatening bitcoin, it will be against its elliptic curve-based signature scheme that guards the private keys behind a given public key where bitcoin is held by an individual. And those attacks would happen using Shor's algorithm more likely in that time frame, not Grover's algorithm which might theoretically be used to run SHA-256 mining faster. To read more on the topic of bitcoin private keys being vulnerable to quantum attacks, read my other post here: Quantum Feasibility.`
 
@@ -35,3 +23,17 @@ As for concealment: a truly competitive quantum mining installation at that leve
 ## TAKEAWAY
 
 Focus on avoiding address reuse if you hold your own keys, and don't worry about a threat to bitcoin mining yet.
+
+---
+
+---
+title: Quantum Bitcoin Mining
+slug: quantum-bitcoin-mining
+status: published
+type: post
+date: '2026-04-01'
+updated: '2026-04-01'
+author: bc1984adam
+canonical: https://bc1984.com/quantum-bitcoin-mining/
+feature_image: /images/2026/04/old-antminer-s9.jpg
+---

@@ -1,16 +1,4 @@
----
-title: Place Your Bets
-slug: place-your-bets
-status: published
-type: post
-date: '2024-01-25'
-updated: '2024-01-25'
-author: bc1984adam
-canonical: https://bc1984.com/place-your-bets/
-feature_image: ../images/2024/01/intellivision-roulette.png
----
-
-![Place Your Bets](../images/2024/01/intellivision-roulette.png)
+![Place Your Bets](/images/2024/01/intellivision-roulette.png)
 
 You can bet on central banks not being able to stop themselves from printing money.
 
@@ -44,8 +32,22 @@ It's all a matter of how deep and severe a crash we get, as well as how quickly 
 
 **And there's always the possibility that the money printing just won't work again.**
 
-![](../images/2024/01/rentenmark.png)
+![](/images/2024/01/rentenmark.png)
 
 You may see things differently, and that's fine. But I think it's time to...
 
 ***PLACE YOUR BETS***
+
+---
+
+---
+title: Place Your Bets
+slug: place-your-bets
+status: published
+type: post
+date: '2024-01-25'
+updated: '2024-01-25'
+author: bc1984adam
+canonical: https://bc1984.com/place-your-bets/
+feature_image: /images/2024/01/intellivision-roulette.png
+---
