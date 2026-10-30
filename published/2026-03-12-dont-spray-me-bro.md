@@ -29,9 +29,7 @@ Ultimately, while the concept of a singular, broadly protective nasal spray is i
 - <https://www.frontiersin.org/journals/allergy/articles/10.3389/falgy.2025.1633293/full>
 - <https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2020.559382/full>
 
----
-
----
+<!--
 title: DON'T SPRAY ME, BRO
 slug: dont-spray-me-bro
 status: published
@@ -41,4 +39,4 @@ updated: '2026-03-12'
 author: bc1984adam
 canonical: https://bc1984.com/dont-spray-me-bro/
 feature_image: /images/2026/03/nasal-spray.png
----
+-->

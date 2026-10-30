@@ -136,9 +136,7 @@ For discussion above, we chose **$3,500**, for a family in the lower quartile of
 
 *Best of luck*
 
----
-
----
+<!--
 title: Poor US Household Savings Strategies
 slug: lower-quartile-us-savings-strategies
 status: published
@@ -148,4 +146,4 @@ updated: '2024-08-12'
 author: bc1984adam
 canonical: https://bc1984.com/lower-quartile-us-savings-strategies/
 feature_image: /images/2024/08/Screenshot_2024-08-12_15-02-48.png
----
+-->

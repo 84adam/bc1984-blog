@@ -108,9 +108,7 @@ If you can spare 5 or 10 more seconds, consider opening the Tor Browser or a Bra
 
 Also: Remember to refresh or create a new connection to the Tor network regularly, and try to space out your spends/broadcasts somewhat to reduce the risks of timing attacks.
 
----
-
----
+<!--
 title: The Privacy Money Middle Path
 slug: the-privacy-middle-path
 status: published
@@ -123,4 +121,4 @@ feature_image: /images/2022/07/Screenshot-at-2022-07-04-08-11-52.png
 excerpt: Bitcoin is really the first cash-like instrument that can be sent across
   the internet, requiring no physical presence, while maintaining moderate-to-good
   levels of privacy.
----
+-->

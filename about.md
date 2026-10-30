@@ -27,9 +27,7 @@ Software developer. Privacy and sound money advocate. Freedom maximalist.
 
 ![bc1984adam](/images/2025/12/Cyclops-marvel-comics-10727068-989-1527.jpg)
 
----
-
----
+<!--
 title: 𝗔𝗕𝗢𝗨𝗧 // 𝗗𝗢𝗡𝗔𝗧𝗘
 slug: donate
 status: published
@@ -39,4 +37,4 @@ updated: '2026-09-25'
 author: bc1984adam
 canonical: https://bc1984.com/donate/
 feature_image: /images/2021/05/Red_Pillars_9.png
----
+-->

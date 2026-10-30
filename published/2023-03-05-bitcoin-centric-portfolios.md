@@ -50,9 +50,7 @@
 
 Enjoy!
 
----
-
----
+<!--
 title: Bitcoin-Centric Portfolios
 slug: bitcoin-centric-portfolios
 status: published
@@ -63,4 +61,4 @@ author: bc1984adam
 canonical: https://bc1984.com/bitcoin-centric-portfolios/
 feature_image: /images/2023/03/Moissanite.jpg
 excerpt: Sample portfolios that put bitcoin front and center
----
+-->

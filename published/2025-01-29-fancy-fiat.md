@@ -36,9 +36,7 @@ Source: All the books they don't tell you to read in school.
 
 Things to Keep: **[MCBAGS](/pack-your-mcbags/)**: `Monero-Cash-Bitcoin-Ammo-Gold-Silver`
 
----
-
----
+<!--
 title: Fancy Fiat
 slug: fancy-fiat
 status: published
@@ -48,4 +46,4 @@ updated: '2025-01-29'
 author: bc1984adam
 canonical: https://bc1984.com/fancy-fiat/
 feature_image: /images/2025/01/Screenshot_2025-01-29_14-00-12.png
----
+-->

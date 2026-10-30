@@ -105,9 +105,7 @@ INTENDED AUDIENCE: Beginning to intermediate investors, technologists, cryptocur
 
 *"Once you come to know yourselves, you will become known." — Jesus*
 
----
-
----
+<!--
 title: ReviveNotes
 slug: revivenotes
 status: published
@@ -119,4 +117,4 @@ canonical: https://bc1984.com/revivenotes/
 feature_image: /images/2021/05/adana.landing.11-1024x768-1.jpg
 tags:
 - thrivenotes
----
+-->

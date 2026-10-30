@@ -9,9 +9,7 @@ Please check it out, fork it, or add comments to the Gist if you wish: <https://
 
 **Use RSS and start reducing your dependence on centralized social media today!**
 
----
-
----
+<!--
 title: Bitcoin RSS Feeds
 slug: bitcoin-rss-feeds
 status: published
@@ -22,4 +20,4 @@ author: bc1984adam
 canonical: https://bc1984.com/bitcoin-rss-feeds/
 feature_image: /images/2021/11/South_African_Commercial_Advertiser05.jpg
 excerpt: My personal collection of Bitcoin-related RSS Feeds. (Free OPML file [Gist])
----
+-->

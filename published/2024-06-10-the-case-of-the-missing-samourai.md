@@ -39,9 +39,7 @@ The Samourai Developers should be free.
 
 ![](/images/2024/06/logo_free_samourai.png)
 
----
-
----
+<!--
 title: The Case of the Missing Samourai
 slug: the-case-of-the-missing-samourai
 status: published
@@ -51,4 +49,4 @@ updated: '2024-08-08'
 author: bc1984adam
 canonical: https://bc1984.com/the-case-of-the-missing-samourai/
 feature_image: /images/2024/08/fs.png
----
+-->

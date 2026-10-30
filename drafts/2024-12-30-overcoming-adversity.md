@@ -32,9 +32,7 @@ When accuracy matters for a costume, it is worth considering how details related
 
 ---
 
----
-
----
+<!--
 title: Overcoming Adversity
 slug: overcoming-adversity
 status: draft
@@ -43,4 +41,4 @@ date: '2024-12-30'
 updated: '2026-07-18'
 author: bc1984adam
 feature_image: /images/2024/12/pyx.png
----
+-->

@@ -82,9 +82,7 @@ To resist is to live purposefully and deliberately. It is to make choices that a
 
 Light a candle. Shine a light.
 
----
-
----
+<!--
 title: Shadow Oligarchy
 slug: shadow-oligarchy
 status: draft
@@ -93,4 +91,4 @@ date: '2024-09-04'
 updated: '2026-07-18'
 author: bc1984adam
 feature_image: /images/2024/09/shadow-oligarchy.png
----
+-->

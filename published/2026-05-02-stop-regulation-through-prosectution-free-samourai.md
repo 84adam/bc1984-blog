@@ -91,9 +91,7 @@ You don't have to love cryptocurrency to believe the rules should be clear befor
 - [coindesk.com/policy/2025/11/19/samourai-wallet-co-founder-bill-hill-sentenced-to-4-years-in-prison-for-unlicensed-money-transmitting](https://www.coindesk.com/policy/2025/11/19/samourai-wallet-co-founder-bill-hill-sentenced-to-4-years-in-prison-for-unlicensed-money-transmitting)
 - [**billandkeonne.org**](https://billandkeonne.org/)
 
----
-
----
+<!--
 title: 'Stop Regulation Through Prosecution #FreeSamourai'
 slug: stop-regulation-through-prosectution-free-samourai
 status: published
@@ -103,4 +101,4 @@ updated: '2026-05-02'
 author: bc1984adam
 canonical: https://bc1984.com/stop-regulation-through-prosectution-free-samourai/
 feature_image: /images/2026/05/kab-fs.png
----
+-->

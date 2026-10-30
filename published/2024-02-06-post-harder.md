@@ -36,9 +36,7 @@ Use bitcoin if it helps you live a better life.
 
 Simple.
 
----
-
----
+<!--
 title: Post Harder
 slug: post-harder
 status: published
@@ -48,4 +46,4 @@ updated: '2024-02-06'
 author: bc1984adam
 canonical: https://bc1984.com/post-harder/
 feature_image: /images/2024/02/Nova-Reperta.jpg
----
+-->

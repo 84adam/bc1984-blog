@@ -10,9 +10,7 @@ With Tor active, the official websites for Mullvad, IVPN, and TorGuard become re
 
 For payment, these services typically accept Bitcoin or the more private Monero, both of which can be acquired in Utah without extensive verification. Bitcoin is simplest through local Bitcoin ATMs scattered across Salt Lake City, Provo, and other areas, where cash can be converted instantly to a personal wallet, or via apps like Cash App and Strike that support direct purchases and withdrawals. Monero purchases are often completed by first obtaining Bitcoin through the same methods and then swapping it on a Tor-accessible non-KYC exchange service. For finding reliable swap services, [**kycnot.me**](https://kycnot.me) is an essential resource that catalogs no-KYC exchanges and rates them by privacy score and trust rating, with the directory actively flagging scams and unreliable operators so users can avoid losing funds. It also lists tools like atomic swap software for Bitcoin to Monero swaps in a decentralized manner using open-source desktop software, alongside other trusted aggregators and peer-to-peer options. After funding the VPN account with a short-term subscription to test the connection, connecting and attempting to navigate to various websites that may have otherwise been blocked would serve to confirm that the bypass is complete and privacy protections are in place.
 
----
-
----
+<!--
 title: 'Dear Utah Residents: Get VPNs Ready!'
 slug: dear-utah-residents-get-vpn-ready
 status: published
@@ -22,4 +20,4 @@ updated: '2026-05-29'
 author: bc1984adam
 canonical: https://bc1984.com/dear-utah-residents-get-vpn-ready/
 feature_image: /images/2026/05/DONTWAITVPNMONIES.png
----
+-->

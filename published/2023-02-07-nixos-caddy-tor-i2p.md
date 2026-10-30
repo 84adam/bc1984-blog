@@ -31,9 +31,7 @@
 - Set up Tor hidden (.onion) service: <https://mdleom.com/blog/2020/03/16/tor-hidden-onion-nixos/> - archived: <https://web.archive.org/web/20220725192441/https://mdleom.com/blog/2020/03/16/tor-hidden-onion-nixos/>
 - Set up I2P Site: <https://mdleom.com/blog/2020/03/21/i2p-eepsite-nixos/> - archived: <https://web.archive.org/web/20220725192435/https://mdleom.com/blog/2020/03/21/i2p-eepsite-nixos/>
 
----
-
----
+<!--
 title: How to Set Up Caddy, Tor Hidden Service & I2P Site on NixOS
 slug: nixos-caddy-tor-i2p
 status: published
@@ -45,4 +43,4 @@ canonical: https://bc1984.com/nixos-caddy-tor-i2p/
 feature_image: /images/2023/02/caddy-nixos.png
 excerpt: Resources for setting up Caddy Reverse Proxy, Tor Hidden Service and I2P
   Site on NixOS
----
+-->

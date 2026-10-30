@@ -50,9 +50,7 @@ Within index.html, this script was called as follows:
 <p style="font-size: 0.7em;color:#555555;"><script src="visitors.js" type="text/javascript"></script></p>
 ```
 
----
-
----
+<!--
 title: onesatoshi.cfd Archive
 slug: one-satoshi-cfd-archive
 status: published
@@ -62,4 +60,4 @@ updated: '2023-11-07'
 author: bc1984adam
 canonical: https://bc1984.com/one-satoshi-cfd-archive/
 feature_image: /images/2023/11/final-screenshot-110723.png
----
+-->

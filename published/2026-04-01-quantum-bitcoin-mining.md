@@ -24,9 +24,7 @@ As for concealment: a truly competitive quantum mining installation at that leve
 
 Focus on avoiding address reuse if you hold your own keys, and don't worry about a threat to bitcoin mining yet.
 
----
-
----
+<!--
 title: Quantum Bitcoin Mining
 slug: quantum-bitcoin-mining
 status: published
@@ -36,4 +34,4 @@ updated: '2026-04-01'
 author: bc1984adam
 canonical: https://bc1984.com/quantum-bitcoin-mining/
 feature_image: /images/2026/04/old-antminer-s9.jpg
----
+-->

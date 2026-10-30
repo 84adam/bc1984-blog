@@ -52,9 +52,7 @@ For options traders, especially those focusing on buying calls and puts, masteri
 - Quantitative Strategies, Research Notes, Goldman Sachs: *The Local Volatility Surface: Unlocking the Information in Index Option Prices, by* Emanuel Derman, Iraj Kani, Joseph Z. Zou, DEC 1995: <https://emanuelderman.com/wp-content/uploads/1996/06/gs-local_volatility_surface.pdf>
 - *Options Volatility: The VIX, Rule of 16, and Skew – Learn how to measure volatility using the Cboe VIX, rule of 16, and skew in your options trading*, Schwab, FEB, 2023: <https://www.schwab.com/learn/story/options-volatility-vix-skew-and-rule-16>
 
----
-
----
+<!--
 title: 'Implied Volatility (IV) Surface: Key Concepts for Beginning Options Traders'
 slug: implied-volatility-surface
 status: published
@@ -64,4 +62,4 @@ updated: '2024-08-16'
 author: bc1984adam
 canonical: https://bc1984.com/implied-volatility-surface/
 feature_image: /images/2024/08/IV_surface.webp
----
+-->

@@ -72,9 +72,7 @@ For Bitcoin long-term storage under realistic quantum threat models, the dominan
 12. Filippo Valsorda, "A Cryptography Engineer's Perspective on Quantum Computing Timelines": [https://words.filippo.io/crqc-timeline](https://words.filippo.io/crqc-timeline )
 13. Scott Aaronson, "Before we start on Quantum": <https://scottaaronson.blog/?p=9668>
 
----
-
----
+<!--
 title: Quantum Feasibility (?)
 slug: quantum-feasibility
 status: published
@@ -84,4 +82,4 @@ updated: '2026-04-09'
 author: bc1984adam
 canonical: https://bc1984.com/quantum-feasibility/
 feature_image: /images/2026/03/spock-not-amused.jpg
----
+-->

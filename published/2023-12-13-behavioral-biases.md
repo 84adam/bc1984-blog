@@ -22,9 +22,7 @@ Behavioral biases impact investment decisions and can contribute to poor outcome
 
 The fact is **you have to recognize your biases before you can mitigate any of their impacts**. From there you can build up discipline and approach things more rationally to improve your outcomes over time.
 
----
-
----
+<!--
 title: Beware Behavioral Biases
 slug: behavioral-biases
 status: published
@@ -34,4 +32,4 @@ updated: '2023-12-13'
 author: bc1984adam
 canonical: https://bc1984.com/behavioral-biases/
 feature_image: /images/2023/12/fpsyg-10-02536-g002.jpg
----
+-->

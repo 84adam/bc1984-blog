@@ -61,9 +61,7 @@ And the one's keeping it real.
 Keep your eyes on the prize.  
 The mission is something that they can't steal.*
 
----
-
----
+<!--
 title: Goodbye, Bitcoin!
 slug: goodbye-bitcoin
 status: published
@@ -72,4 +70,4 @@ date: '2026-09-25'
 updated: '2026-10-11'
 author: bc1984adam
 canonical: https://bc1984.com/goodbye-bitcoin/
----
+-->

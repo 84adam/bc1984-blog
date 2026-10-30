@@ -22,9 +22,7 @@ REFERENCES:
 4. <https://en.wikipedia.org/wiki/Ite,_missa_est>
 5. <https://streetevangelization.com/blog/2013/03/03/why-so-many-protestants-do-not-consider-catholics-christian/>
 
----
-
----
+<!--
 title: Catholic Christianity
 slug: catholic-christianity
 status: published
@@ -34,4 +32,4 @@ updated: '2026-02-15'
 author: bc1984adam
 canonical: https://bc1984.com/catholic-christianity/
 feature_image: /images/2025/06/840302ee095ddda9fc7a7131f38cf817.jpg
----
+-->

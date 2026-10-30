@@ -87,9 +87,7 @@ To be honest, I am not entirely sure yet. But it helps to write out the precepts
 
 Risk Exists
 
----
-
----
+<!--
 title: Relative Peace to Relative War
 slug: relative-peace-to-relative-war
 status: published
@@ -99,4 +97,4 @@ updated: '2026-02-12'
 author: bc1984adam
 canonical: https://bc1984.com/relative-peace-to-relative-war/
 feature_image: /images/2026/02/sow.png
----
+-->

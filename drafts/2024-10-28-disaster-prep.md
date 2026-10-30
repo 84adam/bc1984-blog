@@ -36,9 +36,7 @@ Below is a subset that may have drastic impacts on financial assets at least, if
 
 # BE PREPARED
 
----
-
----
+<!--
 title: Disaster Prep
 slug: disaster-prep
 status: draft
@@ -46,4 +44,4 @@ type: post
 date: '2024-10-28'
 updated: '2026-07-18'
 author: bc1984adam
----
+-->

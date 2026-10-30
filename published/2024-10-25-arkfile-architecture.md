@@ -3011,9 +3011,7 @@ Retention policies:
 
 ## UPDATE: [Arkfile.net](https://arkfile.net) is live as of August, 2026!
 
----
-
----
+<!--
 title: arkfile.net
 slug: arkfile-architecture
 status: published
@@ -3023,4 +3021,4 @@ updated: '2026-08-22'
 author: bc1984adam
 canonical: https://bc1984.com/arkfile-architecture/
 feature_image: /images/2024/10/dalle-bw-forest.png
----
+-->

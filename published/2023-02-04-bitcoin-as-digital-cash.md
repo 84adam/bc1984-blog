@@ -73,9 +73,7 @@ You don't have to spend bitcoin at every shop and stop using cash and cards all 
 
 But bitcoin is a parallel system. A voluntary system. And it is ready and waiting for you to dive in.
 
----
-
----
+<!--
 title: Bitcoin as Digital Cash
 slug: bitcoin-as-digital-cash
 status: published
@@ -87,4 +85,4 @@ canonical: https://bc1984.com/bitcoin-as-digital-cash/
 feature_image: /images/2023/02/ecash-img.jpg
 excerpt: Bitcoin is like real cash, but formless and with a fixed supply. Its adopters
   immunize themselves against fiat inflation and gain privacy advantages.
----
+-->

@@ -65,9 +65,7 @@ LINKS:
 - <https://web.archive.org/web/20250826090045/https://android-developers.googleblog.com/2025/08/elevating-android-security.html>
 - <https://web.archive.org/web/20250826094228/developer.android.com/developer-verification>
 
----
-
----
+<!--
 title: 'One Thousand Diverted, One Million Discouraged: Android Innovation Extinguished'
 slug: android-innovation-extinguished
 status: published
@@ -77,4 +75,4 @@ updated: '2025-08-26'
 author: bc1984adam
 canonical: https://bc1984.com/android-innovation-extinguished/
 feature_image: /images/2025/08/barbedwirebw.jpg
----
+-->

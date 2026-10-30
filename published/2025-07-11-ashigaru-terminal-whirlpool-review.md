@@ -146,9 +146,7 @@ For this analysis, I used claude-sonnet-4 as the Agentic AI in VSCodium with the
 
 **I encourage you to try to corroborate these results yourself independently and with different models as well.**
 
----
-
----
+<!--
 title: 'Review of Ashigaru Whirlpool: RSA Blinding & Deanonymization Concerns'
 slug: ashigaru-terminal-whirlpool-review
 status: published
@@ -158,4 +156,4 @@ updated: '2025-07-12'
 author: bc1984adam
 canonical: https://bc1984.com/ashigaru-terminal-whirlpool-review/
 feature_image: /images/2025/07/ashigaru-illustration-3.png
----
+-->

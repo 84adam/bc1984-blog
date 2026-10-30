@@ -44,9 +44,7 @@ Swiss psychiatrist Carl Jung, along with physicist Wolfgang Pauli, explored the 
 
 These parallels between quantum physics and the teachings of Jesus highlight how both realms invite us to contemplate the profound mysteries of existence. As physicist Max Planck concluded, "Science cannot solve the ultimate mystery of nature. And that is because, in the last analysis, we ourselves are part of the mystery we are trying to solve." Through both scientific inquiry and spiritual reflection, we are led to a greater appreciation of the interconnected fabric of reality.
 
----
-
----
+<!--
 title: Divine Action at a Distance?
 slug: divine-action-at-a-distance
 status: draft
@@ -55,4 +53,4 @@ date: '2025-01-15'
 updated: '2026-02-15'
 author: bc1984adam
 feature_image: /images/2025/01/vine-branches.jpeg
----
+-->

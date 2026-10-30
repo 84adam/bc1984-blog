@@ -260,9 +260,7 @@ Synopsis: Basically, the post argues that Fascism is yet another False God of Ci
 
 ---
 
----
-
----
+<!--
 title: Back to the Land, Back to Your People
 slug: back-to-the-land-back-to-your-people
 status: draft
@@ -271,4 +269,4 @@ date: '2025-01-14'
 updated: '2026-02-15'
 author: bc1984adam
 feature_image: /images/2025/01/peace-land-brea.jpg
----
+-->

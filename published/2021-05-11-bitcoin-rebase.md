@@ -106,9 +106,7 @@ Is it worth saving even `1.4%` more money in the long run for all the trouble in
 
 Some food for thought.
 
----
-
----
+<!--
 title: Bitcoin Rebase
 slug: bitcoin-rebase
 status: published
@@ -118,4 +116,4 @@ updated: '2024-01-26'
 author: bc1984adam
 canonical: https://bc1984.com/bitcoin-rebase/
 feature_image: /images/2021/05/Rebane-Vulpes.jpg
----
+-->

@@ -129,9 +129,7 @@ For Bitcoin long-term storage under realistic quantum threat models, the dominan
 9. Reducing the Number of Qubits in Quantum Discrete Logarithms on Elliptic Curves: <https://eprint.iacr.org/2026/280>
 10. Bitcoin Address Types (Unchained): <https://www.unchained.com/blog/bitcoin-address-types-compared>
 
----
-
----
+<!--
 title: Quantum Infeasibility (?)
 slug: quantum-infeasability
 status: published
@@ -141,4 +139,4 @@ updated: '2026-04-01'
 author: bc1984adam
 canonical: https://bc1984.com/quantum-infeasability/
 feature_image: /images/2025/10/a9s5bm.jpg
----
+-->

@@ -235,9 +235,7 @@ When accuracy matters for a costume, it is worth considering how details related
 - To the extent that local, peer-to-peer and reputation based online markets and networks can be maintained, the currencies of these micro economies (meshtadels) are likely to rely on some combination of bitcoin, monero, gold, silver and cold hard cash. I don't think we'll ever fully outgrow the need for connection with each other and the land.
 - -- If it is not *shit*, but abundance that hits the fan, vis-à-vis some superintelligent large language model that we jack into all of our socioeconomic subsystems, we still might need our **"McBags"** --> [**https://bc1984.com/pack-your-mcbags/**](/pack-your-mcbags/)
 
----
-
----
+<!--
 title: 'SAI BETS: Investing Post-Singularity'
 slug: sai-bets-investing-post-singularity
 status: draft
@@ -246,4 +244,4 @@ date: '2025-06-01'
 updated: '2026-07-18'
 author: bc1984adam
 feature_image: /images/2025/06/1a648826-b8fa-4f4a-86f8-25d057aac447.webp
----
+-->

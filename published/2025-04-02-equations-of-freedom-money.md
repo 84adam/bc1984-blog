@@ -117,9 +117,7 @@ Groups (ℤ, elliptic curves), rings (ℤ[x]), and fields (𝔽ₚ) are tools of
 
 - Motivate The Math: <https://serve.podhome.fm/motivate-the-math_638723836566573210>
 
----
-
----
+<!--
 title: Equations of Freedom (Money)
 slug: equations-of-freedom-money
 status: published
@@ -129,4 +127,4 @@ updated: '2025-04-02'
 author: bc1984adam
 canonical: https://bc1984.com/equations-of-freedom-money/
 feature_image: /images/2025/04/ff.jpeg
----
+-->

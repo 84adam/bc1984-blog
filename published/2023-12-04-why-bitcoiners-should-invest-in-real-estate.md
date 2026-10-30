@@ -86,9 +86,7 @@ What would you build if you could help develop or revitalize a community?
 - The Complete Guide to Investing in Rental Property, by Steve Berges
 - The Multifamily Millionaire (Volume I): Achieve Financial Freedom by Investing in Small Multifamily Real Estate, by Brandon Turner & Brian Murray
 
----
-
----
+<!--
 title: Why Bitcoiners Should Invest in Real Estate
 slug: why-bitcoiners-should-invest-in-real-estate
 status: published
@@ -98,4 +96,4 @@ updated: '2024-01-22'
 author: bc1984adam
 canonical: https://bc1984.com/why-bitcoiners-should-invest-in-real-estate/
 feature_image: /images/2023/12/26097472046_b55b0e3a5a.jpg
----
+-->

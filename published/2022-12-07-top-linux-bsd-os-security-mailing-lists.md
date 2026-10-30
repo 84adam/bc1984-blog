@@ -32,9 +32,7 @@
 - **Linux Advisory Watch:** <https://linuxsecurity.com/newsletters/linux-advisory-watch-archives>
 - **Xen Project Security Advisory:** <https://xenbits.xen.org/xsa/>
 
----
-
----
+<!--
 title: 'Top Linux & BSD Distros: Security Advisory Mailing Lists'
 slug: top-linux-bsd-os-security-mailing-lists
 status: published
@@ -45,4 +43,4 @@ author: bc1984adam
 canonical: https://bc1984.com/top-linux-bsd-os-security-mailing-lists/
 feature_image: /images/2022/12/4pAQY.jpg
 excerpt: Keep up to date on Linux & BSD security. Top mailing lists.
----
+-->

@@ -246,9 +246,7 @@ We would like to thank İzzet Sakallı, Salman Sajad Wani, and Aatif Kaisar Khan
 
 ### Good luck!
 
----
-
----
+<!--
 title: THE UNIVERSE IS REAL
 slug: the-universe-is-real
 status: published
@@ -258,4 +256,4 @@ updated: '2026-01-12'
 author: bc1984adam
 canonical: https://bc1984.com/the-universe-is-real/
 feature_image: /images/2026/01/maxresdefault--1-.jpg
----
+-->

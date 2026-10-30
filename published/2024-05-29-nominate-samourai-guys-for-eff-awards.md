@@ -44,9 +44,7 @@ SamouraiDev (along with SamouraiWallet) have done immeasurable good in helping u
 
 **And finally please help boost this tweet if you can: <https://x.com/bc1984adam/status/1795856353250128323>**
 
----
-
----
+<!--
 title: Nominate Samourai Guys for EFF Awards
 slug: nominate-samourai-guys-for-eff-awards
 status: published
@@ -56,4 +54,4 @@ updated: '2024-06-13'
 author: bc1984adam
 canonical: https://bc1984.com/nominate-samourai-guys-for-eff-awards/
 feature_image: /images/2024/06/Screenshot_2024-06-13_07-39-49.png
----
+-->

@@ -19,9 +19,7 @@ Critics might question how a movement seeking moral order (Christian Nationalism
 
 Ultimately, the Ancap–Christian Nationalist alliance hinges on a shared diagnosis of state failure rather than full ideological congruence. Their cooperation would resemble the uneasy partnership between abolitionists and suffragettes in the 19th century: united by immediate goals but diverging in ultimate visions. By leveraging historical precedents, theological synergies, and innovative governance models, these movements could challenge the monopoly of the secular progressive state. As Romans 13:1 cautions, “Let every soul be subject to the governing authorities”—but when those authorities defy divine and natural law, both groups agree that resistance becomes a sacred duty.
 
----
-
----
+<!--
 title: Ancaps & Christian Nationalists
 slug: ancaps-and-christian-nationalists
 status: draft
@@ -30,4 +28,4 @@ date: '2025-01-21'
 updated: '2026-05-29'
 author: bc1984adam
 feature_image: /images/2025/01/ancap-xn-flag.png
----
+-->

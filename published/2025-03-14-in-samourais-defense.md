@@ -95,9 +95,7 @@ The Samourai Developers created privacy tools for legitimate users, not specific
 
 **`*` donate to their defense at [p2prights.org](https://p2prights.org/donate.html) `*`**
 
----
-
----
+<!--
 title: In Samourai's Defense
 slug: in-samourais-defense
 status: published
@@ -107,4 +105,4 @@ updated: '2025-03-24'
 author: bc1984adam
 canonical: https://bc1984.com/in-samourais-defense/
 feature_image: /images/2025/03/sdp.png
----
+-->

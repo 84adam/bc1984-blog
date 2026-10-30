@@ -2,3 +2,5 @@ ghost.*.json
 public/
 resources/
 .hugo/
+__pycache__/
+*.pyc

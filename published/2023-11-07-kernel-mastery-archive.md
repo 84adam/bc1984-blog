@@ -123,9 +123,7 @@ I started Kernel Mastery to document my learning especially of Linux, Networking
 
 Kernel Mastery is Never Complete
 
----
-
----
+<!--
 title: Kernel Mastery Archive
 slug: kernel-mastery-archive
 status: published
@@ -135,4 +133,4 @@ updated: '2023-11-07'
 author: bc1984adam
 canonical: https://bc1984.com/kernel-mastery-archive/
 feature_image: /images/2023/11/parismetro-2.png
----
+-->

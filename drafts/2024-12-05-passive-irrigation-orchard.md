@@ -429,9 +429,7 @@ Arbequina Olive Tree
 
 By integrating these methods and carefully selecting species adapted to the climate, the system aims to create a resilient and productive landscape that relies solely on natural precipitation and passive water collection. Regular monitoring and adaptive management will ensure long-term success and sustainability.
 
----
-
----
+<!--
 title: Semi-Arid, High-Elevation, Passive Irrigation Orchard
 slug: passive-irrigation-orchard
 status: draft
@@ -440,4 +438,4 @@ date: '2024-12-05'
 updated: '2026-02-15'
 author: bc1984adam
 feature_image: /images/2024/12/orchard.png
----
+-->

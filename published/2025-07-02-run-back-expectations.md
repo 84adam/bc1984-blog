@@ -14,9 +14,7 @@ I say, spread your bets. Keep some bitcoin, some real estate or land investments
 
 Run back your expectations. Keep it real.
 
----
-
----
+<!--
 title: Run back expectations
 slug: run-back-expectations
 status: published
@@ -26,4 +24,4 @@ updated: '2025-07-02'
 author: bc1984adam
 canonical: https://bc1984.com/run-back-expectations/
 feature_image: /images/2025/07/blando-calrissian.jpg
----
+-->

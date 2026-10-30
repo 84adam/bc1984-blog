@@ -76,9 +76,7 @@ The practical takeaway mirrors risk management. In calm periods, build slack, sk
 
 **Remember: Perfection is the enemy of the Good.**
 
----
-
----
+<!--
 title: Helter Skelter
 slug: helter-skedastic
 status: published
@@ -88,4 +86,4 @@ updated: '2026-02-15'
 author: bc1984adam
 canonical: https://bc1984.com/helter-skedastic/
 feature_image: /images/2026/01/htst.jpg
----
+-->

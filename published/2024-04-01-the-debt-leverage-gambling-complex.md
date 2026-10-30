@@ -75,9 +75,7 @@ Many Islamic and non-Islamic financial institutions and investors are using thes
 
 Hit me up if you have questions or comments.
 
----
-
----
+<!--
 title: The Debt-Leverage-Gambling Complex
 slug: the-debt-leverage-gambling-complex
 status: published
@@ -87,4 +85,4 @@ updated: '2024-04-01'
 author: bc1984adam
 canonical: https://bc1984.com/the-debt-leverage-gambling-complex/
 feature_image: /images/2024/04/pattern.jpeg
----
+-->

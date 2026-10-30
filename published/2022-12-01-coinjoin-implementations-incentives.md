@@ -141,9 +141,7 @@ Not a company. No centralized coordinator. Market makers earn fees for providing
 - Both Wasabi and Samourai have discussed decentralization of coordination via the onboarding of new coordinators. So far only Sparrow Wallet has come online (on the Whirlpool side) to offer such services. This means you now have a real choice in terms of Whirlpool coordinators. No news yet on additional Wasabi coordinators.
 - Check out the new Jam app, which is a graphical user interface for JoinMarket: <https://jamapp.org/>
 
----
-
----
+<!--
 title: Coinjoin Implementations & Incentives
 slug: coinjoin-implementations-incentives
 status: published
@@ -154,4 +152,4 @@ author: bc1984adam
 canonical: https://bc1984.com/coinjoin-implementations-incentives/
 feature_image: /images/2022/11/kycp-image.png
 excerpt: Incentives matter. Do your own research before you coinjoin.
----
+-->

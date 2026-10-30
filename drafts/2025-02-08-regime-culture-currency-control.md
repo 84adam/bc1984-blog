@@ -49,9 +49,7 @@ When planning a cosplay look, it is worth considering how details related to cos
 [5] Wolfe, *The Case for Christian Nationalism*  
 [6] Hayek, *Denationalisation of Money*
 
----
-
----
+<!--
 title: Regime-Culture-Currency Control
 slug: regime-culture-currency-control
 status: draft
@@ -60,4 +58,4 @@ date: '2025-02-08'
 updated: '2026-07-18'
 author: bc1984adam
 feature_image: /images/2025/02/coinjoin-guys.jpg
----
+-->

@@ -42,9 +42,7 @@ In conclusion, Christianity and capitalism complement each other through shared 
 - The Holy Bible, New International Version.
 - Ludwig von Mises, *Human Action: A Treatise on Economics* (1949).
 
----
-
----
+<!--
 title: Christianity & Capital
 slug: christianity-and-capital
 status: draft
@@ -53,4 +51,4 @@ date: '2024-11-04'
 updated: '2026-02-15'
 author: bc1984adam
 feature_image: /images/2024/11/300MCHRIST.png
----
+-->

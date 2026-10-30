@@ -217,9 +217,7 @@ Thank you for reading
 
 **DONATE to: <https://continuumct.org/crypto>**
 
----
-
----
+<!--
 title: The Cicada 3301 Connection
 slug: cicada-3301-connection
 status: published
@@ -229,4 +227,4 @@ updated: '2024-03-27'
 author: bc1984adam
 canonical: https://bc1984.com/cicada-3301-connection/
 feature_image: /images/2024/03/JHQqnFa2_400x400.jpg
----
+-->

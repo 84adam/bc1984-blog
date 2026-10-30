@@ -9,20 +9,20 @@ Drafts are left out.
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-MARKER = "\n---\n\n---\n"
+OPEN = "\n<!--\n"
+CLOSE = "\n-->"
 OUT = ROOT / ".hugo" / "content"
 
 
 def split_end_matter(text, path):
-    idx = text.rfind(MARKER)
-    if idx < 0 or "title:" not in text[idx:]:
+    start = text.rfind(OPEN)
+    end = text.rfind(CLOSE)
+    if start < 0 or end < start or "title:" not in text[start:end]:
         raise SystemExit(f"no trailing metadata in {path}")
-    body = text[:idx].rstrip() + "\n"
-    matter = text[idx + len(MARKER) :]
-    close = matter.rfind("---")
-    if close < 0:
-        raise SystemExit(f"unclosed metadata in {path}")
-    front = matter[:close].strip("\n")
+    if text[end + len(CLOSE) :].strip() != "":
+        raise SystemExit(f"metadata comment is not at the end of {path}")
+    front = text[start + len(OPEN) : end].strip("\n")
+    body = text[:start].rstrip() + "\n"
     return front, body
 
 

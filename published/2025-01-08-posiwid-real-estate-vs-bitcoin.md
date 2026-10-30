@@ -56,9 +56,7 @@ Leaving aside for a second the morality of the system... (Should it even be allo
 
 The barriers to entry into the capital and wealth hierarchy are mainly about education. You as a W2 employee see the city from one side, with a great, impenetrable wall wrapped around it. But if you walk a quarter of the way around the outside of the city wall, you'll see a large, glimmering gate, wide open. There is a trickle of people, new investors, walking through. Do you enter the city through this gate? Or do you choose to try to scramble over the wall, building a ramp of your own design made up of wads of cash from the realized profits on your now-spent transaction outputs?
 
----
-
----
+<!--
 title: 'POSIWID: Real Estate'
 slug: posiwid-real-estate-vs-bitcoin
 status: published
@@ -68,4 +66,4 @@ updated: '2025-01-27'
 author: bc1984adam
 canonical: https://bc1984.com/posiwid-real-estate-vs-bitcoin/
 feature_image: /images/2025/01/open-gate.webp
----
+-->

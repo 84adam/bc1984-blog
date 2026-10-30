@@ -50,9 +50,7 @@ Half US Large Cap Stocks, Half Gold. ***It's elementary, my dear Watson!***
 
 **Good Luck!**
 
----
-
----
+<!--
 title: IS GLD THE BEST SPY?
 slug: is-gld-the-best-spy
 status: published
@@ -62,4 +60,4 @@ updated: '2026-01-13'
 author: bc1984adam
 canonical: https://bc1984.com/is-gld-the-best-spy/
 feature_image: /images/2026/01/spyspy26.jpg
----
+-->

@@ -38,9 +38,7 @@ You may see things differently, and that's fine. But I think it's time to...
 
 ***PLACE YOUR BETS***
 
----
-
----
+<!--
 title: Place Your Bets
 slug: place-your-bets
 status: published
@@ -50,4 +48,4 @@ updated: '2024-01-25'
 author: bc1984adam
 canonical: https://bc1984.com/place-your-bets/
 feature_image: /images/2024/01/intellivision-roulette.png
----
+-->

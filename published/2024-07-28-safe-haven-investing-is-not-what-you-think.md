@@ -124,9 +124,7 @@ Setting up a system such as this, such that you can continue to profit from the 
 
 *Best of luck!*
 
----
-
----
+<!--
 title: Safe Haven Investing Is Not What You Think
 slug: safe-haven-investing-is-not-what-you-think
 status: published
@@ -138,4 +136,4 @@ canonical: https://bc1984.com/safe-haven-investing-is-not-what-you-think/
 feature_image: /images/2024/07/shi.png
 excerpt: How to use Put Options to secure your stack and boost your returns slowly
   over time. "Downside Convexity" and Portfolio Hedging.
----
+-->

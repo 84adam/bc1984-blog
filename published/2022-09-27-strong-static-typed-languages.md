@@ -103,9 +103,7 @@ F# first appeared in 2005.
 - <https://www.howtogeek.com/devops/whats-the-benefit-of-statically-typed-programming-languages/>
 - <https://en.wikipedia.org/wiki/Comparison_of_programming_languages_by_type_system>
 
----
-
----
+<!--
 title: Strong Static Typed Languages
 slug: strong-static-typed-languages
 status: published
@@ -117,4 +115,4 @@ canonical: https://bc1984.com/strong-static-typed-languages/
 feature_image: /images/2022/09/Screenshot-at-2022-09-27-10-01-29.png
 excerpt: An overview of programming languages with strong type safety and static type
   checking.
----
+-->

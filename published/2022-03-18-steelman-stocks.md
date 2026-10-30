@@ -63,9 +63,7 @@ P/E: 38.6
 
 **Bottom line**: If you want relative safety while investing in equities, consider companies that were founded *before* the Federal Reserve. Ideally, ones that have been paying dividends for a long time. These companies are highly likely to survive Global Monetary Reset, War, Inflation *and* Supply Chain Disruption.
 
----
-
----
+<!--
 title: Steelman Stocks
 slug: steelman-stocks
 status: published
@@ -76,4 +74,4 @@ author: bc1984adam
 canonical: https://bc1984.com/steelman-stocks/
 feature_image: /images/2022/03/steelman-1.jpg
 excerpt: Boring stocks that might not lose you money over the next 5 years.
----
+-->

@@ -20,9 +20,7 @@ In 2022, a white female employee named **Shannon Phillips** sued Starbucks for $
 
 ![](/images/2024/03/db7.jpg)
 
----
-
----
+<!--
 title: Reverse Racism Examples
 slug: reverse-racism-examples
 status: published
@@ -32,4 +30,4 @@ updated: '2024-03-29'
 author: bc1984adam
 canonical: https://bc1984.com/reverse-racism-examples/
 feature_image: /images/2024/03/cover2.jpg
----
+-->

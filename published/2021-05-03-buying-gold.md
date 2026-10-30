@@ -58,9 +58,7 @@ The next question is to ask about the lowest premium gold coins and bars on offe
 
 The second option, [PHYS](https://sprott.com/investment-strategies/physical-bullion-trusts/gold/net-asset-value-premium-discount/), the gold bullion trust, is easy if you have a brokerage account. The fees per year are modest and the premiums are null. But for folks that want real physical hard money in their hands, gold and silver bullion are hard to beat (I'd argue only [bitcoin](https://beta.strike.me/) beats them).
 
----
-
----
+<!--
 title: Buying Gold
 slug: buying-gold
 status: published
@@ -70,4 +68,4 @@ updated: '2024-01-26'
 author: bc1984adam
 canonical: https://bc1984.com/buying-gold/
 feature_image: /images/2021/05/gold-dollars.png
----
+-->

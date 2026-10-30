@@ -157,9 +157,7 @@ And if you're still unsure about investing in bitcoin, read [Why Buy Bitcoin: In
 
 Both books come to different conclusions, but together I think they can be used to inform a coherent investing and savings strategy.
 
----
-
----
+<!--
 title: The Anti-FOMO Portfolio
 slug: the-anti-fomo-portfolio
 status: published
@@ -171,4 +169,4 @@ canonical: https://bc1984.com/the-anti-fomo-portfolio/
 feature_image: /images/2022/02/828e5bd26e5ce7982dafcc13edd0c86dbb3555f5-2.png
 excerpt: Even if you can only invest 1% of your income every year, do it! The longer
   you wait, the more you miss out on compounding of your wealth.
----
+-->

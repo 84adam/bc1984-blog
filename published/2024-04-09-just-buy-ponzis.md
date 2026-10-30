@@ -63,9 +63,7 @@ Divergence between US Gold ETF Holdings and Gold Spot Price
 
 ---
 
----
-
----
+<!--
 title: Just buy ponzis!
 slug: just-buy-ponzis
 status: published
@@ -75,4 +73,4 @@ updated: '2024-04-09'
 author: bc1984adam
 canonical: https://bc1984.com/just-buy-ponzis/
 feature_image: /images/2024/04/Charles_Ponzi.jpg
----
+-->

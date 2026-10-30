@@ -62,9 +62,7 @@ In conclusion: Next time a Tariffologist screeches about “trade wars,” hand 
 >   
 > Irony of ironies, within 5 years of the Japanese killing off our TV manufacturers, they themselves were slayed by the Koreans, and the Koreans then done in by the Chinese."
 
----
-
----
+<!--
 title: The Blank-Slate-Ism of Tariffologists
 slug: the-blank-slate-ism-of-tariffologists
 status: published
@@ -74,4 +72,4 @@ updated: '2026-02-15'
 author: bc1984adam
 canonical: https://bc1984.com/the-blank-slate-ism-of-tariffologists/
 feature_image: /images/2025/03/tarifsbad.jpg
----
+-->

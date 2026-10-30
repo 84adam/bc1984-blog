@@ -40,9 +40,7 @@ Thank you for your attention to this matter!
 
 ## `>>>` Visit [billandkeonne.org](https://billandkeonne.org/) today! `<<<`
 
----
-
----
+<!--
 title: Pardon Samourai Devs, Mr. President
 slug: pardon-samourai-devs-mr-president
 status: published
@@ -52,4 +50,4 @@ updated: '2025-11-20'
 author: bc1984adam
 canonical: https://bc1984.com/pardon-samourai-devs-mr-president/
 feature_image: /images/2025/11/fs1.jpg
----
+-->

@@ -298,9 +298,7 @@ $ solr start
 ERROR: Logs directory /usr/local/share/solr/server/logs could not be created. Exiting
 ```
 
----
-
----
+<!--
 title: The nodebase.xyz Archive
 slug: the-nodebase-xyz-archive
 status: published
@@ -312,4 +310,4 @@ canonical: https://bc1984.com/the-nodebase-xyz-archive/
 feature_image: /images/2023/02/Screenshot-at-2023-02-03-08-18-29.png
 excerpt: Reflections on building nodebase.xyz on OpenBSD. Post archive and technical
   learnings.
----
+-->

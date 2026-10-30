@@ -16,9 +16,7 @@
 - **Be Street Smart. Learn Self-Defense.** Learn how to safely use and store a handgun (or larger).
 - **Stay Humble.** Keep it simple stupid (KISS).
 
----
-
----
+<!--
 title: Financial Attack Surface Reduction Framework
 slug: financial-attack-surface-reduction
 status: published
@@ -30,4 +28,4 @@ canonical: https://bc1984.com/financial-attack-surface-reduction/
 feature_image: /images/2021/11/parapet2.JPG
 excerpt: Tips on securing and defending your wealth against government (and all manner
   of other thieves).
----
+-->

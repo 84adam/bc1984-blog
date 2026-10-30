@@ -43,9 +43,7 @@ Be like water, as Bruce Lee said.
 
 ~ Peace
 
----
-
----
+<!--
 title: Do Your Own Thing
 slug: do-your-own-thing
 status: published
@@ -55,4 +53,4 @@ updated: '2023-11-10'
 author: bc1984adam
 canonical: https://bc1984.com/do-your-own-thing/
 feature_image: /images/2023/11/Metallic_shield_bug4444.jpg
----
+-->

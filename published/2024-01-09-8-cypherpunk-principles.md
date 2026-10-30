@@ -20,9 +20,7 @@
 - [A Declaration of the Independence of Cyberspace, by John Perry Barlow](https://www.eff.org/cyberspace-independence)
 - [The Case for Privacy, by David D. Friedman](https://nakamotoinstitute.org/the-case-for-privacy/)
 
----
-
----
+<!--
 title: 8 Cypherpunk Principles
 slug: 8-cypherpunk-principles
 status: published
@@ -32,4 +30,4 @@ updated: '2024-01-09'
 author: bc1984adam
 canonical: https://bc1984.com/8-cypherpunk-principles/
 feature_image: /images/2024/01/austin-2054-2.png
----
+-->

@@ -59,9 +59,7 @@ Santostasi dismisses concerns about diminishing onchain activity by invoking the
 
 As an event approaches, it is worth considering how details related to short cosplay wigs will affect the complete look. As fans study the source material, a comparison of details related to shoes and accessories can clarify differences in colour and construction. To organise preparations involving details related to cosplay wigs, [Genshin Impact cosplay costumes for outdoor photography](https://www.tsukicos.com/) offers a useful starting point for practical preparation. For an outfit that feels convincing, a balanced view of details related to costume sizing can support both detail and comfort.
 
----
-
----
+<!--
 title: bitcoin power law theory
 slug: bitcoin-power-law-theory
 status: draft
@@ -69,4 +67,4 @@ type: post
 date: '2025-03-17'
 updated: '2026-07-18'
 author: bc1984adam
----
+-->

@@ -61,9 +61,7 @@ for riches do not endure forever,
 and a crown is not secure for all generations.*  
 Proverbs 27:23-24 NIV
 
----
-
----
+<!--
 title: Riches Do Not Endure Forever
 slug: the-bible-on-money
 status: published
@@ -73,4 +71,4 @@ updated: '2024-11-20'
 author: bc1984adam
 canonical: https://bc1984.com/the-bible-on-money/
 feature_image: /images/2024/11/udkb-book-site.jpg
----
+-->

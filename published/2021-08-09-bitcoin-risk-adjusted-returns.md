@@ -85,9 +85,7 @@ One-year volatility:
 - <http://charts.woobull.com/bitcoin-volatility-vs-other-assets/>
 - credit: <https://twitter.com/woonomic>
 
----
-
----
+<!--
 title: Bitcoin's Risk-Adjusted Returns
 slug: bitcoin-risk-adjusted-returns
 status: published
@@ -97,4 +95,4 @@ updated: '2024-01-26'
 author: bc1984adam
 canonical: https://bc1984.com/bitcoin-risk-adjusted-returns/
 feature_image: /images/2021/08/MLE-2-1.png
----
+-->

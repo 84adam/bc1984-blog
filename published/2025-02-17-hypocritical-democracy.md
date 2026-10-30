@@ -71,9 +71,7 @@ The diverse critiques woven together here frame democracy and the nation-state n
 
 Karl Marx, on Democracy (probably)
 
----
-
----
+<!--
 title: Hypocritical Democracy
 slug: hypocritical-democracy
 status: published
@@ -83,4 +81,4 @@ updated: '2025-02-17'
 author: bc1984adam
 canonical: https://bc1984.com/hypocritical-democracy/
 feature_image: /images/2025/02/Yukio-Mishima.jpg
----
+-->

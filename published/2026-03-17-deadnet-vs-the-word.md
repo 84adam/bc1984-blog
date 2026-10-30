@@ -253,9 +253,7 @@ Christianity answers that question clearly. Human beings are made for truth, wor
 - <https://forum.agoraroad.com/index.php?threads/dead-internet-theory-most-of-the-internet-is-fake.3011/>
 - <https://web.archive.org/web/20210105211330/https://meetingwords.com/IVlnVpwRfx>
 
----
-
----
+<!--
 title: DEADNET vs. The Word
 slug: deadnet-vs-the-word
 status: published
@@ -265,4 +263,4 @@ updated: '2026-03-17'
 author: bc1984adam
 canonical: https://bc1984.com/deadnet-vs-the-word/
 feature_image: /images/2026/03/dit-op.jpg
----
+-->

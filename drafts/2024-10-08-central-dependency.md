@@ -181,9 +181,7 @@ Until the coming of Valhalla (Ancapistan), take what measures you can to protect
 
 STOCK UP
 
----
-
----
+<!--
 title: Central Dependency
 slug: central-dependency
 status: draft
@@ -192,4 +190,4 @@ date: '2024-10-08'
 updated: '2026-07-18'
 author: bc1984adam
 feature_image: /images/2024/10/GYZBHjiWsAABa3C.jpeg
----
+-->

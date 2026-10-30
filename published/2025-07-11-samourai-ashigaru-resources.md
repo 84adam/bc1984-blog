@@ -70,9 +70,7 @@ Defi Education Fund: Prosecuting Privacy: Examining Samourai Wallet, Money Trans
 The Rage: New Samourai Indictment Paints Anonymity As A Crime  
 <https://www.therage.co/samourai-wallet-new-indictment/>
 
----
-
----
+<!--
 title: Samourai & Ashigaru Resources
 slug: samourai-ashigaru-resources
 status: published
@@ -82,4 +80,4 @@ updated: '2025-07-11'
 author: bc1984adam
 canonical: https://bc1984.com/samourai-ashigaru-resources/
 feature_image: /images/2025/07/ashigaru-illustration-2.png
----
+-->

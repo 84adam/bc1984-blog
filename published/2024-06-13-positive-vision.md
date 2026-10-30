@@ -117,9 +117,7 @@ Some additional sources of inspiration that I've drawn upon over the years:
 
 ### *"Whoever defends his own rights defends the rights of all."* *– Ayn Rand*
 
----
-
----
+<!--
 title: 'Positive Vision: Build'
 slug: positive-vision
 status: published
@@ -129,4 +127,4 @@ updated: '2024-06-13'
 author: bc1984adam
 canonical: https://bc1984.com/positive-vision/
 feature_image: /images/2024/06/v-img-1.jpeg
----
+-->

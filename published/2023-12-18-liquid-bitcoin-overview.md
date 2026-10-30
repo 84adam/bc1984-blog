@@ -92,9 +92,7 @@ More on Privacy here:
 
 ![](/images/2026/05/privacy-decision-tree.png)
 
----
-
----
+<!--
 title: Liquid Bitcoin (L-BTC) Overview
 slug: liquid-bitcoin-overview
 status: published
@@ -104,4 +102,4 @@ updated: '2026-05-31'
 author: bc1984adam
 canonical: https://bc1984.com/liquid-bitcoin-overview/
 feature_image: /images/2023/12/Screenshot_2023-12-18_07-43-11.png
----
+-->

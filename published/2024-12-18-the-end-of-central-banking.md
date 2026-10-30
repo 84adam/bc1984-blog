@@ -62,9 +62,7 @@ if you wish to get a comment added to the blog post, just email me at (email on 
 
 cheers ~
 
----
-
----
+<!--
 title: The End of Central Banking?
 slug: the-end-of-central-banking
 status: published
@@ -74,4 +72,4 @@ updated: '2024-12-18'
 author: bc1984adam
 canonical: https://bc1984.com/the-end-of-central-banking/
 feature_image: /images/2024/12/dreary-chicago-gold-bitcoin-rain.png
----
+-->

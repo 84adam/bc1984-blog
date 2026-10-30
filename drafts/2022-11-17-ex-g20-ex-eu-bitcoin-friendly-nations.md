@@ -46,9 +46,7 @@ Bangladesh, Egypt, Mauritius, Netherlands, Nigeria, Oman, Singapore, Spain, UAE
 - <https://www.thecoinrepublic.com/2022/07/30/gibraltar-mp-albert-isola-reveals-holdings-in-btc-gibraltar-on-a-rise/> (July 30, 2022)
 - <https://news.bloombergtax.com/daily-tax-report-international/insight-taxation-of-cryptocurrency-in-georgia> (December 16, 2019)
 
----
-
----
+<!--
 title: Ex-G20, Ex-EU Bitcoin Friendly Nations
 slug: ex-g20-ex-eu-bitcoin-friendly-nations
 status: draft
@@ -58,4 +56,4 @@ updated: '2023-06-20'
 author: bc1984adam
 feature_image: /images/2022/11/g20-countries.png
 excerpt: Capital goes where it's treated best. Let the jurisdictional arbitrage commence!
----
+-->

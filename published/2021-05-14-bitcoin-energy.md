@@ -30,9 +30,7 @@ With bitcoin, all mining efforts contribute to the total hash rate, and are acco
 
 Bitcoin Energy is never wasted. Bitcoin Energy is forever.
 
----
-
----
+<!--
 title: Bitcoin Energy
 slug: bitcoin-energy
 status: published
@@ -42,4 +40,4 @@ updated: '2024-01-26'
 author: bc1984adam
 canonical: https://bc1984.com/bitcoin-energy/
 feature_image: /images/2021/05/neon-3b.jpg
----
+-->
